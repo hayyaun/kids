@@ -12,3 +12,11 @@ a = int(input("Enter a: "))
 b = int(input("Enter b: "))
 
 sum = a + b
+sub = a - b
+mult = a * b
+div = a / b
+
+print("a + b = ", sum)
+# ...
+# ...
+# ...
