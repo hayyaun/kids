@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "bierner.markdown-mermaid",
+    "mermaidchart.vscode-mermaid-chart",
+    "donjayamanne.python-extension-pack",
+    "ms-toolsai.jupyter"
+  ]
+}
