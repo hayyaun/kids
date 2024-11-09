@@ -21,4 +21,4 @@ Below is the list of our sessions:
 
 Leveled exercises for students to practice.
 
-- Exercise 1 -
+- Exercise 1 - Print to Terminal
