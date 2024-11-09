@@ -2,6 +2,8 @@ This repository is for students to learn basics of python along with flowcharts.
 
 # Prerequisites
 
+Please install the following applications:
+
 - [Install Git](https://git-scm.com/downloads)
 - [Install Python](https://www.python.org/downloads/release/python-3130/)
 - [Install VSCode](https://code.visualstudio.com/)
