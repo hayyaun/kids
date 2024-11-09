@@ -1,22 +1,6 @@
-# Create a simple calulator
-# that receives two numbers a and b from the terminal
-# and shows the `summation`, `substraction`, `multiplication` and `division`
-# of that two number
+# Print a, b, c, d
 
-# hint: `input` function receives a text from terminal.
-# note: we will learn about `int()` later.
-
-# Complete this code:
-
-a = int(input("Enter a: "))
-b = int(input("Enter b: "))
-
-sum = a + b
-sub = a - b
-mult = a * b
-div = a / b
-
-print("a + b = ", sum)
-# ...
-# ...
-# ...
+a = 2
+b = 8
+c = "Hi"
+d = "Nodet"
