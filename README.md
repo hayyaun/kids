@@ -11,7 +11,7 @@ Please install the following applications:
 ## Sessions
 
 Codes related to each session of the class.
-Please download or clone this repository to your local machine.
+Please **download** this repository into your local machine.
 And then go to sessions folder to see each session codes.
 Below is the list of our sessions:
 
@@ -19,6 +19,35 @@ Below is the list of our sessions:
 
 ## Exercises
 
-Leveled exercises for students to practice.
+Leveled exercises for students to practice. Each exercise has 5 score, the students who solve most of the exercises will be added to the final **Gaming Project**!
 
 - Exercise 1 - Print to Terminal
+
+## Research Topics
+
+Pick any of the below topics to research about it and prepare a presentation for session 7 of our class:
+
+> For more info you can check the [roadmap.sh](https://roadmap.sh) website.
+
+| Topic                 | Picked By          |
+| --------------------- | ------------------ |
+| Frontend              |                    |
+| Backend               |                    |
+| DevOps                |                    |
+| Full Stack            |                    |
+| AI Engineer           |                    |
+| Data Analyst          |                    |
+| AI and Data Scientist |                    |
+| Android               |                    |
+| iOS                   |                    |
+| PostgreSQL            |                    |
+| Blockchain ✅         | `Noyan Golalizade` |
+| QA                    |                    |
+| Software Architect    |                    |
+| Cyber Security        |                    |
+| UX Design             |                    |
+| Game Developer        |                    |
+| Technical Writer      |                    |
+| MLOps                 |                    |
+| Product Manager       |                    |
+| Developer Relations   |                    |

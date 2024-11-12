@@ -2,6 +2,7 @@
   "recommendations": [
     "bierner.markdown-mermaid",
     "donjayamanne.python-extension-pack",
-    "ms-toolsai.jupyter"
+    "ms-toolsai.jupyter",
+    "cweijan.vscode-office"
   ]
 }
