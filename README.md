@@ -29,13 +29,13 @@ Pick any of the below topics to research about it and prepare a presentation for
 
 > For more info you can check the [roadmap.sh](https://roadmap.sh) website.
 
-| Topic                  | Picked By | Topic              | Picked By          |
-| ---------------------- | --------- | ------------------ | ------------------ |
-| Frontend               |           | Blockchain ✅      | `Noyan Golalizade` |
-| Backend                |           | QA                 |                    |
-| DevOps                 |           | Software Architect |                    |
-| Full Stack             |           | Cyber Security     |                    |
-| AI Engineer            |           | UX Design          |                    |
-| Data Analyst           |           | Game Developer     |                    |
-| AI and Data Scientist  |           | Technical Writer   |                    |
-| Mobile (iOS / Android) |           | Product Manager    |                    |
+| Topic          | Picked By | Topic              | Picked By          |
+| -------------- | --------- | ------------------ | ------------------ |
+| Frontend       |           | Blockchain ✅      | `Noyan Golalizade` |
+| Backend        |           | QA                 |                    |
+| DevOps         |           | Software Architect |                    |
+| Full Stack     |           | Cyber Security     |                    |
+| AI Engineer    |           | UX Design          |                    |
+| Data Analyst   |           | Game Developer     |                    |
+| Data Scientist |           | Technical Writer   |                    |
+| Mobile         |           | Product Manager    |                    |
