@@ -29,25 +29,13 @@ Pick any of the below topics to research about it and prepare a presentation for
 
 > For more info you can check the [roadmap.sh](https://roadmap.sh) website.
 
-| Topic                 | Picked By          |
-| --------------------- | ------------------ |
-| Frontend              |                    |
-| Backend               |                    |
-| DevOps                |                    |
-| Full Stack            |                    |
-| AI Engineer           |                    |
-| Data Analyst          |                    |
-| AI and Data Scientist |                    |
-| Android               |                    |
-| iOS                   |                    |
-| PostgreSQL            |                    |
-| Blockchain ✅         | `Noyan Golalizade` |
-| QA                    |                    |
-| Software Architect    |                    |
-| Cyber Security        |                    |
-| UX Design             |                    |
-| Game Developer        |                    |
-| Technical Writer      |                    |
-| MLOps                 |                    |
-| Product Manager       |                    |
-| Developer Relations   |                    |
+| Topic                  | Picked By | Topic              | Picked By          |
+| ---------------------- | --------- | ------------------ | ------------------ |
+| Frontend               |           | Blockchain ✅      | `Noyan Golalizade` |
+| Backend                |           | QA                 |                    |
+| DevOps                 |           | Software Architect |                    |
+| Full Stack             |           | Cyber Security     |                    |
+| AI Engineer            |           | UX Design          |                    |
+| Data Analyst           |           | Game Developer     |                    |
+| AI and Data Scientist  |           | Technical Writer   |                    |
+| Mobile (iOS / Android) |           | Product Manager    |                    |
