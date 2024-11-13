@@ -42,8 +42,8 @@ if __name__ == '__main__':
         ball.sety(ball.ycor() + ball.dy)
 
         # Checking hit borders
-        check_hit_borders(ball, 480, 280, score_board,
-                          update_scores=lambda: show_scores(score_board))
+        def update_scores(): return show_scores(score_board)
+        check_hit_borders(ball, 480, 280, score_board, update_scores)
 
         # Paddle ball collision
         check_ball_paddle_collision(ball, left_pad, right_pad)
