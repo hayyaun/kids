@@ -1,5 +1,26 @@
 
-def add_keyboard_bindings(screen, paddle_left_up, paddle_left_down, paddle_right_up, paddle_right_down):
+
+def paddle_up(pad):
+    y = pad.ycor()
+    if y < 250:  # TODO check if y is less than 250
+        y += 20  # TODO then move pad up +20 and set y
+        pad.sety(y)  # TODO and set y on paddle
+
+
+def paddle_down(pad):
+    y = pad.ycor()
+    if y > -240:  # TODO check if y is bigger than 250
+        y -= 20  # TODO then move pad down -20 and set y
+        pad.sety(y)  # TODO and set y on paddle
+
+
+def add_keyboard_bindings(screen, left_pad, right_pad):
+
+    def paddle_left_up(): return paddle_up(left_pad)
+    def paddle_left_down(): return paddle_down(left_pad)
+    def paddle_right_up(): return paddle_up(right_pad)
+    def paddle_right_down(): return paddle_down(right_pad)
+
     screen.listen()
     # listen for key 'w' and call paddle_left_up
     screen.onkeypress(paddle_left_up, "w")  # TODO
