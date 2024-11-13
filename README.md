@@ -16,14 +16,16 @@ Please **download** this repository into your local machine.
 And then go to sessions folder to see each session codes.
 Below is the list of our sessions:
 
-- **Session 1** - Hello world!
+- **Session 1** - [Hello world!](/sessions/session-1.ipynb)
+- **Session 2** - [Variables & Data Types](/sessions/session-2.ipynb)
 
 ## Exercises
 
 Leveled exercises for students to practice.
 Each exercise has 5 score, the students who solve most of the exercises will be added to the final **Gaming Project**!
 
-- **Exercise 1** - Print to Terminal
+- **Exercise 1** - [Print to Terminal](/exercises/exercise-1.py)
+- **Exercise 2** - [Calculator](/exercises/exercise-2.py)
 
 ## Research Topics
 
