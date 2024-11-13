@@ -1,17 +1,22 @@
 
+# Functions to move paddle
+
 
 def paddle_up(pad):
     y = pad.ycor()
-    if y < 250:  # TODO check if y is less than 250
+    if y < 250:  # check if paddle y is less than 250
         y += 20  # TODO then move pad up +20 and set y
-        pad.sety(y)  # TODO and set y on paddle
+        pad.sety(y)
 
 
 def paddle_down(pad):
     y = pad.ycor()
-    if y > -240:  # TODO check if y is bigger than 250
+    if y > -240:  # check if paddle y is bigger than -240
         y -= 20  # TODO then move pad down -20 and set y
-        pad.sety(y)  # TODO and set y on paddle
+        pad.sety(y)
+
+
+# Create Keyboard Bindings to move paddles
 
 
 def add_keyboard_bindings(screen, left_pad, right_pad):

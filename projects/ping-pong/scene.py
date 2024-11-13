@@ -1,5 +1,7 @@
 import turtle
 
+# Create scence elements: Screen, Ball, Paddles
+
 
 def create_screen(width, height):
     screen = turtle.Screen()  # initiate a screen using turtle library

@@ -23,13 +23,11 @@ if __name__ == '__main__':
     ball.dx = 5
     ball.dy = -5
 
-    # Initialize the scores
-    left_player = 0
-    right_player = 0
-
     # Displays the score board
     score_board = create_score_board()
-    show_scores(score_board, left_player, right_player)
+    score_board.left_player = 0
+    score_board.right_player = 0
+    show_scores(score_board)
 
     # Keyboard bindings - for paddle movement
     add_keyboard_bindings(screen, left_pad, right_pad)
@@ -44,8 +42,8 @@ if __name__ == '__main__':
         ball.sety(ball.ycor() + ball.dy)
 
         # Checking hit borders
-        check_hit_borders(ball, 480, 280, left_player, right_player,
-                          update_scores=lambda: show_scores(score_board, left_player, right_player))
+        check_hit_borders(ball, 480, 280, score_board,
+                          update_scores=lambda: show_scores(score_board))
 
         # Paddle ball collision
         check_ball_paddle_collision(ball, left_pad, right_pad)

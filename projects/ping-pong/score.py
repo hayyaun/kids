@@ -1,6 +1,7 @@
 import turtle
 
 
+# Create score board
 def create_score_board():
     score_board = turtle.Turtle()
     score_board.speed(0)  # TODO scoreboard has 0 speed
@@ -11,8 +12,11 @@ def create_score_board():
     return score_board
 
 
-def show_scores(score_board, left_player, right_player):
+# Show scores of each player
+def show_scores(score_board,):
     score_board.clear()
-    # TODO write scores
-    scores = f"Left_player : {left_player}    Right_player: {right_player}"
-    score_board.write(scores, align="center", font=("Courier", 24, "normal"))
+    left_score = score_board.left_player
+    right_score = score_board.right_player
+    scores = f"Left: {left_score}       Right: {right_score}"
+    # TODO write scores, aligned at center, with a good font
+    score_board.write(scores, align="center", font=("Courier", 18, "normal"))

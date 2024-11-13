@@ -1,4 +1,9 @@
-def check_hit_borders(ball, lim_x, lim_y, left_player, right_player, update_scores):
+
+
+# Check if Ball hits border
+
+
+def check_hit_borders(ball, lim_x, lim_y, score_board, update_scores):
 
     ball_x = ball.xcor()
     ball_y = ball.ycor()
@@ -19,7 +24,7 @@ def check_hit_borders(ball, lim_x, lim_y, left_player, right_player, update_scor
         ball.goto(0, 0)  # TODO go to (0,0) coordinate
         ball.dy *= -1  # TODO reverse dy
         # Left player Scored
-        left_player += 1  # TODO increase left player score
+        score_board.left_player += 1  # TODO increase left player score
         update_scores()
 
     # if ball x is less than limit x, right player is scored!
@@ -28,5 +33,5 @@ def check_hit_borders(ball, lim_x, lim_y, left_player, right_player, update_scor
         ball.goto(0, 0)  # TODO go to (0,0) coordinate
         ball.dy *= -1  # TODO reverse dy
         # Right player Scored
-        right_player += 1  # TODO increase right player score
+        score_board.right_player += 1  # TODO increase right player score
         update_scores()
