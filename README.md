@@ -54,3 +54,13 @@ Pick any of the below topics to research about it and prepare a presentation for
 | 6.  | Data Analyst   |           | 14. | Game Developer     |              |
 | 7.  | Data Scientist |           | 15. | Technical Writer   |              |
 | 8.  | Mobile         |           | 16. | Product Manager    |              |
+
+## ⭐ Scores
+
+Below are the scores of the students, whoever reaches score 50 ⭐ would be added to the final Game Project.
+
+| Full Name  | Ex 1 | Ex 2 | Ex 3 | Ex 4 | Ex 5 | Ex 6 | Ex 7 | Ex 8 | Ex 9 | Lecture | Helps | Total |
+| ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ------- | ----- | ----- |
+| Noyan Gol. | ✅   |      |      |      |      |      |      |      |      | ✅      | 1     | 16    |
+| Barsam     |      |      |      |      |      |      |      |      |      |         | 1     | 1     |
+| Sepehrad   | ✅   |      |      |      |      |      |      |      |      |         |       | 5     |
