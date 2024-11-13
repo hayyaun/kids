@@ -9,6 +9,17 @@ Please install the following applications:
 - [Install Python](https://www.python.org/downloads/release/python-3130/)
 - [Install VSCode](https://code.visualstudio.com/)
 
+## Learning
+
+Below are the list of things students will learn during class or Game Project:
+
+- **Basics of Coding** (Python)
+- **Flowcharts** (Mermaid)
+- **VSCode shortcuts**
+- **Terminal** (cmd.exe)
+- **Git, Github**
+- **Debugging**
+
 ## Sessions
 
 Codes related to each session of the class.
