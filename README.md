@@ -1,33 +1,3 @@
-## title {.tabset .tabset-fade}
-
-content above tabbed region.
-
-### tab Social-Media
-
-tab content Social-Media
-
-### tab Contact
-
-tab content Contact
-
-### tab Revisions
-
-tab content Revisions
-
-### tab Articles
-
-tab content Articles
-
-### tab Skills
-
-tab content Skills
-
-### tab Insights
-
-tab content Insights
-
-content below tabbed region
-
 This repository is for students to learn basics of python along with flowcharts.
 
 # Prerequisites
@@ -52,3 +22,20 @@ Below is the list of our sessions:
 Leveled exercises for students to practice. Each exercise has 5 score, the students who solve most of the exercises will be added to the final **Gaming Project**!
 
 - **Exercise 1** - Print to Terminal
+
+## Research Topics
+
+Pick any of the below topics to research about it and prepare a presentation for session 7 of our class:
+
+> For more info you can check the [roadmap.sh](https://roadmap.sh) website.
+
+| Topic          | Picked By | Topic              | Picked By     |
+| -------------- | --------- | ------------------ | ------------- |
+| Frontend       |           | Blockchain ✅      | `Noyan Gol..` |
+| Backend        |           | QA                 |               |
+| DevOps         |           | Software Architect |               |
+| Full Stack     |           | Cyber Security     |               |
+| AI Engineer    |           | UX Design          |               |
+| Data Analyst   |           | Game Developer     |               |
+| Data Scientist |           | Technical Writer   |               |
+| Mobile         |           | Product Manager    |               |
