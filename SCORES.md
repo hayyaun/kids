@@ -1,1 +1,0 @@
-Scores of each exercise
