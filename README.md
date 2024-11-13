@@ -1,6 +1,6 @@
 This repository is for students to learn basics of python along with flowcharts.
 
-# Prerequisites
+## Prerequisites
 
 Please install the following applications:
 
@@ -19,7 +19,8 @@ Below is the list of our sessions:
 
 ## Exercises
 
-Leveled exercises for students to practice. Each exercise has 5 score, the students who solve most of the exercises will be added to the final **Gaming Project**!
+Leveled exercises for students to practice.
+Each exercise has 5 score, the students who solve most of the exercises will be added to the final **Gaming Project**!
 
 - **Exercise 1** - Print to Terminal
 
