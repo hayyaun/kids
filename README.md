@@ -1,4 +1,5 @@
-This repository is for students to learn basics of python along with flowcharts.
+This repository is for students to learn basics of python along with flowcharts.  
+If you have **any question** you can start a converstation in the [Discussion](https://github.com/hayyaun/kids/discussions) section.
 
 ## Prerequisites
 
