@@ -1,13 +1,16 @@
-def check_hit_borders(ball, dx, dy, update_scores):
-    if ball.ycor() > dy:
+def check_hit_borders(ball, dx, dy, left_player, right_player, update_scores):
+    ball_x = ball.xcor()
+    ball_y = ball.ycor()
+
+    if ball_y > dy:
         ball.sety(dy)
         ball.dy *= -1
 
-    if ball.ycor() < -dy:
+    elif ball_y < -dy:
         ball.sety(-dy)
         ball.dy *= -1
 
-    if ball.xcor() > dx:
+    elif ball_x > dx:
         # Reset ball position
         ball.goto(0, 0)
         ball.dy *= -1
@@ -15,7 +18,7 @@ def check_hit_borders(ball, dx, dy, update_scores):
         left_player += 1
         update_scores()
 
-    if ball.xcor() < -dx:
+    elif ball_x < -dx:
         # Reset ball position
         ball.goto(0, 0)
         ball.dy *= -1

@@ -13,5 +13,6 @@ def create_score_board():
 
 def show_scores(score_board, left_player, right_player):
     score_board.clear()
+    # TODO write scores
     scores = f"Left_player : {left_player}    Right_player: {right_player}"
     score_board.write(scores, align="center", font=("Courier", 24, "normal"))

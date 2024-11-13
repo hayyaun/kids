@@ -50,7 +50,7 @@ if __name__ == '__main__':
         ball.sety(ball.ycor() + ball.dy)
 
         # Checking hit borders
-        check_hit_borders(ball, 480, 280,
+        check_hit_borders(ball, 480, 280, left_player, right_player,
                           update_scores=lambda: show_scores(score_board, left_player, right_player))
 
         # Paddle ball collision
