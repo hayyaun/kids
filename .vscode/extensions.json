@@ -3,6 +3,7 @@
     "bierner.markdown-mermaid",
     "donjayamanne.python-extension-pack",
     "ms-toolsai.jupyter",
-    "cweijan.vscode-office"
+    "cweijan.vscode-office",
+    "gruntfuggly.todo-tree"
   ]
 }
