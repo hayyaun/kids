@@ -44,13 +44,13 @@ Pick any of the below topics to research about it and prepare a presentation for
 
 > For more info you can check the [roadmap.sh](https://roadmap.sh) website.
 
-|     | Topic          | Picked By |     | Topic              | Picked By     |
-| --- | -------------- | --------- | --- | ------------------ | ------------- |
-| 1.  | Frontend       |           | 9.  | Blockchain ✅      | `Noyan Gol..` |
-| 2.  | Backend        |           | 10. | QA                 |               |
-| 3.  | DevOps         |           | 11. | Software Architect |               |
-| 4.  | Full Stack     |           | 12. | Cyber Security     |               |
-| 5.  | AI Engineer    |           | 13. | UX Design          |               |
-| 6.  | Data Analyst   |           | 14. | Game Developer     |               |
-| 7.  | Data Scientist |           | 15. | Technical Writer   |               |
-| 8.  | Mobile         |           | 16. | Product Manager    |               |
+|     | Topic          | Picked By |     | Topic              | Picked By    |
+| --- | -------------- | --------- | --- | ------------------ | ------------ |
+| 1.  | Frontend       |           | 9.  | Blockchain ✅      | `Noyan Gol.` |
+| 2.  | Backend        |           | 10. | QA                 |              |
+| 3.  | DevOps         |           | 11. | Software Architect |              |
+| 4.  | Full Stack     |           | 12. | Cyber Security     |              |
+| 5.  | AI Engineer    |           | 13. | UX Design          |              |
+| 6.  | Data Analyst   |           | 14. | Game Developer     |              |
+| 7.  | Data Scientist |           | 15. | Technical Writer   |              |
+| 8.  | Mobile         |           | 16. | Product Manager    |              |
