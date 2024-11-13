@@ -1,15 +1,13 @@
 import time
 import turtle
 
-from ball import create_ball
 from borders import check_hit_borders
 from collision import check_ball_paddle_collision
 from keyboard import add_keyboard_bindings
 from move_paddle import (paddle_left_down, paddle_left_up, paddle_right_down,
                          paddle_right_up)
-from paddle import create_paddle
+from scene import create_ball, create_paddle, create_screen
 from score import create_score_board, show_scores
-from screen import create_screen
 
 if __name__ == '__main__':
 
@@ -35,7 +33,7 @@ if __name__ == '__main__':
     score_board = create_score_board()
     show_scores(score_board, left_player, right_player)
 
-    # Keyboard bindings
+    # Keyboard bindings - for paddle movement
     add_keyboard_bindings(screen,
                           lambda: paddle_left_up(left_pad),
                           lambda: paddle_left_down(left_pad),
@@ -47,6 +45,7 @@ if __name__ == '__main__':
         screen.update()
         time.sleep(0.01)  # Add delay to make game smoother
 
+        # Update ball x, y
         ball.setx(ball.xcor() + ball.dx)
         ball.sety(ball.ycor() + ball.dy)
 
