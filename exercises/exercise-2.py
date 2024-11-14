@@ -10,12 +10,12 @@
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))
 
-sum = a + b
-sub = a - b
-mult = a * b
-div = a / b
+sum = a + b  # calculate summation
+# TODO calculate subtraction
+# TODO calculate multiplicatoin
+# TODO calculate division
 
 print("a + b = ", sum)
-# ...
-# ...
-# ...
+# TODO ...
+# TODO ...
+# TODO ...

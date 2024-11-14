@@ -4,7 +4,7 @@
 
 # Complete this code:
 
-n = int(input('Enter a number: '))
+# TODO get the number n from user
 
 i = 2
 while i < n:
