@@ -49,7 +49,7 @@ Pick any of the below topics to research about it and prepare a presentation for
 | 1.  | Frontend       |           | 9.  | Blockchain ✅      | `Noyan Gol.` |
 | 2.  | Backend        |           | 10. | QA                 |              |
 | 3.  | DevOps         |           | 11. | Software Architect |              |
-| 4.  | Full Stack     |           | 12. | Cyber Security ✅  | `H.P.?`      |
+| 4.  | Full Stack     |           | 12. | Cyber Security ✅  | `H.P?`       |
 | 5.  | AI Engineer    |           | 13. | UX Design          |              |
 | 6.  | Data Analyst   |           | 14. | Game Developer     |              |
 | 7.  | Data Scientist |           | 15. | Technical Writer   |              |
@@ -62,6 +62,6 @@ Below are the scores of the students, whoever reaches score 50 ⭐ would be adde
 | Full Name  | Ex 1 | Ex 2 | Ex 3 | Ex 4 | Ex 5 | Ex 6 | Ex 7 | Ex 8 | Ex 9 | Lecture | Helps | Total |
 | ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ------- | ----- | ----- |
 | Noyan Gol. | ✅   | ✅   |      |      |      |      |      |      |      | ✅      | 1     | 16    |
-| Barsam     | ✅   |      |      |      |      |      |      |      |      |         | 1     | 1     |
+| H.P?       | ✅   |      |      |      |      |      |      |      |      | ✅      |       | 10    |
+| Barsam     | ✅   |      |      |      |      |      |      |      |      |         | 1     | 6     |
 | Sepehrad   | ✅   |      |      |      |      |      |      |      |      |         |       | 5     |
-| H.P.?      | ✅   |      |      |      |      |      |      |      |      | ✅      |       | 5     |
