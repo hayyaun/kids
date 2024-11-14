@@ -49,7 +49,7 @@ Pick any of the below topics to research and prepare a presentation:
 | 1.  | Frontend       |           | 8.  | Blockchain ✅      | `Noyan Gol.` |
 | 2.  | Backend        |           | 9.  | Mobile             |              |
 | 3.  | DevOps         |           | 10. | Software Architect |              |
-| 4.  | Full Stack     |           | 11. | Cyber Security ✅  | `H.P?`       |
+| 4.  | Full Stack     |           | 11. | Cyber Security ✅  | `Amirali H.P.`       |
 | 5.  | AI Engineer    |           | 12. | IoT Engineer       |              |
 | 6.  | Data Analyst   |           | 13. | Game Developer ✅  | `Ali Safaei` |
 | 7.  | Data Scientist |           | 14. | UX Design          |              |
@@ -61,7 +61,7 @@ Below are the scores of the students, whoever reaches score 50 ⭐ would be adde
 | Full Name  | Exercises | Lecture | Works | Helps | Total |
 | ---------- | --------- | ------- | ----- | ----- | ----- |
 | Noyan Gol. | 1️⃣2️⃣ +10  | ✅ +10  | +1    | +2    | 23    |
-| H.P?       | 1️⃣ +5     | ✅ +10  |       |       | 15    |
+| Amirali H.P.       | 1️⃣ +5     | ✅ +10  |       |       | 15    |
 | Ali Safaei | 1️⃣ +5     | ✅ +10  |       |       | 15    |
 | Barsam     | 1️⃣ +5     |         |       | +1    | 6     |
 | Sepehrad   | 1️⃣ +5     |         |       |       | 5     |
