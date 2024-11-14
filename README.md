@@ -61,7 +61,7 @@ Below are the scores of the students, whoever reaches score 50 ⭐ would be adde
 
 | Full Name  | Ex 1 | Ex 2 | Ex 3 | Ex 4 | Ex 5 | Ex 6 | Ex 7 | Ex 8 | Ex 9 | Lecture | Helps | Total |
 | ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ------- | ----- | ----- |
-| Noyan Gol. | ✅   | ✅   |      |      |      |      |      |      |      | ✅      | 2     | 22    |
+| Noyan Gol. | ✅   | ✅   |      |      |      |      |      |      |      | ✅      | +2    | 22    |
 | H.P?       | ✅   |      |      |      |      |      |      |      |      | ✅      |       | 10    |
-| Barsam     | ✅   |      |      |      |      |      |      |      |      |         | 1     | 6     |
+| Barsam     | ✅   |      |      |      |      |      |      |      |      |         | +1    | 6     |
 | Sepehrad   | ✅   |      |      |      |      |      |      |      |      |         |       | 5     |
