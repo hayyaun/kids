@@ -1,5 +1,4 @@
 import time
-import turtle
 
 from borders import check_hit_borders
 from collision import check_ball_paddle_collision
@@ -10,40 +9,37 @@ from score import create_score_board, show_scores
 if __name__ == '__main__':
 
     # Create screen
-    screen = create_screen(1000, 600)
-
+    # FIXME screen = create_screen(1000, 600)
     # Create Left paddle
-    left_pad = create_paddle(-400)
-
+    # FIXME left_pad = create_paddle(-400)
     # Create Right paddle
-    right_pad = create_paddle(400)
-
+    # FIXME right_pad = create_paddle(400)
     # Create a Ball
-    ball = create_ball()
-    ball.dx = 5
-    ball.dy = -5
+    # FIXME ball = create_ball()
+    # FIXME ball.dx = 5
+    # FIXME ball.dy = -5
 
     # Displays the score board
-    score_board = create_score_board()
-    score_board.left_player = 0
-    score_board.right_player = 0
-    show_scores(score_board)
+    # FIXME score_board = create_score_board()
+    # FIXME score_board.left_player = 0
+    # FIXME score_board.right_player = 0
+    # FIXME show_scores(score_board)
 
     # Keyboard bindings - for paddle movement
-    add_keyboard_bindings(screen, left_pad, right_pad)
+    # FIXME add_keyboard_bindings(screen, left_pad, right_pad)
 
     # Main game loop
     while True:
-        screen.update()
+        # FIXME screen.update()
         time.sleep(0.01)  # Add delay to make game smoother
 
         # Update ball x, y
-        ball.setx(ball.xcor() + ball.dx)
-        ball.sety(ball.ycor() + ball.dy)
+        # FIXME ball.setx(ball.xcor() + ball.dx)
+        # FIXME ball.sety(ball.ycor() + ball.dy)
 
         # Checking hit borders
-        def update_scores(): return show_scores(score_board)
-        check_hit_borders(ball, 480, 280, score_board, update_scores)
+        # FIXME def update_scores(): return show_scores(score_board)
+        # FIXME check_hit_borders(ball, 480, 280, score_board, update_scores)
 
         # Paddle ball collision
-        check_ball_paddle_collision(ball, left_pad, right_pad)
+        # FIXME check_ball_paddle_collision(ball, left_pad, right_pad)
