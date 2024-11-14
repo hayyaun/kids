@@ -59,9 +59,9 @@ Pick any of the below topics to research and prepare a presentation for session 
 
 Below are the scores of the students, whoever reaches score 50 ⭐ would be added to the final Game Project.
 
-| Full Name  | Exercises | Works | Lecture | Helps | Total |
-| ---------- | --------- | ----- | ------- | ----- | ----- |
-| Noyan Gol. | 1️⃣2️⃣ = 10 | +1    | ✅ +10  | +2    | 23    |
-| H.P?       | 1️⃣ = 5    |       | ✅ +10  |       | 10    |
-| Barsam     | 1️⃣ = 5    |       |         | +1    | 6     |
-| Sepehrad   | 1️⃣ = 5    |       |         |       | 5     |
+| Full Name  | Exercises | Lecture | Works | Helps | Total |
+| ---------- | --------- | ------- | ----- | ----- | ----- |
+| Noyan Gol. | 1️⃣2️⃣ +10  | ✅ +10  | +1    | +2    | 23    |
+| H.P?       | 1️⃣ +5     | ✅ +10  |       |       | 10    |
+| Barsam     | 1️⃣ +5     |         |       | +1    | 6     |
+| Sepehrad   | 1️⃣ +5     |         |       |       | 5     |
