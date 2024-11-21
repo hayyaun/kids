@@ -69,3 +69,5 @@ Below are the scores of the students, whoever reaches score 50 ⭐ would be adde
 | Sepehrad       | 1️⃣ +5     |         |       |       | 5     |
 | Sam Rezaei.    | 1️⃣ +5     |         |       |       | 5     |
 | Mehdi Zokaei   | 1️⃣ +5     |         |       |       | 5     |
+
+> People with more than 1000 ⭐ are too overqualified for joining final Game Project.
