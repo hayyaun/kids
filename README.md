@@ -52,6 +52,8 @@ Pick any of the below topics to research and prepare a presentation:
 | Data Analyst   |                 | Game Development ✅ | `Ali Safaei`     |
 | Data Scientist |                 | UX Design           |                  |
 
+You can also pick a few names from below to let the class know about:
+
 | People                   | Famous For                                            |
 | ------------------------ | ----------------------------------------------------- |
 | 🗿. **Elon Musk**        | This is e-lon mosk 🗿                                 |
