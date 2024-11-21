@@ -72,16 +72,16 @@ You can also pick a few names from below to let the class know about:
 
 Below are the scores of the students, whoever reaches score 50 ⭐ would be added to the final Game Project.
 
-| Full Name      | Exercises | Lecture | Works | Helps | Total |
-| -------------- | --------- | ------- | ----- | ----- | ----- |
-| Mobin Javan    | 1️⃣ +5     |         |       | +1000 | 1005  |
-| Noyan Gol.     | 1️⃣2️⃣ +10  | ✅ +10  | +1    | +3    | 24    |
-| Nikan Nejati.  | 1️⃣ +5     | ✅ +10  |       | +1    | 16    |
-| Ali Safaei     | 1️⃣ +5     | ✅ +10  |       | +1    | 16    |
-| Amirali Yegane | 1️⃣ +5     | ✅ +10  |       |       | 15    |
-| Barsam         | 1️⃣ +5     |         |       | +1    | 6     |
-| Sepehrad       | 1️⃣ +5     |         |       |       | 5     |
-| Sam Rezaei.    | 1️⃣ +5     |         |       |       | 5     |
-| Mehdi Zokaei   | 1️⃣ +5     |         |       |       | 5     |
+| Full Name         | Exercises | Lecture | Works | Helps | Total |
+| ----------------- | --------- | ------- | ----- | ----- | ----- |
+| 🏆 Mobin Javan    | 1️⃣ +5     |         |       | +1000 | 1005  |
+| 🥇 Noyan Gol.     | 1️⃣2️⃣ +10  | ✅ +10  | +1    | +3    | 24    |
+| 🥈 Nikan Nejati.  | 1️⃣ +5     | ✅ +10  |       | +1    | 16    |
+| 🥉 Ali Safaei     | 1️⃣ +5     | ✅ +10  |       | +1    | 16    |
+| 🏅 Amirali Yegane | 1️⃣ +5     | ✅ +10  |       |       | 15    |
+| 🏅 Barsam         | 1️⃣ +5     |         |       | +1    | 6     |
+| Sepehrad          | 1️⃣ +5     |         |       |       | 5     |
+| Sam Rezaei.       | 1️⃣ +5     |         |       |       | 5     |
+| Mehdi Zokaei      | 1️⃣ +5     |         |       |       | 5     |
 
 > People with more than 1000 ⭐ are too overqualified for joining final Game Project.
