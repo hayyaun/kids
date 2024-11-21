@@ -52,19 +52,19 @@ Pick any of the below topics to research and prepare a presentation:
 | Data Analyst   |                 | Game Development ✅ | `Ali Safaei`     |
 | Data Scientist |                 | UX Design           |                  |
 
-| People                  | Famous For                                            |
-| ----------------------- | ----------------------------------------------------- |
-| 0. **Elon Musk**        | This is e-lon mosk 🗿                                 |
-| 1. **Satoshi Nakamoto** | The mysterious Creator of Bitcoin                     |
-| 2. **Vitalik Butrin**   | Founder of Ethereum                                   |
-| 3. **Linus Torvalds**   | Creator of Linux and Git                              |
-| 4. **Richard Stallman** | The founder of the Free Software Foundation           |
-| 5. **Guido van Rossum** | Creator of Python                                     |
-| 6. **Dennis Ritchie**   | Creator of C language                                 |
-| 7. **Alan Turing**      | The Inventor of the first Computer                    |
-| 8. **Ada Lovelace**     | Wrote the first algorithm for machine                 |
-| 9. **Grace Hopper**     | Developed the first compiler for programming language |
-| 10. **John von Neuman** | Helped creating modern computer architecture          |
+| People                   | Famous For                                            |
+| ------------------------ | ----------------------------------------------------- |
+| 🗿. **Elon Musk**        | This is e-lon mosk 🗿                                 |
+| 🦹🏻‍♀️. **Satoshi Nakamoto** | The mysterious Creator of Bitcoin                     |
+| 👽. **Vitalik Butrin**   | Founder of Ethereum                                   |
+| ❤️. **Linus Torvalds**   | Creator of Linux and Git                              |
+| 🙏. **Richard Stallman** | The founder of the Free Software Foundation           |
+| 🤡. **Guido van Rossum** | Creator of Python                                     |
+| 🫡. **Dennis Ritchie**    | Creator of C language                                 |
+| 😇. **Alan Turing**      | The Father of Computer Science                        |
+| 🤓. **Ada Lovelace**     | Wrote the first algorithm for machine                 |
+| 🤖. **Grace Hopper**     | Developed the first compiler for programming language |
+| 🤩. **John von Neuman**  | Helped creating modern computer architecture          |
 
 ## ⭐ Scores
 
