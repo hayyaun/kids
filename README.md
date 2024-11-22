@@ -79,8 +79,8 @@ Below are the scores of the students, whoever reaches score 50 ⭐ would be adde
 | 🥈 Nikan Nejati.  | ❶❷ +10    | ✅ +10  |       | +1    | 21    |
 | 🥉 Ali Safaei     | ❶ +5      | ✅ +10  |       | +1    | 16    |
 | 🏅 Amirali Yegane | ❶ +5      | ✅ +10  |       |       | 15    |
-| 🏅 Barsam         | ❶ +5      |         |       | +1    | 6     |
-| Sepehrad          | ❶ +5      |         |       |       | 5     |
+| 🏅 Sepehrad       | ❶❷ +10    |         |       |       | 10    |
+| Barsam            | ❶ +5      |         |       | +1    | 6     |
 | Sam Rezaei.       | ❶ +5      |         |       |       | 5     |
 | Mehdi Zokaei      | ❶ +5      |         |       |       | 5     |
 
