@@ -27,16 +27,16 @@ Please **download** this repository into your local machine.
 And then go to sessions folder to see each session codes.
 Below is the list of our sessions:
 
-- **Session 1** - [Hello world!](/sessions/session-1.ipynb)
-- **Session 2** - [Variables & Data Types](/sessions/session-2.ipynb)
+- 🟢 **Session 1** - [Hello world!](/sessions/session-1.ipynb)
+- 🟢 **Session 2** - [Variables & Data Types](/sessions/session-2.ipynb)
 
 ## 🧑‍💻 Exercises
 
 Leveled exercises for students to practice.
 Each exercise has 5 score, the students who solve most of the exercises will be added to the final **Gaming Project**!
 
-- **Exercise 1** - [Print to Terminal](/exercises/exercise-1.py)
-- **Exercise 2** - [Calculator](/exercises/exercise-2.py)
+- 🟢 **Exercise 1** - [Print to Terminal](/exercises/exercise-1.py)
+- 🟢 **Exercise 2** - [Calculator](/exercises/exercise-2.py)
 
 ## 💡 Research Topics
 
@@ -74,14 +74,14 @@ Below are the scores of the students, whoever reaches score 50 ⭐ would be adde
 
 | Full Name         | Exercises | Lecture | Works | Helps | Total |
 | ----------------- | --------- | ------- | ----- | ----- | ----- |
-| 🏆 Mobin Javan    | +1000     | +1000   | +1000 | +1000 | 4005  |
-| 🥇 Noyan Gol.     | 1️⃣2️⃣ +10  | ✅ +10  | +1    | +3    | 24    |
-| 🥈 Nikan Nejati.  | 1️⃣ +5     | ✅ +10  |       | +1    | 16    |
-| 🥉 Ali Safaei     | 1️⃣ +5     | ✅ +10  |       | +1    | 16    |
-| 🏅 Amirali Yegane | 1️⃣ +5     | ✅ +10  |       |       | 15    |
-| 🏅 Barsam         | 1️⃣ +5     |         |       | +1    | 6     |
-| Sepehrad          | 1️⃣ +5     |         |       |       | 5     |
-| Sam Rezaei.       | 1️⃣ +5     |         |       |       | 5     |
-| Mehdi Zokaei      | 1️⃣ +5     |         |       |       | 5     |
+| 🏆 Mobin Javan    | +1000     | +1000   | +1000 | +1000 | 4000  |
+| 🥇 Noyan Gol.     | ❶❷ +10    | ✅ +10  | +1    | +3    | 24    |
+| 🥈 Nikan Nejati.  | ❶❷ +10    | ✅ +10  |       | +1    | 21    |
+| 🥉 Ali Safaei     | ❶ +5      | ✅ +10  |       | +1    | 16    |
+| 🏅 Amirali Yegane | ❶ +5      | ✅ +10  |       |       | 15    |
+| 🏅 Barsam         | ❶ +5      |         |       | +1    | 6     |
+| Sepehrad          | ❶ +5      |         |       |       | 5     |
+| Sam Rezaei.       | ❶ +5      |         |       |       | 5     |
+| Mehdi Zokaei      | ❶ +5      |         |       |       | 5     |
 
 > People with more than 1000 ⭐ are too overqualified for joining final Game Project.
