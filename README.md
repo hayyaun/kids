@@ -76,10 +76,11 @@ Below are the scores of the students, whoever reaches score 50 ⭐ would be adde
 | ----------------- | --------- | ------- | ----- | ----- | ----- |
 | 🏆 Mobin Javan    | +1000     | +1000   | +1000 | +1000 | 4000  |
 | 🥇 Noyan Gol.     | ❶❷ +10    | ✅ +10  | +1    | +3    | 24    |
-| 🥈 Nikan Nejati.  | ❶❷ +10    | ✅ +10  |       | +1    | 21    |
+| 🥈 Nikan Nejati.  | ❶❷ +10    | ✅ +10  |       | +2    | 21    |
 | 🥉 Ali Safaei     | ❶ +5      | ✅ +10  |       | +1    | 16    |
 | 🏅 Amirali Yegane | ❶ +5      | ✅ +10  |       |       | 15    |
 | 🏅 Sepehrad       | ❶❷ +10    |         |       |       | 10    |
+| 💀 Barbod Dalirs. | ❶❷ +10    |         |       |       |       |
 | Barsam            | ❶ +5      |         |       | +1    | 6     |
 | Sam Rezaei.       | ❶ +5      |         |       |       | 5     |
 | Mehdi Zokaei      | ❶ +5      |         |       |       | 5     |
