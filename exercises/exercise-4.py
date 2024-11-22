@@ -10,7 +10,7 @@ print(a, b, end=' ')
 
 i = 0
 while i < n:
-    # TODO store `a` in another temporary variable
+    # TODO store `a` in a temporary variable
     # TODO update `a`
     # TODO update `b`
     # TODO print `b`
