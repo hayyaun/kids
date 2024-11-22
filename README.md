@@ -74,7 +74,7 @@ Below are the scores of the students, whoever reaches score 50 ⭐ would be adde
 
 | Full Name         | Exercises | Lecture | Works | Helps | Total |
 | ----------------- | --------- | ------- | ----- | ----- | ----- |
-| 🏆 Mobin Javan    | +1000     | +1000   | +1000 | +1000 | 4000  |
+| 🏆 Mobin Javan    | +1000     | +1000   | +1000 | +1000 | ∞     |
 | 🥇 Noyan Gol.     | ❶❷ +10    | ✅ +10  | +1    | +3    | 24    |
 | 🥈 Nikan Nejati.  | ❶❷ +10    | ✅ +10  |       | +1    | 21    |
 | 🥉 Ali Safaei     | ❶ +5      | ✅ +10  |       | +1    | 16    |
