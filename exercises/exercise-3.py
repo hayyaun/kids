@@ -6,15 +6,12 @@
 
 # TODO get the number n from user
 
-i = 2
-while i < n:
+for i in range(2, n):
     is_primary = True  # flag
-    j = 2
-    while j < i:
-        if i % j == 0:
+    
+    # TODO for j in range(2, i):
+        # TODO if i % j == 0:
             # TODO set is primary False
-            break  # stop the loop
-        # TODO increment j
+            # TODO stop the loop
 
     # TODO print number if primary
-    # TODO increment i
