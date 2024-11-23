@@ -54,19 +54,19 @@ Pick any of the below topics to research and prepare a presentation:
 
 You can also pick a few names from below to let the class know about:
 
-| People                   | Famous For                                            |
-| ------------------------ | ----------------------------------------------------- |
-| 🗿. **Elon Musk**        | This is e-lon mosk 🗿                                 |
-| 🦹🏻‍♀️. **Satoshi Nakamoto** | The mysterious Creator of Bitcoin                     |
-| 👽. **Vitalik Butrin**   | Founder of Ethereum                                   |
-| ❤️. **Linus Torvalds**   | Creator of Linux and Git                              |
-| 🙏. **Richard Stallman** | The founder of the Free Software Foundation           |
-| 🤡. **Guido van Rossum** | Creator of Python                                     |
-| 🫡. **Dennis Ritchie**    | Creator of C language                                 |
-| 😇. **Alan Turing**      | The Father of Computer Science                        |
-| 🤓. **Ada Lovelace**     | Wrote the first algorithm for machine                 |
-| 🤖. **Grace Hopper**     | Developed the first compiler for programming language |
-| 🤩. **John von Neuman**  | Helped creating modern computer architecture          |
+| People                     | Famous For                                            |
+| -------------------------- | ----------------------------------------------------- |
+| 🗿. **Elon Musk**          | This is e-lon mosk 🗿                                 |
+| 🦹🏻‍♀️. **Satoshi Nakamoto**   | The mysterious Creator of Bitcoin                     |
+| 👽. **Vitalik Butrin**     | Founder of Ethereum                                   |
+| ❤️. **Linus Torvalds** +10 | Creator of Linux and Git                              |
+| 🙏. **Richard Stallman**   | The founder of the Free Software Foundation           |
+| 🤡. **Guido van Rossum**   | Creator of Python                                     |
+| 🫡. **Dennis Ritchie**      | Creator of C language                                 |
+| 😇. **Alan Turing**        | The Father of Computer Science                        |
+| 🤓. **Ada Lovelace**       | Wrote the first algorithm for machine                 |
+| 🤖. **Grace Hopper**       | Developed the first compiler for programming language |
+| 🤩. **John von Neuman**    | Helped creating modern computer architecture          |
 
 ## ⭐ Scores
 
