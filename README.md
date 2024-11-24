@@ -44,12 +44,12 @@ Pick any of the below topics to research and prepare a presentation:
 
 | Topic          | Picked By       | Topic               | Picked By                        |
 | -------------- | --------------- | ------------------- | -------------------------------- |
-| Frontend       |                 | Blockchain ✅       | `Noyan Gol.`                     |
-| Backend        |                 | Mobile              |                                  |
+| Frontend       |                 | Mobile              |                                  |
+| Backend        |                 | Blockchain ✅       | `Noyan Gol.`                     |
 | DevOps         |                 | Software Architect  |                                  |
 | Full Stack     |                 | Cyber Security ✅   | `Amirali Yegane` `Barbod Dalir.` |
 | AI Engineer ✅ | `Nikan Nejati.` | IoT Engineer        |                                  |
-| Data Analyst   |                 | Game Development ✅ | `Ali Safaei`                     |
+| Data Analyst   |                 | Game Development ✅ | `Ali Safaei` `Mehdi Zokaei`      |
 | Data Scientist |                 | UX Design           |                                  |
 
 You can also pick a few names from below to let the class know about:
@@ -78,11 +78,11 @@ Below are the scores of the students, whoever reaches score 50 ⭐ would be adde
 | 🥇 Noyan Gol.    | ❶❷ +10    | ✅ +15  | +1    | +3    | 29    |
 | 🥈 Nikan Nejati. | ❶❷ +10    | ✅ +15  |       | +2    | 27    |
 | 🥉 Barbod Dalir. | ❶❷ +10    | ✅ +10  |       | +4    | 24    |
+| Mehdi Zokaei     | ❶ +5      | ✅ +15  |       |       | 20    |
 | Ali Safaei       | ❶ +5      | ✅ +10  |       | +1    | 16    |
 | Amirali Yegane   | ❶ +5      | ✅ +10  |       |       | 15    |
 | Sepehrad         | ❶❷ +10    |         |       |       | 10    |
 | Barsam           | ❶ +5      |         |       | +2    | 7     |
 | Sam Rezaei.      | ❶ +5      |         |       |       | 5     |
-| Mehdi Zokaei     | ❶ +5      |         |       |       | 5     |
 
 > People with more than 1000 ⭐ are too overqualified for joining final Game Project.
