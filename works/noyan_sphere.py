@@ -1,4 +1,6 @@
-# Code by Noyan Golalizade - Sphere calculator
+# code by Noyan Golalizade
+# Sphere calculator
+
 
 print("hi pls enter radius of sphere(!dont enter 0!)")
 a = int(input("enter radius(p is 3.14): "))
