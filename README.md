@@ -1,5 +1,6 @@
 This repository is for students to learn basics of python along with flowcharts.  
-If you have **any question** you can start a converstation in the [Discussion](https://github.com/hayyaun/kids/discussions) section.
+If you have **any question** you can start a converstation in the [Discussion](https://github.com/hayyaun/kids/discussions) section.  
+Or join the [Telegram Channel](https://t.me/nodetcode) and comment under the Q&A section.
 
 ## 🔥 Prerequisites
 
