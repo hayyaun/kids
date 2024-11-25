@@ -71,7 +71,8 @@ You can also pick a few names from below to let the class know about:
 
 ## ⭐ Scores
 
-Below are the scores of the students, whoever reaches score 50 ⭐ would be added to the final Game Project.
+Below are the scores of the students, whoever reaches score 50 ⭐ would be added to the final Game Project.  
+People with more than 1000 ⭐ are too overqualified for joining final Game Project.
 
 | Full Name        | Exercises | Lecture | Works | Helps | Total |
 | ---------------- | --------- | ------- | ----- | ----- | ----- |
@@ -85,5 +86,3 @@ Below are the scores of the students, whoever reaches score 50 ⭐ would be adde
 | Sepehrad         | ❶❷ +10    |         |       |       | 10    |
 | Barsam           | ❶ +5      |         |       | +2    | 7     |
 | Sam Rezaei.      | ❶ +5      |         |       |       | 5     |
-
-> People with more than 1000 ⭐ are too overqualified for joining final Game Project.
