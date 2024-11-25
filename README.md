@@ -6,9 +6,7 @@ Or join the [Telegram Channel](https://t.me/nodetcode) and comment under the Q&A
 
 Please install the following applications:
 
-- [Install Git](https://git-scm.com/downloads)
-- [Install Python](https://www.python.org/downloads/release/python-3130/)
-- [Install VSCode](https://code.visualstudio.com/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/downloads/release/python-3130/) &nbsp; [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads) &nbsp; [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 ## 🧠 Learning
 
