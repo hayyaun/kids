@@ -78,7 +78,7 @@ People with more than 1000 ⭐ are too overqualified for joining final Game Proj
 | ---------------- | --------- | ------- | ----- | ----- | ----- |
 | 🏆 Mobin Javan   | +1000     | +1000   | +1000 | +1000 | ∞     |
 | 🥇 Noyan Gol.    | ❶❷ +10    | ✅ +15  | +1    | +3    | 29    |
-| 🥈 Nikan Nejati. | ❶❷ +10    | ✅ +15  |       | +2    | 27    |
+| 🥈 Nikan Nejati. | ❶❷ +10    | ✅ +15  | +1    | +2    | 28    |
 | 🥉 Mehdi Zokaei  | ❶❷ +10    | ✅ +15  |       |       | 25    |
 | 🏅 Barbod Dalir. | ❶❷ +10    | ✅ +10  |       | +4    | 24    |
 | Ali Safaei       | ❶ +5      | ✅ +10  |       | +1    | 16    |
