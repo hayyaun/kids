@@ -35,8 +35,7 @@ logger = logging.getLogger(__name__)
 def main() -> None:
     """Start the bot."""
     # Create the Application and pass it your bot's token.
-    application = Application.builder().token(
-        "7596636143:AAHzIHUcFojZF1TG_lh8BTjVHS5YAvKOM0U").build()
+    application = Application.builder().token("TOKEN").build()
 
     # on different commands - answer in Telegram
     application.add_handler(CommandHandler("start", start))
