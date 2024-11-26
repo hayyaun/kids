@@ -9,7 +9,7 @@ Or join the [Telegram Channel](https://t.me/nodetcode) and comment under the Q&A
 ### 🔗 Links
 
 - ⭐ [**Scores**](/SCORES.md)
-- 🏆 [**Achievements**](/SCORES.md)
+- 🏆 [**Achievements**](/ACHES.md)
 - 💡 [**Research Topics**](/RESEARCH.md)
 
 ## 🧠 What we learn
