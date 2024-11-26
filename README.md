@@ -8,8 +8,9 @@ Or join the [Telegram Channel](https://t.me/nodetcode) and comment under the Q&A
 
 #### 🔗 Links
 
-- 💡 [**Research Topics**](/RESEARCH.md)
 - ⭐ [**Scores**](/SCORES.md)
+- 🏆 [**Achievements**](/SCORES.md)
+- 💡 [**Research Topics**](/RESEARCH.md)
 
 ## 🧠 What we learn
 
