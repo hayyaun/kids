@@ -52,15 +52,22 @@ Each exercise has 5 score, the students who solve most of the exercises will be 
 
 Pick any of the below topics to research and prepare a presentation:
 
-| Topic          | Picked By       | Topic               | Picked By                        |
-| -------------- | --------------- | ------------------- | -------------------------------- |
-| Frontend       |                 | Mobile              |                                  |
-| Backend        |                 | Blockchain ✅       | `Noyan Gol.`                     |
-| DevOps         |                 | Software Architect  |                                  |
-| Full Stack     |                 | Cyber Security ✅   | `Amirali Yegane` `Barbod Dalir.` |
-| AI Engineer ✅ | `Nikan Nejati.` | IoT Engineer        |                                  |
-| Data Analyst   |                 | Game Development ✅ | `Ali Safaei` `Mehdi Zokaei`      |
-| Data Scientist |                 | UX Design           |                                  |
+| Topic                         | Description                            |
+| ----------------------------- | -------------------------------------- |
+| 1. **Frontend** 🌐            | User-facing web development.           |
+| 2. **Backend** 💻             | Server-side development.               |
+| 3. **DevOps** 🔧              | Combining development and operations.  |
+| 4. **Full Stack** 🖥️          | Both frontend and backend development. |
+| 5. **AI Engineer** 🤖         | Building intelligent systems.          |
+| 6. **Data Analyst** 📊        | Analyzing data for insights.           |
+| 7. **Data Scientist** 📉      | Extracting knowledge from data.        |
+| 8. **Mobile** 📱              | Developing mobile apps.                |
+| 9. **Blockchain** ⛓️          | Decentralized ledger technology.       |
+| 10. **Software Architect** 🏛️ | Designing software structures.         |
+| 11. **Cyber Security** 🛡️     | Protecting against digital threats.    |
+| 12. **IoT Engineer** 🔌       | Connecting devices to the internet.    |
+| 13. **Game Development** 🎮   | Creating video games.                  |
+| 14. **UX Design** 🎨          | Improving user experience.             |
 
 You can also pick a few names from below to let the class know about:
 
@@ -83,15 +90,15 @@ You can also pick a few names from below to let the class know about:
 Below are the scores of the students, whoever reaches score 50 ⭐ would be added to the final Game Project.  
 People with more than 1000 ⭐ are too overqualified for joining final Game Project.
 
-| Full Name        | Exercises | Lecture | Works | Helps | Total |
-| ---------------- | --------- | ------- | ----- | ----- | ----- |
-| 🏆 Mobin Javan   | +1000     | +1000   | +1000 | +1000 | ∞     |
-| 🥇 Mehdi Zokaei  | ❶❷ +10    | ✅ +20  |       | +1    | 31    |
-| 🥈 Noyan Gol.    | ❶❷ +10    | ✅ +15  | +1    | +3    | 29    |
-| 🥉 Nikan Nejati. | ❶❷ +10    | ✅ +15  | +1    | +2    | 28    |
-| 🏅 Barbod Dalir. | ❶❷ +10    | ✅ +10  |       | +4    | 24    |
-| Ali Safaei       | ❶ +5      | ✅ +10  |       | +1    | 16    |
-| Amirali Yegane   | ❶ +5      | ✅ +10  |       |       | 15    |
-| Sepehrad         | ❶❷ +10    |         |       |       | 10    |
-| Barsam           | ❶ +5      |         |       | +2    | 7     |
-| Sam Rezaei.      | ❶ +5      |         |       |       | 5     |
+| Full Name        | Exercises | Lecture   | Works | Helps | Total |
+| ---------------- | --------- | --------- | ----- | ----- | ----- |
+| 🏆 Mobin Javan   | +1000     | +1000     | +1000 | +1000 | ∞     |
+| 🥇 Mehdi Zokaei  | ❶❷ +10    | 3 ✅ +20  |       | +1    | 31    |
+| 🥈 Noyan Gol.    | ❶❷ +10    | 9 ✅ +15  | +1    | +3    | 29    |
+| 🥉 Nikan Nejati. | ❶❷ +10    | 5 ✅ +15  | +1    | +2    | 28    |
+| 🏅 Barbod Dalir. | ❶❷ +10    | 11 ✅ +10 |       | +4    | 24    |
+| Ali Safaei       | ❶ +5      | 13 ✅ +10 |       | +1    | 16    |
+| Amirali Yegane   | ❶ +5      | 11 ✅ +10 |       |       | 15    |
+| Sepehrad         | ❶❷ +10    |           |       |       | 10    |
+| Barsam           | ❶ +5      |           |       | +2    | 7     |
+| Sam Rezaei.      | ❶ +5      |           |       |       | 5     |
