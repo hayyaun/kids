@@ -2,13 +2,11 @@ This repository is for students to learn basics of python along with flowcharts.
 If you have **any question** you can start a converstation in the [Discussion](https://github.com/hayyaun/kids/discussions) section.  
 Or join the [Telegram Channel](https://t.me/nodetcode) and comment under the Q&A section.
 
-## 🔥 Prerequisites
-
-Please install the following applications:
+#### 🔥 Please install the following applications
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/downloads/release/python-3130/) &nbsp; [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads) &nbsp; [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-## 🧠 Learning
+## 🧠 What we learn
 
 Below are the list of things students will learn during class or Game Project:
 
