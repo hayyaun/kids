@@ -18,7 +18,9 @@ People with more than 1000 ⭐ are too overqualified for joining final Game Proj
 
 ## 🏆 Achievements
 
-|                           |                        |                           |
+Students may get this tags inside or out of the class.
+
+| Title                     |                        |                           |
 | ------------------------- | ---------------------- | ------------------------- |
 | 🧩 Problem Solver         | 🔁 Loop Legend         | 🎭 Creative Coder         |
 | 🤝 Collaboration Champion | ⌨️ Keyboard Warrior    | 🐛 Debug Dynamo           |
