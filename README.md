@@ -28,6 +28,12 @@ Below is the list of our sessions:
 
 - 🟢 **Session 1** - [Hello world!](/sessions/session-1.ipynb)
 - 🟢 **Session 2** - [Variables & Data Types](/sessions/session-2.ipynb)
+- 🟢 **Session 3** - [If & Loops](/sessions/session-3.ipynb)
+- 🔴 **Session 4** - [Functions](/sessions/session-4.ipynb)
+- 🔴 **Session 5** - [Collections](/sessions/session-5.ipynb)
+- 🔴 **Session 6** - [Import Module](/sessions/session-6.ipynb)
+- 🔴 **Session 7** - [Install Module](/sessions/session-7.ipynb)
+- 🔴 **Session 8** - [Create Module](/sessions/session-8.ipynb)
 
 ## 🧑‍💻 Exercises
 
@@ -36,6 +42,13 @@ Each exercise has 5 score, the students who solve most of the exercises will be 
 
 - 🟢 **Exercise 1** - [Print to Terminal](/exercises/exercise-1.py)
 - 🟢 **Exercise 2** - [Calculator](/exercises/exercise-2.py)
+- 🟢 **Exercise 3** - [Primary Numbers](/exercises/exercise-3.py)
+- 🔴 **Exercise 4** - [Fibbonacci Series](/exercises/exercise-4.py)
+- 🔴 **Exercise 5** - [Fa-En Dictionary](/exercises/exercise-5.py)
+- 🔴 **Exercise 6-1** - [Number Guessing Game](/exercises/exercise-6-1.py)
+- 🔴 **Exercise 6-2** - [GUI Calculator](/exercises/exercise-6-2.py)
+- 🔴 **Exercise 7** - [Smiley Face 😃](/exercises/exercise-7.py)
+- 🔴 **Exercise 8** - [Anything](/exercises/)
 
 ## 💡 Research Topics
 
