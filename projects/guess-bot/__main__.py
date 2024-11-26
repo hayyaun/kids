@@ -3,7 +3,7 @@
 
 import logging
 
-from handlers import *
+from handle import *
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters
 
@@ -14,12 +14,12 @@ def main() -> None:
     application = Application.builder().token("TOKEN").build()
 
     # on different commands
-    application.add_handler(CommandHandler("start", start))
-    application.add_handler(CommandHandler("help", help_command))
+    application.add_handler(CommandHandler("start", on_start))
+    application.add_handler(CommandHandler("help", on_help))
 
     # on non command i.e message
     application.add_handler(MessageHandler(
-        filters.TEXT & ~filters.COMMAND, guess))
+        filters.TEXT & ~filters.COMMAND, on_message))
 
     # Run the bot until the user presses Ctrl-C
     application.run_polling(allowed_updates=Update.ALL_TYPES)

@@ -11,14 +11,14 @@ def reset_answer(context: ContextTypes.DEFAULT_TYPE) -> None:
 # Command handlers
 
 
-async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+async def on_start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Send a message when the command /start is issued."""
     full_name = update.effective_user.full_name
     reset_answer(context)
     await update.message.reply_html(f"Hi {full_name}!")
 
 
-async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+async def on_help(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Send a message when the command /help is issued."""
     await update.message.reply_text("Help!")
 
@@ -26,7 +26,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
 # Message handlers
 
 
-async def guess(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+async def on_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Check the user message."""
 
     if not 'answer' in context.user_data:
@@ -35,11 +35,11 @@ async def guess(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     answer = context.user_data.get('answer', None)
 
     try:
-        number = int(update.message.text)
-        if number == answer:
+        guess = int(update.message.text)
+        if guess == answer:
             reset_answer(context)
             await update.message.reply_text("Right!")
-        elif number < answer:
+        elif guess < answer:
             await update.message.reply_text("Wrong! Go up..")
         else:
             await update.message.reply_text("Wrong! Go down..")
