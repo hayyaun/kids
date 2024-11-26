@@ -51,4 +51,4 @@ Each exercise has 5 score, the students who solve most of the exercises will be 
 - 🔴 **Exercise 6-1** - [Number Guessing Game](/exercises/exercise-6-1.py)
 - 🔴 **Exercise 6-2** - [GUI Calculator](/exercises/exercise-6-2.py)
 - 🔴 **Exercise 7** - [Smiley Face 😃](/exercises/exercise-7.py)
-- 🔴 **Exercise 8** - [Anything](/exercises/)
+- 🔴 **Exercise 8** - Anything!
