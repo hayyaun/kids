@@ -6,8 +6,8 @@ People with more than 1000 ⭐ are too overqualified for joining final Game Proj
 | Full Name        | [Aches](#-achievements) | [Exercises](/exercises/) | [Lecture](/RESEARCH.md) | [Works](/works/) | [Karma](https://github.com/hayyaun/kids/discussions/2) | Total  |
 | ---------------- | ----------------------- | ------------------------ | ----------------------- | ---------------- | ------------------------------------------------------ | ------ |
 | 🏆 Mobin Javan   | 💊                      | ∞                        | ∞                       | ∞                | ∞                                                      | **∞**  |
-| 🥇 Nikan Nejati. | ⚔️ +1                   | `❶❷` +10                 | `05 G2 S3` ✅ +20       | +1               | +2                                                     | **34** |
-| 🥈 Noyan Gol.    | 🚀 +1                   | `❶❷` +10                 | `09 G3 S3` ✅ +20       | +1               | +4                                                     | **31** |
+| 🥇 Noyan Gol.    | 🚀 +1                   | `❶❷` +10                 | `09 G3 S3` ✅ +20       | +1               | +4                                                     | **36** |
+| 🥈 Nikan Nejati. | ⚔️ +1                   | `❶❷` +10                 | `05 G2 S3` ✅ +20       | +1               | +2                                                     | **34** |
 | 🥉 Mehdi Zokaei  |                         | `❶❷` +10                 | `03 G3 S5` ⚠️ +20       |                  | +1                                                     | **31** |
 | 🏅 Barbod Dalir. | 🤝 +1                   | `❶❷` +10                 | `11 G3 S4` ⚠️ +10       |                  | +4                                                     | **25** |
 | Sepehrad         |                         | `❶❷` +10                 | `08 G3 S6` ⚠️ +10       |                  |                                                        | **20** |
