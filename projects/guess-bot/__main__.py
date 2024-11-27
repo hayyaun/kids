@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # pylint: disable=unused-argument
-
-import logging
+# This examlpe was inspired by: https://docs.python-telegram-bot.org/en/v21.7/examples.echobot.html
 
 from handle import *
 from telegram import Update
