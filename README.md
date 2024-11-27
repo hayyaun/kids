@@ -11,6 +11,7 @@ Or join the [Telegram Channel](https://t.me/nodetcode) and comment under the Q&A
 - ⭐ [**Scores**](/SCORES.md)
 - 🏆 [**Achievements**](/SCORES.md#-achievements)
 - 💡 [**Research Topics**](/RESEARCH.md)
+- 💬 [**Discussion**](https://github.com/hayyaun/kids/discussions)
 
 ## 🧠 What we learn
 
@@ -38,6 +39,10 @@ Below is the list of our sessions:
 - 🔴 **Session 6** - [Import Module](/sessions/session-6.ipynb)
 - 🔴 **Session 7** - [Install Module](/sessions/session-7.ipynb)
 - 🔴 **Session 8** - [Create Module](/sessions/session-8.ipynb)
+- 🔴 **Extras x1** - [File & Error](/sessions/session-x2.ipynb)
+- 🔴 **Extras x2** - [Trace & Debug](/sessions/session-x2.ipynb)
+- 🔴 **Extras x3** - [Git & Github](/sessions/session-x2.ipynb)
+- 🔴 **Extras x4** - [Terminal & venv](/sessions/session-x2.ipynb)
 
 ## 🧑‍💻 Exercises
 
