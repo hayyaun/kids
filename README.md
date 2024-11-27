@@ -39,13 +39,13 @@ Below is the list of our sessions:
 - 🔴 **Session 6** - [Import Module](/sessions/session-6.ipynb)
 - 🔴 **Session 7** - [Install Module](/sessions/session-7.ipynb)
 - 🔴 **Session 8** - [Create Module](/sessions/session-8.ipynb)
-- 🔴 **Game. g1** - [Creating Scene Objects](/sessions/session-x2.ipynb)
-- 🔴 **Game. g2** - [Moving Objects](/sessions/session-x2.ipynb)
-- 🔴 **Game. g3** - [Combine](/sessions/session-x2.ipynb)
-- 🔴 **Extras x1** - [File & Error](/sessions/session-x2.ipynb)
-- 🔴 **Extras x2** - [Trace & Debug](/sessions/session-x2.ipynb)
-- 🔴 **Extras x3** - [Git & Github](/sessions/session-x2.ipynb)
-- 🔴 **Extras x4** - [Terminal & venv](/sessions/session-x2.ipynb)
+- 🟣 **Game. g1** - [Creating Scene Objects](/sessions/session-x2.ipynb)
+- 🟣 **Game. g2** - [Moving Objects](/sessions/session-x2.ipynb)
+- 🟣 **Game. g3** - [Combine](/sessions/session-x2.ipynb)
+- 🔵 **Extras x1** - [File & Error](/sessions/session-x2.ipynb)
+- 🔵 **Extras x2** - [Trace & Debug](/sessions/session-x2.ipynb)
+- 🔵 **Extras x3** - [Git & Github](/sessions/session-x2.ipynb)
+- 🔵 **Extras x4** - [Terminal & venv](/sessions/session-x2.ipynb)
 
 ## 🧑‍💻 Exercises
 
@@ -61,5 +61,5 @@ Each exercise has 5 score, the students who solve most of the exercises will be 
 - 🔴 **Exercise 6-2** - [GUI Calculator](/exercises/exercise-6-2.py)
 - 🔴 **Exercise 7** - [Smiley Face 😃](/exercises/exercise-7.py)
 - 🔴 **Exercise 8** - Anything!
-- 🔴 **Telegram Bot** - [Guess Game](/projects/ping-pong/)
-- 🔴 **Game Project** - [Ping Pong](/projects/ping-pong/)
+- ⚫️ **Telegram Bot** - [Guess Game](/projects/ping-pong/)
+- ⚫️ **Game Project** - [Ping Pong](/projects/ping-pong/)
