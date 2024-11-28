@@ -13,10 +13,11 @@ People with more than 1000 ⭐ are too overqualified for joining final Game Proj
 | Sepehrad         |                         | `❶❷` +10                 | `08 G3 S6` ⚠️ +10       |                  |          | **20** |
 | Ali Safaei       |                         | `❶` +5                   | `13 G1 S4` ⚠️ +10       |                  | +1       | **16** |
 | Amirali Yegane   |                         | `❶` +5                   | `11 G1 S4` ⚠️ +10       |                  |          | **15** |
-| Sepanta Basiri   | 🔁 +1                   | `❶❷` +10                 |                         |                  | +1       | **12** |
+| Sepanta Basiri   | 🔁 +1                   | `❶❷` +10                 |                         |                  | +3       | **14** |
 | Barsam           |                         | `❶` +5                   |                         |                  | +2       | **7**  |
 | Hamaan           | 🔁 +1                   | `❶` +5                   |                         |                  |          | **6**  |
 | Sadraa           | 💡 +1                   | `❶` +5                   |                         |                  |          | **6**  |
+| Yasin            | 🎭 +1                   | `❶` +5                   |                         |                  |          | **6**  |
 | Sam Rezaei.      |                         | `❶` +5                   |                         |                  |          | **5**  |
 
 ## 🏆 Achievements
