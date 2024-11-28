@@ -54,7 +54,7 @@ Each exercise has 5 score, the students who solve most of the exercises will be 
 
 - 🟢 **Exercise 1** - [Print to Terminal](/exercises/exercise-1.py)
 - 🟢 **Exercise 2** - [Calculator](/exercises/exercise-2.py)
-- 🟢 **Exercise 3** - [Primary Numbers](/exercises/exercise-3.py)
+- 🟢 **Exercise 3** - [Factorial](/exercises/exercise-3.py)
 - 🔴 **Exercise 4** - [Fibbonacci Series](/exercises/exercise-4.py)
 - 🔴 **Exercise 5** - [Fa-En Dictionary](/exercises/exercise-5.py)
 - 🔴 **Exercise 6-1** - [Guess Game](/exercises/exercise-6-1.py)
