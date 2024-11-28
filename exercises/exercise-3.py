@@ -1,17 +1,7 @@
-# Show Primary numbers below n
-# 1. Get a number from user in Terminal
-# 2. Print each primary number below n
+# Calculate Factorial
 
-# Complete this code:
+n = int(input('Enter a number: '))
+answer = 1
+# TODO update answer in a loop, so that that answer is the factorial
 
-# TODO get the number n from user
-
-for i in range(2, n):
-    is_primary = True  # flag
-    
-    # TODO for j in range(2, i):
-        # TODO if i % j == 0:
-            # TODO set is primary False
-            # TODO stop the loop
-
-    # TODO print number if primary
+print(f'{n}! = ', answer)
