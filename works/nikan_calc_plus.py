@@ -1,3 +1,7 @@
+# code by Nikan
+# super calculator
+
+
 from math import pi
 
 Q = input('enter your number (1 for arithmetic operations, 2 for area, 3 for volume, 4 for density): ')
