@@ -4,7 +4,7 @@ family = input("do you have any sister or brother? ")
 
 print(name, 'is', age, 'years old!,')
 
-if "yes":
+if family.lower() == "yes":
     print("on ye poshtiban dare")
 else:
     print("ok vali man daram")
