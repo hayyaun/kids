@@ -6,8 +6,8 @@ People with more than 1000 ⭐ are too overqualified for joining final Game Proj
 | Full Name        | [Aches](#-achievements) | [Exercises](/exercises/) | [Lecture](/RESEARCH.md) | [Works](/works/) | Karma ⭐ | Total  |
 | ---------------- | ----------------------- | ------------------------ | ----------------------- | ---------------- | -------- | ------ |
 | 🏆 Mobin Javan   | 💊                      | ∞                        | ∞                       | ∞                | ∞        | **∞**  |
-| 🥇 Noyan Gol.    | 🚀 +1                   | `❶❷` +10                 | `09 G3 S3` ✅ +15       | +1               | +6       | **33** |
-| 🥈 Nikan Nejati. | ⚔️🔁🔍 +3               | `❶❷` +10                 | `05 G3 S4` ⚠️ +10       | +1               | +3       | **27** |
+| 🥇 Nikan Nejati. | ⚔️🔁🔍🎯 +3             | `❶❷❸❸` +20               | `05 G3 S4` ⚠️ +10       | +1               | +3       | **38** |
+| 🥈 Noyan Gol.    | 🚀🤝 +2                 | `❶❷` +10                 | `09 G3 S3` ✅ +15       | +1               | +6       | **34** |
 | 🏅 Barbod Dalir. | 🤝🔁 +2                 | `❶❷` +10                 | `11 G3 S4` ⚠️ +10       |                  | +4       | **26** |
 | 🥉 Mehdi Zokaei  | 📚 +1                   | `❶❷` +10                 | `03 G3 S5` ⚠️ +10       |                  | +1       | **22** |
 | Sepehrad         |                         | `❶❷` +10                 | `08 G3 S6` ⚠️ +10       |                  |          | **20** |
@@ -24,11 +24,11 @@ People with more than 1000 ⭐ are too overqualified for joining final Game Proj
 
 Students may get this tags inside or out of the class.
 
-|                           | Titles                 |                           |
-| ------------------------- | ---------------------- | ------------------------- |
-| 🧩 Problem Solver         | 🔁 Loop Legend         | 🎭 Creative Coder         |
-| 🤝 Collaboration Champion | ⌨️ Keyboard Warrior    | 🐛 Debug Dynamo           |
-| 🚀 Innovator              | 🌐 Network Navigator   | 🔍 Resourceful Researcher |
-| ⚔️ Syntax Slayer          | 🎶 Module Maestro      | 🥇 Function First-timer   |
-| 📚 Quick Learner          | 🔱 Terminal Titan      | 🐱 Code Curious           |
-| 💊 Matrix Breaker         | 🧪 Algorithm Alchemist | 💡 Concept Crusader       |
+|                           | Titles                 |                           |                      |
+| ------------------------- | ---------------------- | ------------------------- | -------------------- |
+| 🧩 Problem Solver         | 🔁 Loop Legend         | 🎭 Creative Coder         | 🐈‍⬛ Github Guy        |
+| 🤝 Collaboration Champion | ⌨️ Keyboard Warrior    | 🐛 Debug Dynamo           | 👾 Game Developer    |
+| 🚀 Innovator              | 🌐 Network Navigator   | 🔍 Resourceful Researcher | 🎯 Direct Dynamo     |
+| ⚔️ Syntax Slayer          | 🎶 Module Maestro      | 🥇 Function First-timer   | 🃏 Joker             |
+| 📚 Quick Learner          | 🔱 Terminal Titan      | 🐱 Code Curious           | 🔮 Code Wizard       |
+| 💊 Matrix Breaker         | 🧪 Algorithm Alchemist | 💡 Concept Crusader       | ⏳ Conqueror of Time |
