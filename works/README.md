@@ -1,4 +1,4 @@
-## Works
+## 🧑‍💻 Works
 
 Here is a list of top works of our students.
 
