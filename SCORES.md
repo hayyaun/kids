@@ -8,7 +8,7 @@ People with more than 1000 ⭐ are too overqualified for joining final Game Proj
 | Full Name         | Exercises  | [Lecture](/RESEARCH.md) | [Works](/works/) | Karma | Achievements      | Total                      |
 | ----------------- | ---------- | ----------------------- | ---------------- | ----- | ----------------- | -------------------------- |
 | 🗿 Mobin Javan    |            |                         |                  | -999  | 💊 +∞             | $${\color{lightgreen}∞}$$  |
-| 🥇 Nikan Nejati.  | `❶❷❸❸` +20 | ⚠️ +10                  | +3               | +3    | ⚔️🔁🔍🎯🐈‍⬛🔮🗑️ +5 | $${\color{lightgreen}41}$$ |
+| 🥇 Nikan Nej.     | `❶❷❸❸` +20 | ⚠️ +10                  | +3               | +3    | ⚔️🔁🔍🎯🐈‍⬛🔮🗑️ +5 | $${\color{lightgreen}41}$$ |
 | 🥈 Noyan Gol.     | `❶❷` +10   | ✅ +15                  | +2               | +6    | 🚀🤝🔮🃏 +4       | $${\color{lightgreen}37}$$ |
 | 🥉 Barbod Dalir.  | `❶❷` +10   | ⚠️ +10                  |                  | +4    | 🤝🔁 +2           | $${\color{lightgreen}26}$$ |
 | 🥉 Mehdi Zokaei   | `❶❷` +10   | ⚠️ +10                  | +1               | +1    | 📚🐈‍⬛🐱🔮 +4       | $${\color{lightgreen}26}$$ |
