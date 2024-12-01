@@ -9,9 +9,9 @@ People with more than 1000 ⭐ are too overqualified for joining final Game Proj
 | ----------------- | ---------- | ----------------------- | ---------------- | ----- | -------------------- | -------------------------- |
 | 🗿 Mobin Javan    |            |                         |                  | -999  | 💊 +∞                | $${\color{lightgreen}∞}$$  |
 | 🥇 Nikan Nej.     | `❶❷❸❸` +20 | ⚠️ +10                  | +3               | +3    | ⚔️🔁🔍🎯🐈‍⬛🔮🗑️🏀 +10 | $${\color{lightgreen}46}$$ |
-| 🥈 Noyan Gol.     | `❶❷` +10   | ✅ +15                  | +2               | +6    | 🚀🤝🔮🃏👥 +5        | $${\color{lightgreen}38}$$ |
+| 🥈 Noyan Gol.     | `❶❷` +10   | ✅ +15                  | +2               | +6    | 🚀🤝🔮🃏👥🦉 +6      | $${\color{lightgreen}39}$$ |
+| 🥉 Mehdi Zokaei   | `❶❷` +10   | ⚠️ +10                  | +1               | +1    | 📚🐈‍⬛🐱🔮🐙 +9        | $${\color{lightgreen}31}$$ |
 | 🥉 Barbod Dalir.  | `❶❷` +10   | ⚠️ +10                  |                  | +4    | 🤝🔁 +2              | $${\color{lightgreen}26}$$ |
-| 🥉 Mehdi Zokaei   | `❶❷` +10   | ⚠️ +10                  | +1               | +1    | 📚🐈‍⬛🐱🔮 +4          | $${\color{lightgreen}26}$$ |
 | 🥉 Amirali Yegane | `❶❷` +10   | ⚠️ +10                  |                  |       |                      | $${\color{lightgreen}20}$$ |
 | 🥉 Sepehrad       | `❶❷` +10   | ⚠️ +10                  |                  |       |                      | $${\color{lightgreen}20}$$ |
 | Ali Safaei        | `❶` +5     | ⚠️ +10                  |                  | +1    |                      | $${\color{lightgreen}16}$$ |
@@ -29,9 +29,9 @@ Students may get this tags inside or out of the class.
 | Titles                    |                        |                           |                      |
 | ------------------------- | ---------------------- | ------------------------- | -------------------- |
 | 💊 Matrix Breaker +∞      | 🔁 Loop Legend         | 🎭 Creative Coder         | 🐼 Lazy Panda        |
-| 🏀 Accuracy Max +5        | 🚀 Innovator           | 🐛 Debug Dynamo           | 👾 Game Developer    |
+| 🏀 Pro Gamer +5           | 🚀 Innovator           | 🐛 Debug Dynamo           | 👾 Game Developer    |
 | 🗑️ Spammer -1             | 🐈‍⬛ Github Guy          | 🔍 Resourceful Researcher | 🎯 Direct Dynamo     |
 | ⚔️ Syntax Slayer          | 🎶 Module Maestro      | 🥇 Function First-timer   | 🃏 Joker             |
 | 📚 Quick Learner          | 🔱 Terminal Titan      | 🐱 Code Curious           | ⏳ Conqueror of Time |
-| 🧩 Problem Solver         | 🧪 Algorithm Alchemist | 💡 Concept Crusader       |                      |
-| 🤝 Collaboration Champion | 👥 Teamworker          | 🔮 Code Wizard            |                      |
+| 🧩 Problem Solver         | 🧪 Algorithm Alchemist | 💡 Concept Crusader       | 🦉 Night Owl         |
+| 🤝 Collaboration Champion | 👥 Teamworker          | 🔮 Code Wizard            | 🐙 Github Master +5  |
