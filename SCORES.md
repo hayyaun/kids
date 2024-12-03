@@ -8,7 +8,7 @@ People with more than 1000 ⭐ are too overqualified for joining final Game Proj
 | Full Name         | Exercises   | [Lecture](/RESEARCH.md) | [Works](/works/) | Karma | Achievements           | Total                      |
 | ----------------- | ----------- | ----------------------- | ---------------- | ----- | ---------------------- | -------------------------- |
 | 🗿 Mobin Javan    |             |                         |                  | -999  | 💊 +∞                  | $${\color{lightgreen}∞}$$  |
-| 🥇 Nikan Nej.     | `❶❷❸❸❻` +25 | ⚠️ +10                  | +3               | +3    | ⚔️🔁🔍🎯🐈‍⬛🔮🗑️🏀🎶 +11 | $${\color{lightgreen}52}$$ |
+| 🥇 Nikan Nej.     | `❶❷❸❸❻` +25 | ⚠️ +10                  | +4               | +3    | ⚔️🔁🔍🎯🐈‍⬛🔮🗑️🏀🎶 +11 | $${\color{lightgreen}53}$$ |
 | 🥈 Noyan Gol.     | `❶❷` +10    | ✅ +15                  | +2               | +6    | 🚀🤝🔮🃏👥🦉🏀🗑️ +10   | $${\color{lightgreen}43}$$ |
 | 🥉 Barbod Dalir.  | `❶❷` +10    | ⚠️ +10                  |                  | +4    | 📚🤝🔁🏀 +8            | $${\color{lightgreen}35}$$ |
 | 🥉 Mehdi Zokaei   | `❶❷` +10    | ⚠️ +10                  | +1               | +1    | 📚🐈‍⬛🐱🔮🐙 +9          | $${\color{lightgreen}31}$$ |
@@ -35,3 +35,14 @@ Students may get this tags inside or out of the class.
 | 📚 Quick Learner          | 🔱 Terminal Titan      | 🐱 Code Curious           | ⏳ Conqueror of Time |
 | 🧩 Problem Solver         | 🧪 Algorithm Alchemist | 💡 Concept Crusader       | 🦉 Night Owl         |
 | 🤝 Collaboration Champion | 👥 Teamworker          | 🔮 Code Wizard            | 🐙 Github Master +5  |
+
+## 💻 Works
+
+Here is a list of top works of our students.
+
+| Work                                        | Student    | Description                                                                                |
+| ------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------ |
+| 🔮 [Sphere](/works/noyan_sphere.py)         | Noyan Gol. | Calculates surface area and volume of spheres, circles, and cylinders.                     |
+| 💪 [BMI Test](/works/nikan_bmi_gui.py)      | Nikan Nej. | Creates a GUI BMI calculator using Tkinter, displays results, handles errors.              |
+| 🧮 [Calculator+](/works/nikan_calc_plus.py) | Nikan Nej. | Calculates arithmetic operations, area, perimeter, volume, and density for various shapes. |
+| 🪶 [Poem](/works/mahdi_family.py)           | Mahdi Zok. | Prompts for name, age, siblings; prints user info and response.                            |
