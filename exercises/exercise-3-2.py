@@ -1,20 +1,20 @@
-# Show Primary numbers below n
+# Check if a number is prime number
 # 1. Get a number from user in Terminal
-# 2. Print each primary number below n
+# 2. Loop to see if it divides by any number
 
-"""  Fix this code  """
+# Complete this code:
 
-# get the number n from user
+n = int(input('Enter a number: '))
 
-# for i in range 2 to n:
+is_prime = True
 
-#       is_primary = True  # flag
+for i in range(2, n):
+  # Check if n is divided by i
+  # if Yes: set is_prime False
+  # and stop the loop
+  # if No: do nothing...
 
-#       for j in range 2 to i:
-
-#           if i % j == 0:
-
-#               set is primary False
-#               stop the loop
-
-#       print number if primary
+if is_prime:
+    print(n, 'is prime')
+else:
+    print(n, 'is not prime')
