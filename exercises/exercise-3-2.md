@@ -21,7 +21,7 @@ flowchart TD
     G -- No --> I[Print number if is_prime]
     G -- Yes --> H{If n % i == 0}
     H -- Yes --> J[Set is_prime = False]
-    J -- No --> B[Break]
+    J --> B[Break]
     B --> G
     I --> Z[End]
 ```
