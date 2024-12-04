@@ -14,12 +14,12 @@
 
 ```mermaid
 flowchart TD
-    A[Start] --> B[Get a number: n = input...]
+    A(Start) --> B[Get a number: n = input...]
     B --> C[Initialize: result = 1]
     C --> D[Is n > 0 ?]
     D -- Yes --> E[Multiply result by n]
     E --> F[n -= 1]
     F --> D
     D -- No --> G[Print result]
-    G --> H[End]
+    G --> H(End)
 ```

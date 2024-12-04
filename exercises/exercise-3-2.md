@@ -15,7 +15,7 @@
 
 ```mermaid
 flowchart TD
-    A[Start] --> E[Get n]
+    A(Start) --> E[Get n]
     E --> F[Set flag is_prime = True]
     F --> G{Is i in range 2 to n ?}
     G -- No --> I[Print number if is_prime]
@@ -23,5 +23,5 @@ flowchart TD
     H -- Yes --> J[Set is_prime = False]
     J --> B[Break]
     B --> G
-    I --> Z[End]
+    I --> Z(End)
 ```

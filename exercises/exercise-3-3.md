@@ -19,7 +19,7 @@
 
 ```mermaid
 flowchart TD
-    A[Start] --> C[Get n]
+    A(Start) --> C[Get n]
     C --> E{Is i in range 2 to n ?}
     E -- Yes --> F[Set flag is_prime = True]
     F --> G{Is j in range 2 to i ?}
@@ -30,5 +30,5 @@ flowchart TD
     J --> B[Break]
     B --> I
     I --> E
-    E -- No --> L[End]
+    E -- No --> L(End)
 ```
