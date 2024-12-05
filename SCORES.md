@@ -31,7 +31,7 @@ Students may get this tags inside or out of the class.
 | 💊 Matrix Breaker +∞      | 🔁 Loop Legend         | 🎭 Creative Coder         | 🐼 Lazy Panda        |
 | 🏀 Pro Gamer +5           | 🚀 Innovator           | 🐛 Debug Dynamo           | 👾 Game Developer    |
 | 🗑️ Spammer -1             | 🐈‍⬛ Github Guy          | 🔍 Resourceful Researcher | 🎯 Direct Dynamo     |
-| ⚔️ Syntax Slayer          | 🎶 Module Maestro      | 🥇 Function First-timer   | 🃏 Joker             |
+| ⚔️ Syntax Slayer          | 🎶 Module Maestro      | 📦 Function First-timer   | 🃏 Joker             |
 | 📚 Quick Learner          | 🔱 Terminal Titan      | 🐱 Code Curious           | ⏳ Conqueror of Time |
 | 🧩 Problem Solver         | 🧪 Algorithm Alchemist | 💡 Concept Crusader       | 🦉 Night Owl         |
 | 🤝 Collaboration Champion | 👥 Teamworker          | 🔮 Code Wizard            | 🐙 Github Master +5  |
