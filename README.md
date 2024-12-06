@@ -52,16 +52,17 @@ Below is the list of our sessions:
 Leveled exercises for students to practice.
 Each exercise has 5 score, the students who solve most of the exercises will be added to the final **Gaming Project**!
 
-- 🟢 **Exercise 1** - [Print to Terminal](/exercises/exercise-1.py)
-- 🟢 **Exercise 2** - [Calculator](/exercises/exercise-2.py)
+- 🟢 **Exercise 1** - Print to Terminal
+- 🟢 **Exercise 2** - Calculator
 - 🟢 **Exercise 3-1** - [Factorial](/exercises/exercise-3-1.md)
 - 🟢 **Exercise 3-2** - [Prime Number](/exercises/exercise-3-2.md)
-- 🟢 **Exercise 3-3** - [Prime Numbers](/exercises/exercise-3-3.md)
-- 🔴 **Exercise 4** - [Fibbonacci Series](/exercises/exercise-4.py)
-- 🔴 **Exercise 5** - [Fa-En Dictionary](/exercises/exercise-5.py)
-- 🔴 **Exercise 6-1** - [Guess Game](/exercises/exercise-6-1.py)
-- 🔴 **Exercise 6-2** - [GUI Calculator](/exercises/exercise-6-2.py)
-- 🔴 **Exercise 7** - [Smiley Face 😃](/exercises/exercise-7.py)
+- 🟢 **Exercise 3-3** - [Fibbonacci Series](/exercises/exercise-3-3.md)
+- 🔴 **Exercise 4-1** - [Prime Numbers](/exercises/exercise-4-1.md)
+- 🔴 **Exercise 4-2** - [Swap Function](/exercises/exercise-4-2.md)
+- 🔴 **Exercise 5** - Fa-En Dictionary
+- 🔴 **Exercise 6-1** - Guess Game
+- 🔴 **Exercise 6-2** - GUI Calculator
+- 🔴 **Exercise 7** - Smiley Face 😃
 - 🔴 **Exercise 8** - Anything!
-- ⚫️ **Telegram Bot** - [Guess Game](/projects/ping-pong/)
+- ⚫️ **Telegram Bot** - [Guess Game](/projects/guess-bot/)
 - ⚫️ **Game Project** - [Ping Pong](/projects/ping-pong/)
