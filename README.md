@@ -14,18 +14,6 @@ Or join the [Telegram Channel](https://t.me/nodetcode) and comment under the Q&A
 - ✅ [**Send Answers**](https://github.com/hayyaun/kids/discussions/4)
 - 💡 [**Research Topics**](/RESEARCH.md)
 
-## 🧠 What we learn
-
-Below are the list of things students will learn during class or Game Project:
-
-- **Basics of Coding** (Python)
-- **Algorithm & Flowcharts**
-- **VSCode shortcuts**
-- **Using Terminal**
-- **Debugging**
-
-<!-- You can see [Sessions Topics here](/sessions/TOPICS.md) -->
-
 ## 🧑‍💻 Exercises
 
 Leveled exercises for students to practice.  
@@ -46,3 +34,15 @@ You can [**Send Answers Here**](https://github.com/hayyaun/kids/discussions/4) �
 - 🔴 **Exercise 8** - Anything!
 - ⚫️ **Telegram Bot** - [Guess Game](/projects/guess-bot/)
 - ⚫️ **Game Project** - [Ping Pong](/projects/ping-pong/)
+
+## 🧠 What we learn
+
+Below are the list of things students will learn during class or Game Project:
+
+- **Basics of Coding** (Python)
+- **Algorithm & Flowcharts**
+- **VSCode shortcuts**
+- **Using Terminal**
+- **Debugging**
+
+<!-- You can see [Sessions Topics here](/sessions/TOPICS.md) -->
