@@ -32,13 +32,13 @@ Leveled exercises for students to practice.
 Each exercise has 5 score. You can solve the ones with 🟢 flag!  
 You can [**Send Answers Here**](https://github.com/hayyaun/kids/discussions/4) ✅ with an **screenshot**
 
-- 🟢 **Exercise 1** - [Print to Terminal](/exercises/exercise-1.md)
-- 🟢 **Exercise 2** - [Calculator](/exercises/exercise-2.md)
-- 🟢 **Exercise 3-1** - [Factorial](/exercises/exercise-3-1.md)
-- 🟢 **Exercise 3-2** - [Prime Number](/exercises/exercise-3-2.md)
-- 🟢 **Exercise 3-3** - [Fibbonacci Series](/exercises/exercise-3-3.md)
-- 🔴 **Exercise 4-1** - [Prime Numbers](/exercises/exercise-4-1.md)
-- 🔴 **Exercise 4-2** - [Swap Function](/exercises/exercise-4-2.md)
+- 🟢 **Exercise 1** - [Print to Terminal](/exercises/helps/exercise-1.md)
+- 🟢 **Exercise 2** - [Calculator](/exercises/helps/exercise-2.md)
+- 🟢 **Exercise 3-1** - [Factorial](/exercises/helps/exercise-3-1.md)
+- 🟢 **Exercise 3-2** - [Prime Number](/exercises/helps/exercise-3-2.md)
+- 🟢 **Exercise 3-3** - [Fibbonacci Series](/exercises/helps/exercise-3-3.md)
+- 🔴 **Exercise 4-1** - [Prime Numbers](/exercises/helps/exercise-4-1.md)
+- 🔴 **Exercise 4-2** - [Swap Function](/exercises/helps/exercise-4-2.md)
 - 🔴 **Exercise 5** - Fa-En Dictionary
 - 🔴 **Exercise 6-1** - Guess Game
 - 🔴 **Exercise 6-2** - GUI Calculator
