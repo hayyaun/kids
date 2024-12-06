@@ -9,9 +9,10 @@ Or join the [Telegram Channel](https://t.me/nodetcode) and comment under the Q&A
 ### 🔗 Links
 
 - ⭐ [**Scores**](/SCORES.md)
-- 🏆 [**Achievements**](/SCORES.md#-achievements)
 - 💡 [**Research Topics**](/RESEARCH.md)
-- 💬 [**Discussion**](https://github.com/hayyaun/kids/discussions)
+- 💻 [**Exercises**](/RESEARCH.md)
+- ✅ [**Send Answers**](https://github.com/hayyaun/kids/discussions/4)
+- 💬 [**Chat**](https://github.com/hayyaun/kids/discussions/1)
 
 ## 🧠 What we learn
 
