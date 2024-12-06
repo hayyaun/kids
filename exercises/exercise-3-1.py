@@ -1,8 +1,7 @@
 # Calculate Factorial
 
-n = int(input('Enter a number: '))
-answer = 1
+# 1. Get a number from user
+# 2. Calculate factorial
+# 3. Show the result
 
-# TODO update answer in a loop
-
-print(f'{n}! = ', answer)
+# Help: ./exericse-3-1.md
