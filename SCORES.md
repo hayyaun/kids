@@ -8,7 +8,7 @@ After 50 ⭐ each 10 ⭐ is counted 1. so don't run....
 
 | Full Name         | Exercises   | [Lecture](/RESEARCH.md) | [Works](/works/) | Karma | Achievements           | Total                      |
 | ----------------- | ----------- | ----------------------- | ---------------- | ----- | ---------------------- | -------------------------- |
-| 🗿 Mobin Javan    |             |                         |                  | -999  | 💊 +∞                  | $${\color{lightgreen}∞}$$  |
+| 🗿 Mobin Javan    |             |                         |                  | +1    | 💊 +∞                  | $${\color{lightgreen}∞}$$  |
 | 👾 Nikan Nej.     | `❶❷❸❸❻` +25 | ⚠️ +10                  | +4               | +4    | ⚔️🌀🔍🎯🐈‍⬛🔮🗑️🏀🎶 +11 | $${\color{lightgreen}50}$$ |
 | 🥇 Mehdi Zokaei   | `❶❷❸❸` +20  | ⚠️ +10                  | +1               | +1    | 📚🐈‍⬛🐱🔮🐙🏀 +14       | $${\color{lightgreen}45}$$ |
 | 🥇 Noyan Gol.     | `❶❷` +10    | ✅ +15                  | +2               | +6    | 🚀🤝🔮🃏👥🦉🏀🗑️🌀 +11 | $${\color{lightgreen}44}$$ |
