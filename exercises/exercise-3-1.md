@@ -27,13 +27,13 @@
 
 ```mermaid
 flowchart TD
-    A(Start) --> B["1\. Get a number: n = input..."]
-    B --> C[2\. answer = 1]
-    C --> D{3\. Is n > 0 ?}
-    D -- Yes --> E[4\. answer = n * answer]
-    E --> F[5\. n -= 1]
+    A(Start) --> B["1: Get a number: n = input..."]
+    B --> C[2: answer = 1]
+    C --> D{3: Is n > 0 ?}
+    D -- Yes --> E[4: answer = n * answer]
+    E --> F[5: n -= 1]
     F --> D
-    D -- No --> G[6\. Print answer]
+    D -- No --> G[6: Print answer]
     G --> H(End)
 ```
 
