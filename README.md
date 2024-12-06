@@ -21,8 +21,7 @@ Below are the list of things students will learn during class or Game Project:
 - **Basics of Coding** (Python)
 - **Algorithm & Flowcharts**
 - **VSCode shortcuts**
-- **Terminal** (cmd.exe)
-- **Git, Github**
+- **Using Terminal**
 - **Debugging**
 
 You can see [Sessions Topics here](/sessions/TOPICS.md)
