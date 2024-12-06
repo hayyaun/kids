@@ -19,7 +19,7 @@ Or join the [Telegram Channel](https://t.me/nodetcode) and comment under the Q&A
 Below are the list of things students will learn during class or Game Project:
 
 - **Basics of Coding** (Python)
-- **Flowcharts** (Mermaid)
+- **Algorithm & Flowcharts**
 - **VSCode shortcuts**
 - **Terminal** (cmd.exe)
 - **Git, Github**
