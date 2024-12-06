@@ -50,7 +50,7 @@ Below is the list of our sessions:
 ## 🧑‍💻 Exercises
 
 Leveled exercises for students to practice.
-Each exercise has 5 score, the students who solve most of the exercises will be added to the final **Gaming Project**!
+Each exercise has 5 score. You can solve the ones with 🟢 flag!
 
 - 🟢 **Exercise 1** - Print to Terminal
 - 🟢 **Exercise 2** - Calculator
