@@ -52,8 +52,8 @@ Below is the list of our sessions:
 Leveled exercises for students to practice.
 Each exercise has 5 score. You can solve the ones with 🟢 flag!
 
-- 🟢 **Exercise 1** - Print to Terminal
-- 🟢 **Exercise 2** - Calculator
+- 🟢 **Exercise 1** - [Print to Terminal](/exercises/exercise-1.md)
+- 🟢 **Exercise 2** - [Calculator](/exercises/exercise-2.md)
 - 🟢 **Exercise 3-1** - [Factorial](/exercises/exercise-3-1.md)
 - 🟢 **Exercise 3-2** - [Prime Number](/exercises/exercise-3-2.md)
 - 🟢 **Exercise 3-3** - [Fibbonacci Series](/exercises/exercise-3-3.md)
