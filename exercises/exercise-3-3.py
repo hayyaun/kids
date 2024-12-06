@@ -2,16 +2,9 @@
 # 1. Get the number n from user
 # 2. Show the fibbonacci series for n times
 
+# Help: ./exericse-3-3.md
+
+
 n = int(input("Enter a number: "))
 
-a = 0
-b = 1
-print(a, b, end=' ')
-
-i = 0
-while i < n:
-    # TODO store `a` in a temporary variable
-    # TODO update `a`
-    # TODO update `b`
-    # TODO print `b`
-    # TODO increment `i`
+a = b = 1

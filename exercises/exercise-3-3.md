@@ -35,13 +35,15 @@
 
 ```mermaid
 flowchart TD
-    A(Start) --> E[Get n]
-    E --> F[Set flag is_prime = True]
-    F --> G{Is i in range 2 to n ?}
-    G -- No --> I[Print number if is_prime]
-    G -- Yes --> H{If n % i == 0}
-    H -- Yes --> J[Set is_prime = False]
-    J --> B[Break]
-    B --> G
-    I --> Z(End)
+    A("Start") --> E["Get n"]
+    E --> F["a = 1"]
+    F --> n1["b = 1"]
+    G{"Is i in range n ?"} -- No --> Z("End")
+    G -- Yes --> H["print a"]
+    H -- Yes --> J["a, b = b, a+b"]
+    n1 --> G
+    J --> G
+
+    n1@{ shape: rect}
+    H@{ shape: in-out}
 ```

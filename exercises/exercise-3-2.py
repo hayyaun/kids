@@ -2,6 +2,9 @@
 # 1. Get a number from user in Terminal
 # 2. Loop to see if it divides by any number
 
+# Help: ./exericse-3-2.md
+
+
 # Complete this code:
 
 n = int(input('Enter a number: '))
