@@ -8,11 +8,11 @@ Or join the [Telegram Channel](https://t.me/nodetcode) and comment under the Q&A
 
 ### 🔗 Links
 
+- 💬 [**Chat**](https://github.com/hayyaun/kids/discussions/1)
 - ⭐ [**Scores**](/SCORES.md)
-<!-- - 💡 [**Research Topics**](/RESEARCH.md) -->
 - 💻 [**Exercises**](#-exercises)
 - ✅ [**Send Answers**](https://github.com/hayyaun/kids/discussions/4)
-- 💬 [**Chat**](https://github.com/hayyaun/kids/discussions/1)
+- 💡 [**Research Topics**](/RESEARCH.md)
 
 ## 🧠 What we learn
 
