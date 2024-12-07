@@ -2,8 +2,6 @@
 # 1. Receive two numbers a and b from the terminal
 # 2. Show the ( + - * / ) of that two number
 
-# Hint: `input()` function receives a text from terminal.
-# Note: we will learn about `int()` later.
 
 # Complete this code:
 
