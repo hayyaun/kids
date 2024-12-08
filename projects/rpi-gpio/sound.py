@@ -24,5 +24,6 @@ try:
 
     # Stop the buzzer
     buzzer.stop()
+
 finally:
     GPIO.cleanup()
