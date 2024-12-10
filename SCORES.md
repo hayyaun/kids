@@ -9,11 +9,11 @@ After 50 ⭐ each 10 ⭐ is counted 1. so don't run....
 | Full Name         | Exercises    | [Lecture](/RESEARCH.md) | [Works](/works/) | Karma | Achievements           | Total                      |
 | ----------------- | ------------ | ----------------------- | ---------------- | ----- | ---------------------- | -------------------------- |
 | 🗿 Mobin Javan    |              |                         |                  | +1    | 💊 +∞                  | $${\color{lightgreen}∞}$$  |
-| 👾 Nikan Nej.     | `❶❷❸❸❸❻` +30 | ⚠️ +10                  | +4               | +5    | ⚔️🌀🔍🎯🐈‍⬛🔮🗑️🏀🎶 +11 | $${\color{lightgreen}51}$$ |
+| 👾 Nikan Nej.     | `❶❷❸❸❸❻` +30 | ✅ +15                  | +4               | +5    | ⚔️🌀🔍🎯🐈‍⬛🔮🗑️🏀🎶 +11 | $${\color{lightgreen}51}$$ |
+| 🥇 Barbod Dalir.  | `❶❷❸❸` +20   | ⚠️ +10                  |                  | +4    | 📚🤝🌀🏀⏳ +9          | $${\color{lightgreen}46}$$ |
 | 🥇 Mehdi Zokaei   | `❶❷❸❸` +20   | ⚠️ +10                  | +1               | +1    | 📚🐈‍⬛🐱🔮🐙🏀 +14       | $${\color{lightgreen}45}$$ |
 | 🥇 Noyan Gol.     | `❶❷` +10     | ✅ +15                  | +2               | +6    | 🚀🤝🔮🃏👥🦉🏀🗑️🌀 +11 | $${\color{lightgreen}44}$$ |
-| 🥇 Barbod Dalir.  | `❶❷❸` +15    | ⚠️ +10                  |                  | +4    | 📚🤝🌀🏀⏳ +9          | $${\color{lightgreen}41}$$ |
-| 🥉 Amirali Yegane | `❶❷` +10     | ⚠️ +10                  |                  |       |                        | $${\color{lightgreen}20}$$ |
+| 🥉 Amirali Yegane | `❶❷` +10     | ✅ +15                  |                  |       |                        | $${\color{lightgreen}25}$$ |
 | 🥉 Sepehrad       | `❶❷` +10     | ⚠️ +10                  |                  |       |                        | $${\color{lightgreen}20}$$ |
 | Ali Safaei        | `❶` +5       | ⚠️ +10                  |                  | +1    |                        | $${\color{lightgreen}16}$$ |
 | Sepanta Basiri    | `❶❷` +10     |                         |                  | +3    | 🌀 +1                  | $${\color{lightgreen}14}$$ |
