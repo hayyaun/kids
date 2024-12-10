@@ -6,22 +6,22 @@ After 50 ⭐ each 10 ⭐ is counted 1. so don't run....
 
 > **Medals:** &nbsp; +20 🥉 &nbsp; +30 🥈 &nbsp; +40 🥇
 
-| Full Name         | Exercises   | [Lecture](/RESEARCH.md) | [Works](/works/) | Karma | Achievements           | Total                      |
-| ----------------- | ----------- | ----------------------- | ---------------- | ----- | ---------------------- | -------------------------- |
-| 🗿 Mobin Javan    |             |                         |                  | +1    | 💊 +∞                  | $${\color{lightgreen}∞}$$  |
-| 👾 Nikan Nej.     | `❶❷❸❸❻` +25 | ⚠️ +10                  | +4               | +5    | ⚔️🌀🔍🎯🐈‍⬛🔮🗑️🏀🎶 +11 | $${\color{lightgreen}50}$$ |
-| 🥇 Mehdi Zokaei   | `❶❷❸❸` +20  | ⚠️ +10                  | +1               | +1    | 📚🐈‍⬛🐱🔮🐙🏀 +14       | $${\color{lightgreen}45}$$ |
-| 🥇 Noyan Gol.     | `❶❷` +10    | ✅ +15                  | +2               | +6    | 🚀🤝🔮🃏👥🦉🏀🗑️🌀 +11 | $${\color{lightgreen}44}$$ |
-| 🥇 Barbod Dalir.  | `❶❷❸` +15   | ⚠️ +10                  |                  | +4    | 📚🤝🌀🏀⏳ +9          | $${\color{lightgreen}41}$$ |
-| 🥉 Amirali Yegane | `❶❷` +10    | ⚠️ +10                  |                  |       |                        | $${\color{lightgreen}20}$$ |
-| 🥉 Sepehrad       | `❶❷` +10    | ⚠️ +10                  |                  |       |                        | $${\color{lightgreen}20}$$ |
-| Ali Safaei        | `❶` +5      | ⚠️ +10                  |                  | +1    |                        | $${\color{lightgreen}16}$$ |
-| Sepanta Basiri    | `❶❷` +10    |                         |                  | +3    | 🌀 +1                  | $${\color{lightgreen}14}$$ |
-| Sadraa            | `❶` +5      |                         |                  |       | 💡🤝 +2                | $${\color{lightgreen}7}$$  |
-| Barsam            | `❶` +5      |                         |                  | +2    |                        | $${\color{lightgreen}7}$$  |
-| Hamaan            | `❶` +5      |                         |                  |       | 🌀 +1                  | $${\color{lightgreen}6}$$  |
-| Yasin             | `❶` +5      |                         |                  |       | 🎭 +1                  | $${\color{lightgreen}6}$$  |
-| Sam Rezaei.       | `❶` +5      |                         |                  |       |                        | $${\color{lightgreen}5}$$  |
+| Full Name         | Exercises    | [Lecture](/RESEARCH.md) | [Works](/works/) | Karma | Achievements           | Total                      |
+| ----------------- | ------------ | ----------------------- | ---------------- | ----- | ---------------------- | -------------------------- |
+| 🗿 Mobin Javan    |              |                         |                  | +1    | 💊 +∞                  | $${\color{lightgreen}∞}$$  |
+| 👾 Nikan Nej.     | `❶❷❸❸❸❻` +30 | ⚠️ +10                  | +4               | +5    | ⚔️🌀🔍🎯🐈‍⬛🔮🗑️🏀🎶 +11 | $${\color{lightgreen}51}$$ |
+| 🥇 Mehdi Zokaei   | `❶❷❸❸` +20   | ⚠️ +10                  | +1               | +1    | 📚🐈‍⬛🐱🔮🐙🏀 +14       | $${\color{lightgreen}45}$$ |
+| 🥇 Noyan Gol.     | `❶❷` +10     | ✅ +15                  | +2               | +6    | 🚀🤝🔮🃏👥🦉🏀🗑️🌀 +11 | $${\color{lightgreen}44}$$ |
+| 🥇 Barbod Dalir.  | `❶❷❸` +15    | ⚠️ +10                  |                  | +4    | 📚🤝🌀🏀⏳ +9          | $${\color{lightgreen}41}$$ |
+| 🥉 Amirali Yegane | `❶❷` +10     | ⚠️ +10                  |                  |       |                        | $${\color{lightgreen}20}$$ |
+| 🥉 Sepehrad       | `❶❷` +10     | ⚠️ +10                  |                  |       |                        | $${\color{lightgreen}20}$$ |
+| Ali Safaei        | `❶` +5       | ⚠️ +10                  |                  | +1    |                        | $${\color{lightgreen}16}$$ |
+| Sepanta Basiri    | `❶❷` +10     |                         |                  | +3    | 🌀 +1                  | $${\color{lightgreen}14}$$ |
+| Sadraa            | `❶` +5       |                         |                  |       | 💡🤝 +2                | $${\color{lightgreen}7}$$  |
+| Barsam            | `❶` +5       |                         |                  | +2    |                        | $${\color{lightgreen}7}$$  |
+| Hamaan            | `❶` +5       |                         |                  |       | 🌀 +1                  | $${\color{lightgreen}6}$$  |
+| Yasin             | `❶` +5       |                         |                  |       | 🎭 +1                  | $${\color{lightgreen}6}$$  |
+| Sam Rezaei.       | `❶` +5       |                         |                  |       |                        | $${\color{lightgreen}5}$$  |
 
 ## 🏆 Achievements
 
