@@ -46,7 +46,7 @@ flowchart TD
     H -- No --> G
     H -- Yes --> J[5: Set is_prime = False]
     J --> B[Break]
-    G -- No --> I{6: is_prime ?}
+    G -- No --> I{6: is_prime == True ?}
     I -- Yes --> X[7: Print number is prime]
     I -- No --> Y[8: Print is NOT prime]
     B --> I
