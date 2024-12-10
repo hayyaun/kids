@@ -39,13 +39,34 @@
 
 ```mermaid
 flowchart TD
-    A(Start) --> E[Get n]
-    E --> F[Set flag is_prime = True]
-    F --> G{Is i in range 2 to n ?}
-    G -- No --> I[Print number if is_prime]
-    G -- Yes --> H{If n % i == 0}
-    H -- Yes --> J[Set is_prime = False]
+    A(Start) --> E[1: Get n]
+    E --> F[2: Set flag is_prime = True]
+    F --> G{3: Is i in range 2 to n ?}
+    G -- Yes --> H{4: If n % i == 0}
+    H -- No --> G
+    H -- Yes --> J[5: Set is_prime = False]
     J --> B[Break]
-    B --> G
-    I --> Z(End)
+    G -- No --> I{6: is_prime ?}
+    I -- Yes --> X[7: Print number is prime]
+    I -- No --> Y[8: Print is NOT prime]
+    B --> I
+    X --> Z(End)
+    Y --> Z(End)
+
+    X@{ shape: in-out}
+    Y@{ shape: in-out}
 ```
+
+<hr/>
+
+### 👣 تعقیب
+
+برای درک بهتر فلوچارت بالا با توجه به مرحله هاش متغیرها (variables) رو تعقیب میکنیم.  
+توی این مثال کاربر ما عدد 21 رو میخاد بررسی کنه ببینه اول هست یا نه:
+
+> n = 21
+
+| مرحله      | Start | 1   | 2    |     | 3    | 4    |     | 3    | 4    | 5     | 6     | 8       | End       |
+| ---------- | ----- | --- | ---- | --- | ---- | ---- | --- | ---- | ---- | ----- | ----- | ------- | --------- |
+| `is_prime` | -     | -   | True |     | True | True |     | True | True | False | False | `False` | **False** |
+| `i`        | -     | -   | -    |     | 2    | 2    |     | 3    | 3    | 3     | -     | -       | -         |

@@ -48,6 +48,8 @@ flowchart TD
     F --> D
     D -- No --> G[6: Print answer]
     G --> H(End)
+
+    G@{ shape: in-out}
 ```
 
 <hr/>
