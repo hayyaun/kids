@@ -5,4 +5,4 @@ b = 8
 c = "Hi"
 d = "Nodet"
 
-# TODO ...
+# TODO complete the code
