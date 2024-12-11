@@ -11,13 +11,13 @@ After 50 ⭐ each 10 ⭐ is counted 1. so don't run....
 | 🗿 Mobin Javan    |              |                         |                  | +1    | 💊 +∞                    | $${\color{lightgreen}∞}$$  |
 | 👾 Nikan Nej.     | `❶❷❸❸❸❻` +30 | ✅ +15                  | +4               | +5    | ⚔️🌀🔍🎯🐈‍⬛🔮🗑️🏀🎶 +11   | $${\color{lightgreen}51}$$ |
 | 🥇 Mehdi Zokaei   | `❶❷❸❸❸` +25  | ⚠️ +10                  | +1               | +1    | 📚🐈‍⬛🐱🔮🐙🏀 +14         | $${\color{lightgreen}50}$$ |
-| 🥇 Barbod Dalir.  | `❶❷❸❸` +20   | ⚠️ +10                  |                  | +4    | 📚🤝🌀🏀⏳🧩 +14         | $${\color{lightgreen}50}$$ |
+| 🥇 Barbod Dalir.  | `❶❷❸❸` +20   | ⚠️ +10                  |                  | +4    | 📚🤝🌀🏀⏳💡 +14         | $${\color{lightgreen}50}$$ |
 | 🥇 Noyan Gol.     | `❶❷` +10     | ✅ +15                  | +2               | +6    | 🚀🤝🔮🃏👥🦉🏀🗑️🌀🐼 +12 | $${\color{lightgreen}45}$$ |
 | 🥉 Amirali Yegane | `❶❷` +10     | ✅ +15                  |                  |       |                          | $${\color{lightgreen}25}$$ |
 | 🥉 Sepehrad       | `❶❷` +10     | ⚠️ +10                  |                  |       |                          | $${\color{lightgreen}20}$$ |
 | Ali Safaei        | `❶` +5       | ⚠️ +10                  |                  | +1    |                          | $${\color{lightgreen}16}$$ |
 | Sepanta Basiri    | `❶❷` +10     |                         |                  | +3    | 🌀 +1                    | $${\color{lightgreen}14}$$ |
-| Sadraa            | `❶` +5       |                         |                  |       | 💡🤝 +2                  | $${\color{lightgreen}7}$$  |
+| Sadraa            | `❶` +5       |                         |                  |       | 💡🤝 +6                  | $${\color{lightgreen}11}$$ |
 | Barsam            | `❶` +5       |                         |                  | +2    |                          | $${\color{lightgreen}7}$$  |
 | Hamaan            | `❶` +5       |                         |                  |       | 🌀 +1                    | $${\color{lightgreen}6}$$  |
 | Yasin             | `❶` +5       |                         |                  |       | 🎭 +1                    | $${\color{lightgreen}6}$$  |
@@ -31,10 +31,10 @@ Students may get this tags inside or out of the class.
 | ------------------------- | ---------------------- | ------------------------- | -------------------- |
 | 💊 Matrix Breaker +∞      | 🌀 Loop Legend         | 🎭 Creative Coder         | 🐼 Lazy Panda        |
 | 🗑️ Spammer -1             | 🚀 Innovator           | 🐛 Debug Dynamo           | 👾 Game Developer    |
-| 🧩 Problem Solver +5      | 🐈‍⬛ Github Guy          | 🔍 Resourceful Researcher | 🎯 Direct Dynamo     |
+| 💡 Concept Crusader +5    | 🐈‍⬛ Github Guy          | 🔍 Resourceful Researcher | 🎯 Direct Dynamo     |
 | 🏀 Pro Gamer +5           | 🎶 Module Maestro      | 📦 Function First-timer   | 🃏 Joker             |
 | 📚 Quick Learner          | 🔱 Terminal Titan      | 🐱 Code Curious           | ⏳ Conqueror of Time |
-| ⚔️ Syntax Slayer          | 🧪 Algorithm Alchemist | 💡 Concept Crusader       | 🦉 Night Owl         |
+| ⚔️ Syntax Slayer          | 🧪 Algorithm Alchemist | 🧩 Problem Solver         | 🦉 Night Owl         |
 | 🤝 Collaboration Champion | 👥 Teamworker          | 🔮 Code Wizard            | 🐙 Github Master +5  |
 
 ## 💻 Works
