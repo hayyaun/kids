@@ -14,11 +14,11 @@ def check_hit_borders(ball, lim_x, lim_y, score_board, update_scores):
         # UNCOMMENT ball.sety(lim_y)
         # TODO reverse dy
 
-    # if ball y is less than limit y, reverse dy
+    # elif ball y is less than limit y, reverse dy
         # UNCOMMENT ball.sety(-lim_y)
         # TODO reverse dy
 
-    # if ball x is bigger than limit x, left player is scored!
+    # elif ball x is bigger than limit x, left player is scored!
         # Left player scored!
         # Reset ball position
         # TODO go to (0,0) coordinate
@@ -27,7 +27,7 @@ def check_hit_borders(ball, lim_x, lim_y, score_board, update_scores):
         # TODO increase left player score
         # TODO update scores
 
-    # if ball x is less than limit x, right player is scored!
+    # elif ball x is less than limit x, right player is scored!
         # Right player scored!
         # Reset ball position
         # TODO go to (0,0) coordinate

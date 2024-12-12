@@ -1,9 +1,9 @@
 
 
-# Check Paddle and Ball collision
+# Check Rocket and Ball collision
 
 
-def check_ball_paddle_collision(ball, left_pad, right_pad):
+def check_ball_rocket_collision(ball, left_pad, right_pad):
 
     ball_x = ball.xcor()
     ball_y = ball.ycor()

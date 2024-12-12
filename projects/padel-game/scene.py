@@ -1,6 +1,6 @@
 import turtle
 
-# Create scence elements: Screen, Ball, Paddles
+# Create scence elements: Screen, Ball, Rockets
 
 # Hint: You can read documentations: https://docs.python.org/3/library/turtle.html#turtle.title
 # Hint: You can read documentations: https://docs.python.org/3/library/turtle.html#turtle.bgcolor
@@ -30,12 +30,12 @@ def create_ball():
     return ball
 
 
-def create_paddle(position):
+def create_rocket(position):
     pad = turtle.Turtle()
-    # TODO paddle has 0 speed
-    # TODO paddle has square shape
-    # TODO paddle has black color
-    # TODO paddle size is 6x2
+    # TODO rocket has 0 speed
+    # TODO rocket has square shape
+    # TODO rocket has black color
+    # TODO rocket size is 6x2
     pad.penup()
     # TODO go to (position, 0) coordinate
     return pad

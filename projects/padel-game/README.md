@@ -5,7 +5,7 @@ Below is the flowchart of the game:
 ```mermaid
 flowchart TD
     n1["Untitled Node"] --> n2["create game screen"]
-    n2 --> n4["create left and right paddles"]
+    n2 --> n4["create left and right rockets"]
     n4 --> n3["create ball<br>"]
     n3 --> n5["create scoreboard"]
     n5 --> n6["add init scores"]
@@ -21,7 +21,7 @@ flowchart TD
     n13 -- hit left border --> n16["right player scored!"]
     n16 --> n19["move ball to center"]
     n17 --> n19
-    n14["check if ball hit paddle"] -- hit left/right paddle --> n18["bounce back horizontally"]
+    n14["check if ball hit rocket"] -- hit left/right rocket --> n18["bounce back horizontally"]
     n19 --> n20["update scores"]
     n15 --> n14
     n20 --> n21["update score board"]
