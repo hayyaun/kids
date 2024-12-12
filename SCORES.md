@@ -31,15 +31,15 @@ After 50 ⭐ each 10 ⭐ is counted 1. so don't run....
 
 Students may get this tags inside or out of the class.
 
-| Titles                        |                        |                           |                      |
-| ----------------------------- | ---------------------- | ------------------------- | -------------------- |
-| 💊 Matrix Breaker +∞          | 🌀 Loop Legend         | 🎭 Creative Coder         | 🐼 Lazy Panda        |
-| 🗑️ Spammer -1                 | 🚀 Innovator           | 🐛 Debug Dynamo           | 👾 Game Developer    |
-| 💡 Concept Crusader +5        | 🐈‍⬛ Github Guy          | 🔍 Resourceful Researcher | 🎯 Direct Dynamo     |
-| 🏀 Pro Gamer +5               | 🎶 Module Maestro      | 📦 Function First-timer   | 🃏 Joker             |
-| 📚 Quick Learner              | 🔱 Terminal Titan      | 🐱 Code Curious           | ⏳ Conqueror of Time |
-| 🐙 Github Master +5           | 🧪 Algorithm Alchemist | 🧩 Problem Solver         | 🦉 Night Owl         |
-| 🤝 Collaboration Champion +10 | 👥 Teamworker          | 🔮 Code Wizard            | ⚔️ Syntax Slayer     |
+| Titles                 |                        |                           |                      |
+| ---------------------- | ---------------------- | ------------------------- | -------------------- |
+| 💊 Matrix Breaker +∞   | 🌀 Loop Legend         | 🎭 Creative Coder         | 🐼 Lazy Panda        |
+| 🗑️ Spammer -1          | 🚀 Innovator           | 🐛 Debug Dynamo           | 👾 Game Developer    |
+| 💡 Concept Crusader +5 | 🐈‍⬛ Github Guy          | 🔍 Resourceful Researcher | 🎯 Direct Dynamo     |
+| 🏀 Pro Gamer +5        | 🎶 Module Maestro      | 📦 Function First-timer   | 🃏 Joker             |
+| 📚 Quick Learner       | 🔱 Terminal Titan      | 🐱 Code Curious           | ⏳ Conqueror of Time |
+| 🐙 Github Master +5    | 🧪 Algorithm Alchemist | 🧩 Problem Solver         | 🦉 Night Owl         |
+| 🤝 Collab Champion +10 | 👥 Teamworker          | 🔮 Code Wizard            | ⚔️ Syntax Slayer     |
 
 ## 💻 Works
 
