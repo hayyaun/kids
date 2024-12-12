@@ -2,9 +2,11 @@
 
 
 def factorial(n):
-    # TODO ...
+    answer = 1
+    # TODO loop
+    return answer
 
 
-factorial(3)
-factorial(4)
-factorial(5)
+print('3! =', factorial(3))
+print('4! =', factorial(4))
+print('5! =', factorial(5))
