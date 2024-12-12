@@ -1,11 +1,10 @@
 ## ⭐ Scores
 
 Below are the scores of the students, whoever reaches score 50 ⭐ would be added to the final Game Project.  
-People with more than 1000 ⭐ are too overqualified for joining final Game Project.  
 After 50 ⭐ each 10 ⭐ is counted 1. so don't run....
 
-> **Medals:** &nbsp; +20 🥉 &nbsp; +30 🥈 &nbsp; +40 🥇
-> **Group:** &nbsp; 1 🟠 &nbsp; 2 🔵 &nbsp; 3 🟣
+> **Medals:** &nbsp; +20 🥉 &nbsp; +30 🥈 &nbsp; +40 🥇  
+> **Groups:** &nbsp; 1 🟠 &nbsp; 2 🔵 &nbsp; 3 🟣
 
 | Full Name           | Exercises    | [Lecture](/RESEARCH.md) | [Works](/works/) | Karma | Achievements           | Total                      |
 | ------------------- | ------------ | ----------------------- | ---------------- | ----- | ---------------------- | -------------------------- |
