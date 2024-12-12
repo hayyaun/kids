@@ -1,7 +1,7 @@
 ## ⭐ Scores
 
 Below are the scores of the students, whoever reaches score 50 ⭐ would be added to the final Game Project.  
-After 50 ⭐ each 10 ⭐ is counted 1. so don't run....
+After 50 ⭐ each 10 ⭐ is counted as 1. so don't run....
 
 > **Medals:** &nbsp; +20 🥉 &nbsp; +30 🥈 &nbsp; +40 🥇  
 > **Groups:** &nbsp; 1 🟠 &nbsp; 2 🔵 &nbsp; 3 🟣
