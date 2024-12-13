@@ -34,15 +34,15 @@
 ```mermaid
 flowchart TD
     A(Start) --> E[1: Get n]
-    E --> F[2: Set flag is_prime = True]
+    E --> F[2: is_prime = True 🏳️]
     F --> G{3: Is i in range 2 to n ?}
     G -- Yes --> H{4: If n % i == 0}
     H -- No --> G
-    H -- Yes --> J[5: Set is_prime = False]
+    H -- Yes --> J[5: is_prime = False 🏴 ]
     J --> B[Break]
     G -- No --> I{6: is_prime == True ?}
-    I -- Yes --> X[7: Print number is prime]
-    I -- No --> Y[8: Print is NOT prime]
+    I -- Yes --> X[7: number is prime 🏳️]
+    I -- No --> Y[8: NOT prime 🏴 ]
     B --> I
     X --> Z(End)
     Y --> Z(End)
