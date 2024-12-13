@@ -12,9 +12,9 @@ After 50 ⭐ each 10 ⭐ is counted as 1. so don't run....
 | 🔵🥉 Mahan A.P.     | `❶` +5       |                         |                  | +1    | 🧩🤝📚🏀 +21           | $${\color{lightgreen}26}$$ |
 | 🟠🥉 Amirali Yegane | `❶❷` +10     | ✅ +15                  |                  |       |                        | $${\color{lightgreen}25}$$ |
 | 🔵🥉 Sadra          | `❶` +5       |                         |                  |       | 💡🤝🏀 +16             | $${\color{lightgreen}21}$$ |
+| 🔵🥔 Mehryad Akh.   | `❶` +5       |                         |                  |       | 🏀🤝 +15               | $${\color{lightgreen}20}$$ |
 | 🔵🥔 Abbas S.B.     | `❶` +5       |                         |                  | +1    | 🧩🤝 +11               | $${\color{lightgreen}17}$$ |
 | 🟠🥔 Ali Safaei     | `❶` +5       | ⚠️ +10                  |                  | +1    |                        | $${\color{lightgreen}16}$$ |
-| 🔵🥔 Mehryad Akh.   | `❶` +5       |                         |                  |       | 🤝 +10                 | $${\color{lightgreen}15}$$ |
 | 🟠🥔 Sepanta Basiri | `❶❷` +10     |                         |                  | +3    | 🌀 +1                  | $${\color{lightgreen}14}$$ |
 | 🟣🥔 Barsam         | `❶` +5       |                         |                  | +2    | 🏀 +5                  | $${\color{lightgreen}12}$$ |
 | 🟣🥔 Hamaan         | `❶` +5       |                         |                  | +2    | 🌀 +1                  | $${\color{lightgreen}8}$$  |
