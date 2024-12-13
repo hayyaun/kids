@@ -41,8 +41,8 @@ flowchart TD
     H -- Yes --> J[5: is_prime = False 🏴 ]
     J --> B[Break]
     G -- No --> I{6: is_prime == True ?}
-    I -- Yes --> X[7: number is prime 🏳️]
-    I -- No --> Y[8: NOT prime 🏴 ]
+    I -- Yes --> X[7: Prime! 🏳️]
+    I -- No --> Y[8: NOT Prime 😭🏴 ]
     B --> I
     X --> Z(End)
     Y --> Z(End)
