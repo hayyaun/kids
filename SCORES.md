@@ -21,7 +21,7 @@ After 50 ⭐ each 10 ⭐ is counted as 1. so don't run....
 | 🔵🥔 Mehryad Akh.   | `❶` +5       |                         |                  |       | 🤝 +10                 | $${\color{lightgreen}15}$$ |
 | 🟠🥔 Sepanta Basiri | `❶❷` +10     |                         |                  | +3    | 🌀 +1                  | $${\color{lightgreen}14}$$ |
 | 🟣🥔 Barsam         | `❶` +5       |                         |                  | +2    | 🏀 +5                  | $${\color{lightgreen}12}$$ |
-| 🔵🥔 Mobin Javan    | `❶` +5       |                         |                  | +1    | 🃏 +1                  | $${\color{lightgreen}7}$$  |
+| 🔵🍅 Mobin Javan    | `❶` +5       |                         |                  | +1    | 🃏 +1                  | $${\color{lightgreen}7}$$  |
 | 🟣🥔 Hamaan         | `❶` +5       |                         |                  | +1    | 🌀 +1                  | $${\color{lightgreen}7}$$  |
 | 🟠🥔 Yasin          | `❶` +5       |                         |                  |       | 🎭 +1                  | $${\color{lightgreen}6}$$  |
 | 🟣🥔 Mehrshad       | `❶` +5       |                         |                  |       |                        | $${\color{lightgreen}5}$$  |
