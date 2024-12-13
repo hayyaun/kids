@@ -52,6 +52,8 @@ flowchart TD
 
     n1@{ shape: rect}
     H@{ shape: in-out}
+    Z@{ shape: terminal}
+    A@{ shape: terminal}
 ```
 
 ### 👣 تعقیب

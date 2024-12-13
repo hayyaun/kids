@@ -94,4 +94,8 @@ flowchart TD
 
     n7@{ shape: event}
     n1@{ shape: proc}
+    n7@{ shape: terminal}
+    A@{ shape: terminal}
+    L@{ shape: terminal}
+    n15@{ shape: terminal}
 ```

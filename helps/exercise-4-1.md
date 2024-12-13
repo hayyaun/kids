@@ -34,4 +34,6 @@ flowchart TD
     G --> E
 
     G@{ shape: in-out}
+    L@{ shape: terminal}
+    A@{ shape: terminal}
 ```

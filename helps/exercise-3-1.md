@@ -44,6 +44,8 @@ flowchart TD
     G --> H(End)
 
     G@{ shape: in-out}
+    A@{ shape: terminal }
+    H@{ shape: terminal }
 ```
 
 ### 👣 تعقیب
