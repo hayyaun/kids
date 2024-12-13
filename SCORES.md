@@ -18,7 +18,7 @@ After 50 ⭐ each 10 ⭐ is counted as 1. so don't run....
 | 🟣🥉 Sepehrad       | `❶❷` +10     | ⚠️ +10                  |                  |       |                        | $${\color{lightgreen}20}$$ |
 | 🔵 Abbas S.B.       | `❶` +5       |                         |                  | +1    | 🧩🤝 +11               | $${\color{lightgreen}17}$$ |
 | 🟠 Ali Safaei       | `❶` +5       | ⚠️ +10                  |                  | +1    |                        | $${\color{lightgreen}16}$$ |
-| 🔵 Mehryad Akh.     | `❶` +5       |                         |                  |       | 🤝                     | $${\color{lightgreen}15}$$ |
+| 🔵 Mehryad Akh.     | `❶` +5       |                         |                  |       | 🤝 +10                 | $${\color{lightgreen}15}$$ |
 | 🟠 Sepanta Basiri   | `❶❷` +10     |                         |                  | +3    | 🌀 +1                  | $${\color{lightgreen}14}$$ |
 | 🟣 Barsam           | `❶` +5       |                         |                  | +2    | 🏀 +5                  | $${\color{lightgreen}12}$$ |
 | 🔵 Mobin Javan      | `❶` +5       |                         |                  | +1    | 🃏 +1                  | $${\color{lightgreen}7}$$  |
