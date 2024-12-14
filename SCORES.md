@@ -6,25 +6,25 @@ After 50 ⭐ each 10 ⭐ is counted as 1. so don't run....
 > **Medals:** &nbsp; +20 🥉 &nbsp; +30 🥈 &nbsp; +40 🥇  
 > **Groups:** &nbsp; 1 🟠 &nbsp; 2 🔵 &nbsp; 3 🟣
 
-| Full Name         | Exercises    | [Lecture](/RESEARCH.md) | [Works](/works/) | Karma | Achievements           | Total                      |
-| ----------------- | ------------ | ----------------------- | ---------------- | ----- | ---------------------- | -------------------------- |
-| 🟣👾 Nikan NF.    | `❶❷❸❸❸❻` +30 | ⏳ +15                  | +4               | +5    | ⚔️🌀🔍🎯🐈‍⬛🔮🗑️🏀🎶 +11 | $${\color{lightgreen}51}$$ |
-| 🟣👾 Noyan GA.    | `❶❷❸❸❸` +25  | ✅ +15                  | +2               | +7    | 🚀🔮🃏👥🦉🏀🗑️🌀🐈‍⬛ +11 | $${\color{lightgreen}51}$$ |
-| 🟣👾 Mehdi Zk.    | `❶❷❸❸❸` +25  | ⏳ +10                  | +1               | +2    | 📚🐈‍⬛🐱🔮🐙🏀 +18       | $${\color{lightgreen}50}$$ |
-| 🟣👾 Sepehrad     | `❶❷❸❸❸` +25  | ⏳ +15                  |                  |       | 🐈‍⬛📚🏀 +11             | $${\color{lightgreen}50}$$ |
-| 🟣👾 Barbod DS.   | `❶❷❸❸` +20   | ⏳ +10                  |                  | +5    | 📚🌀👥🏀⏳💡🐛 +19     | $${\color{lightgreen}50}$$ |
-| 🔵🥉 Mahan AP.    | `❶` +5       |                         |                  | +1    | 🧩🤝📚🏀 +21           | $${\color{lightgreen}26}$$ |
-| 🟠🥉 Amirali Yg.  | `❶❷` +10     | ⏳ +15                  |                  |       |                        | $${\color{lightgreen}25}$$ |
-| 🔵🥉 Sadra        | `❶` +5       |                         |                  |       | 💡🤝🏀 +16             | $${\color{lightgreen}21}$$ |
-| 🔵🥔 Mehryad Akh. | `❶` +5       |                         |                  |       | 🏀🤝 +15               | $${\color{lightgreen}20}$$ |
-| 🔵🥔 Abbas SB.    | `❶` +5       |                         |                  | +1    | 🧩🤝 +11               | $${\color{lightgreen}17}$$ |
-| 🟠🥔 Ali Safaei   | `❶` +5       | ⏳ +10                  |                  | +1    |                        | $${\color{lightgreen}16}$$ |
-| 🟠🥔 Sepanta Bs.  | `❶❷` +10     |                         |                  | +3    | 🌀 +1                  | $${\color{lightgreen}14}$$ |
-| 🟣🥔 Barsam HP.   | `❶` +5       |                         |                  | +2    | 🏀 +5                  | $${\color{lightgreen}12}$$ |
-| 🟣🥔 Hamaan       | `❶` +5       |                         |                  | +2    | 🌀 +1                  | $${\color{lightgreen}8}$$  |
-| 🔵🥝 Mobin Javan  | `❶` +5       |                         |                  | +1    | 🃏 +1                  | $${\color{lightgreen}7}$$  |
-| 🟠🥔 Yasin        | `❶` +5       |                         |                  |       | 🎭 +1                  | $${\color{lightgreen}6}$$  |
-| 🟣🥔 Mehrshad     | `❶` +5       |                         |                  |       |                        | $${\color{lightgreen}5}$$  |
+| Full Name         | Exercises    | [Lecture](/RESEARCH.md) | [Works](/works/) | Karma | Achievements             | Total                      |
+| ----------------- | ------------ | ----------------------- | ---------------- | ----- | ------------------------ | -------------------------- |
+| 🟣👾 Nikan NF.    | `❶❷❸❸❸❻` +30 | ⏳ +15                  | +4               | +5    | ⚔️🌀🔍🎯🐈‍⬛🔮🗑️🏀🎶🦉 +17 | $${\color{lightgreen}51}$$ |
+| 🟣👾 Noyan GA.    | `❶❷❸❸❸` +25  | ✅ +15                  | +2               | +7    | 🚀🔮🃏👥🦉🏀🗑️🌀🐈‍⬛ +11   | $${\color{lightgreen}51}$$ |
+| 🟣👾 Mehdi Zk.    | `❶❷❸❸❸` +25  | ⏳ +10                  | +1               | +2    | 📚🐈‍⬛🐱🔮🐙🏀 +18         | $${\color{lightgreen}50}$$ |
+| 🟣👾 Sepehrad     | `❶❷❸❸❸` +25  | ⏳ +15                  |                  |       | 🐈‍⬛📚🏀 +11               | $${\color{lightgreen}50}$$ |
+| 🟣👾 Barbod DS.   | `❶❷❸❸` +20   | ⏳ +10                  |                  | +5    | 📚🌀👥🏀⏳💡🐛 +19       | $${\color{lightgreen}50}$$ |
+| 🟠🥉 Amirali Yg.  | `❶❷` +10     | ⏳ +15                  |                  |       | 🔍 +5                    | $${\color{lightgreen}30}$$ |
+| 🔵🥉 Mahan AP.    | `❶` +5       |                         |                  | +1    | 🧩🤝📚🏀 +21             | $${\color{lightgreen}26}$$ |
+| 🔵🥉 Sadra        | `❶` +5       |                         |                  |       | 💡🤝🏀 +16               | $${\color{lightgreen}21}$$ |
+| 🔵🥔 Mehryad Akh. | `❶` +5       |                         |                  |       | 🏀🤝 +15                 | $${\color{lightgreen}20}$$ |
+| 🔵🥔 Abbas SB.    | `❶` +5       |                         |                  | +1    | 🧩🤝 +11                 | $${\color{lightgreen}17}$$ |
+| 🟠🥔 Ali Safaei   | `❶` +5       | ⏳ +10                  |                  | +1    |                          | $${\color{lightgreen}16}$$ |
+| 🟠🥔 Sepanta Bs.  | `❶❷` +10     |                         |                  | +3    | 🌀 +1                    | $${\color{lightgreen}14}$$ |
+| 🟣🥔 Barsam HP.   | `❶` +5       |                         |                  | +2    | 🏀 +5                    | $${\color{lightgreen}12}$$ |
+| 🟣🥔 Hamaan       | `❶` +5       |                         |                  | +2    | 🌀 +1                    | $${\color{lightgreen}8}$$  |
+| 🔵🥝 Mobin Javan  | `❶` +5       |                         |                  | +1    | 🃏 +1                    | $${\color{lightgreen}7}$$  |
+| 🟠🥔 Yasin        | `❶` +5       |                         |                  |       | 🎭 +1                    | $${\color{lightgreen}6}$$  |
+| 🟣🥔 Mehrshad     | `❶` +5       |                         |                  |       |                          | $${\color{lightgreen}5}$$  |
 
 ## 🏆 Achievements
 
