@@ -15,6 +15,7 @@ After 50 ⭐ each 10 ⭐ is counted as 1. so don't run....
 | 🟣👾 Sepehrad     | `❶❷❸❸❸` +25  | ⏳ +15                  |                  |       | 📚+🐈‍⬛🏀 +20               | $${\color{lightgreen}51}$$ |
 |                   |              |                         |                  |       |                           |                            |
 | 🔵🥉 Mahan AP.    | `❶` +5       |                         |                  | +1    | 🤝📚+🧩🏀 +30             | $${\color{lightgreen}36}$$ |
+| 🟣🥔 Hamaan       | `❶❷❸` +15    |                         |                  | +2    | 🌀🏀 +10                  | $${\color{lightgreen}30}$$ |
 | 🟠🥉 Amirali Yg.  | `❶❷` +10     | ⏳ +15                  |                  |       | 🔍 +5                     | $${\color{lightgreen}30}$$ |
 | 🔵🥉 Sadra        | `❶` +5       |                         |                  |       | 🤝+💡🏀 +20               | $${\color{lightgreen}25}$$ |
 | 🔵🥔 Abbas SB.    | `❶` +5       |                         |                  | +1    | 🤝+🧩 +15                 | $${\color{lightgreen}21}$$ |
@@ -22,7 +23,6 @@ After 50 ⭐ each 10 ⭐ is counted as 1. so don't run....
 |                   |              |                         |                  |       |                           |                            |
 | 🟠🥔 Sepanta Bs.  | `❶❷` +10     |                         |                  | +3    | 🌀 +5                     | $${\color{lightgreen}18}$$ |
 | 🟠🥔 Ali Safaei   | `❶` +5       | ⚠️ +10                  |                  | +1    |                           | $${\color{lightgreen}16}$$ |
-| 🟣🥔 Hamaan       | `❶` +5       |                         |                  | +2    | 🌀 +5                     | $${\color{lightgreen}15}$$ |
 | 🟣🥔 Barsam HP.   | `❶` +5       |                         |                  | +2    | 🏀 +5                     | $${\color{lightgreen}12}$$ |
 | 🔵🥝 Mobin Javan  | `❶` +5       |                         |                  | +1    | 🃏-🗑️ +4                  | $${\color{lightgreen}10}$$ |
 | 🟠🥔 Yasin        | `❶` +5       |                         |                  |       | 🎭 +5                     | $${\color{lightgreen}10}$$ |
