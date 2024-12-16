@@ -4,5 +4,6 @@
     "./projects/ping-pong",
     "./projects/ping-pong",
     "./projects/ping-pong"
-  ]
+  ],
+  "workbench.startupEditor": "readme"
 }
