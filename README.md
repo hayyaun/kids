@@ -32,6 +32,7 @@ Leveled exercises for students to practice.
 Each exercise has 5 score. You can solve the ones with 🟢 flag!  
 You can [**Send Answers Here**](https://github.com/hayyaun/kids/discussions/4) ✅ with an **screenshot**
 
+- 🟢 **HELP!!** - [Learn How to Use Help Files](/helps/README.md)
 - 🟢 **Exercise 1** - [Print to Terminal](/helps/exercise-1.md)
 - 🟢 **Exercise 2** - [Calculator](/helps/exercise-2.md)
 - 🟢 **Exercise 3-1** - [Factorial](/helps/exercise-3-1.md)
