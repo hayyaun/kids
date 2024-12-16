@@ -1,3 +1,8 @@
-# Show Prime numbers below n
-# 1. Get a number from user in Terminal
-# 2. Print each prime number below n
+# Use List to store a Fibbonacci series
+
+n = 10
+fib = []
+
+# TODO fill the fib list to contain 10 items
+
+print(f'Fibbonacci serie: {fib}')

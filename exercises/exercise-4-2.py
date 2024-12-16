@@ -1,15 +1,6 @@
-# Swap function
+# Fa-En Dictionary
 
-
-def swap(a, b):
-
-    print(f'before:\t a = {a}, b = {b}')
-
-    # TODO ...
-
-    print(f'after:\t a = {a}, b = {b}')
-
-
-swap(3, 4)
-swap(8, 5)
-swap(2, 6)
+# 1. Create a Fa-En dictionary
+# 2. In a loop: get a word from user
+# 2.1. If available: Show translation
+# 2.2. If not available: Say 404!

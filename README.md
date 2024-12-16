@@ -36,9 +36,11 @@ You can [**Send Answers Here**](https://github.com/hayyaun/kids/discussions/4) �
 - 🟢 **Exercise 3-1** - [Factorial](/helps/exercise-3-1.md)
 - 🟢 **Exercise 3-2** - [Prime Number](/helps/exercise-3-2.md)
 - 🟢 **Exercise 3-3** - [Fibbonacci Series](/helps/exercise-3-3.md)
-- 🔴 **Exercise 4-1** - [Prime Numbers](/helps/exercise-4-1.md)
-- 🔴 **Exercise 4-2** - [Swap Function](/helps/exercise-4-2.md)
-- 🔴 **Exercise 5** - Fa-En Dictionary
+- 🔴 **Exercise 4-1** - [Fibbonacci Series List](/helps/exercise-4-1.md)
+- 🔴 **Exercise 4-2** - [Fa-En Dictionary](/helps/exercise-4-2.md)
+- 🔴 **Exercise 5-1** - [Factorial Function](/helps/exercise-5-1.md)
+- 🔴 **Exercise 5-2** - [Prime Numbers](/helps/exercise-5-2.md)
+- 🔴 **Exercise 5-3** - [Swap Function](/helps/exercise-5-3.md)
 - 🔴 **Exercise 6-1** - Guess Game
 - 🔴 **Exercise 6-2** - GUI Calculator
 - 🔴 **Exercise 7** - Smiley Face 😃

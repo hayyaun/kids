@@ -1,6 +1,3 @@
-# Fa-En Dictionary
-
-# 1. Create a Fa-En dictionary
-# 2. In a loop: get a word from user
-# 2.1. If available: Show translation
-# 2.2. If not available: Say 404!
+# Show Prime numbers below n
+# 1. Get a number from user in Terminal
+# 2. Print each prime number below n
