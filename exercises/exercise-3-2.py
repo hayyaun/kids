@@ -16,7 +16,6 @@ for i in range(2, n):
   # Check if n is divided by i
   # if Yes: set is_prime False
   # and stop the loop
-  # if No: do nothing...
 
 if is_prime:
     print(n, 'is prime')
