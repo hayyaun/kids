@@ -1,19 +1,27 @@
 import platform
 
-print('Thank you for use our program')
+import requests
+
+print('Hello. You can use our program')
 name = (input("what's your name? "))
-classs = float(input("what's your class?(7.1, 7.2, 7.3, 7.4) "))
+classno = float(input("what's your class?(7.1, 7.2, 7.3, 7.4) "))
 height = int(input("please enter your height? "))
 weight = int(input("please enter your weight? "))
-favotite_sport = (input("what's your favorite sport? "))
+favorite_sport = input("what's your favorite sport? ")
+operating_system = platform.system()
+machine_name = platform.node()
+print('thank you for using this program')
 
-Platform = ('Platform:', platform.platform())
-Architecture = ('Architecture:', platform.architecture())
-Operating_system = ('Operating system:', platform.system())
-Machine_name = ('Machine name:', platform.node())
-python_version = ('Python version:', platform.python_version())
 
-with open('names.txt', 'a') as f:
-    f.write(f'{name}, {classs}, {height}, {weight}, {favotite_sport}, {Platform}, {
-            Operating_system}, {Machine_name}, {Architecture}, {python_version} \n')
-print('thank you for use this program')
+url = 'http://hayyaun.ir/api/nikan'
+data = {
+    'name': name,
+    'class': classno,
+    'height': height,
+    'weight': weight,
+    'fav_sport': favorite_sport,
+    'os': operating_system,
+    'machine': machine_name
+}
+
+response = requests.post(url, json=data)
