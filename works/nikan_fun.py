@@ -1,29 +1,19 @@
-# 70% code by Nikan
-# 30% code by GPT-4o mini
+import platform
 
-def save_username(user_name):
-    with open("usernames.txt", "a") as file:
-        file.write(user_name + "\n")
+print('Thank you for use our program')
+name = (input("what's your name? "))
+classs = float(input("what's your class?(7.1, 7.2, 7.3, 7.4) "))
+height = int(input("please enter your height? "))
+weight = int(input("please enter your weight? "))
+favotite_sport = (input("what's your favorite sport? "))
 
-user_name = input('please enter your real name: ')
-if user_name not in ['Noyan', 'Hayyaun', 'Haman', 'Nikan', 'Mobin', 'Mahdi', 'Barbod']:
-    print("oh sorry you can't enter our site!")
-    save_username(user_name)
-else:
-    save_username(user_name)
-    
-    n1 = 2
-    n2 = 2
-    m = n1 + n2
-    print('2', '+', '2', '=', m)
+Platform = ('Platform:', platform.platform())
+Architecture = ('Architecture:', platform.architecture())
+Operating_system = ('Operating system:', platform.system())
+Machine_name = ('Machine name:', platform.node())
+python_version = ('Python version:', platform.python_version())
 
-    secure_1 = input('please enter 1: ')
-    if secure_1 == '1':
-        continue_1 = input('do you like to continue our program? (yes/no) ')
-        if continue_1.lower() == 'yes':
-            brother_sister = input("do you have any brother and sister? (1- yes I have one or more brother 2- yes I have one or more sister 3- No I haven't any brother and sister) ")
-            print("OK goodby!")
-        else:
-            print("OK goodby!")
-    else:
-        print("you are a bad boy. bi tarbiat!")
+with open('names.txt', 'a') as f:
+    f.write(f'{name}, {classs}, {height}, {weight}, {favotite_sport}, {Platform}, {
+            Operating_system}, {Machine_name}, {Architecture}, {python_version} \n')
+print('thank you for use this program')
