@@ -1,25 +1,13 @@
 ## 👾 Groups
 
-🟠 Game Group 1
-🟣 Game Group 2
-🔵 Game Group 3
-
-| Full Name            | Lecture | Karma |
-| -------------------- | ------- | ----- |
-| 🟠 Mehryad Akh.      |         |       |
-| 🟠 Sepanta Bs.       |         | 3     |
-| 🟠 Ali Safaei ⚠️ +10 |         | 1     |
-| 🟠 Barsam HP.        |         | 2     |
-| 🟣 Nikan NF.         | ⏳      | 6     |
-| 🟣 Noyan GA.         | ✅      | 8     |
-| 🟣 Mehdi Zk.         | ⚠️      | 4     |
-| 🟣 Barbod DS.        | ⚠️      | 5     |
-| 🟣 Sepehrad          | ⏳      |       |
-| 🟣 Hamaan            | ⚠️      | 2     |
-| 🔵 Mahan AP.         |         | 1     |
-| 🔵 Amirali Yg.       | ⏳      |       |
-| 🔵 Sadra             |         |       |
-| 🔵 Abbas SB.         |         | 1     |
+| 🟠 Game Group 1 | 🟣 Game Group 2 | 🔵 Game Group 3 |
+| --------------- | --------------- | --------------- |
+| Mehryad Akh.    | Nikan NF.       | Mahan AP.       |
+| Sepanta Bs.     | Noyan GA.       | Amirali Yg.     |
+| Ali Safaei      | Mehdi Zk.       | Sadra           |
+| Barsam HP.      | Barbod DS.      | Abbas SB.       |
+|                 | Sepehrad        |                 |
+|                 | Hamaan          |                 |
 
 ## 💻 Works
 
