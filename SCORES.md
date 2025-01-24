@@ -1,14 +1,3 @@
-## 👾 Groups
-
-| 🟠 Game Group 1 | 🟣 Game Group 2 | 🔵 Game Group 3 |
-| --------------- | --------------- | --------------- |
-| Mehryad Akh.    | Nikan NF.       | Mahan AP.       |
-| Sepanta Bs.     | Noyan GA.       | Amirali Yg.     |
-| Ali Safaei      | Mehdi Zk.       | Sadra           |
-| Barsam HP.      | Barbod DS.      | Abbas SB.       |
-|                 | Sepehrad        |                 |
-|                 | Hamaan          |                 |
-
 ## 💻 Works
 
 Here is a list of top works of our students.
