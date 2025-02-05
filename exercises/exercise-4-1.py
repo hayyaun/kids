@@ -1,8 +1,8 @@
 # Use List to store a Fibbonacci series
 
-n = 10
+n = int(input('Enter a number: '))
 fib = []
 
-# TODO fill the fib list to contain 10 items
+# TODO fill the fib list to contain n items
 
 print(f'Fibbonacci serie: {fib}')
