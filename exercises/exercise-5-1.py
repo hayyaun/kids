@@ -1,10 +1,7 @@
 # Factorial function
 
 
-def factorial(n):
-    answer = 1
-    # TODO loop
-    return answer
+# TODO def factorial(n):
 
 
 print('3! =', factorial(3))
