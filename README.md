@@ -1,41 +1,37 @@
-This repository is for students to learn basics of python along with flowcharts.  
-If you have **any question** you can start a converstation in the [Discussion](https://github.com/hayyaun/kids/discussions) section.  
-Or join the [Telegram Channel](https://t.me/nodetcode) and comment under the Q&A section.
+<div dir="rtl">
 
-#### 🔥 Please install the following applications 🔥
+سلام به همگی! این مخزن درسی برای یادگیری پایتون مبتدی دانش آموزان درست شده  
+لطفا اگه سوالی داشتید توی بخش [بحث و گفتگو](https://github.com/hayyaun/kids/discussions) پپرسید  
+
+#### 🔥 برنامه های مورد نیاز 🔥
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/downloads/release/python-3130/) &nbsp; [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads) &nbsp; [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-### 🔗 Links
 
-- 💬 [**Chat**](https://github.com/hayyaun/kids/discussions/1)
-- ⭐ [**Scores**](/SCORES.md)
-- 💻 [**Exercises**](#-exercises)
-- ✅ [**Send Answers**](https://github.com/hayyaun/kids/discussions/4)
-- 💡 [**Research Topics**](/RESEARCH.md)
+## 🧠 چیزایی که یاد میگیریم
 
-## 🧠 What we learn
+این پایین لیست موضوعاتی که توی این دوره بهشون میپردازیم رو نوشتم:  
 
-Below are the list of things students will learn during class or Game Project:
+- **مقدمات برنامه نویسی** [(پایتون)](/sessions/TOPICS.md)
+- **الگوریتم و فلوچارت**
+- **کلیدهای میانبر**
+- **استفاده از ترمینال**
+- **دیباگ کردن**
 
-- **Basics of Coding** [(Python)](/sessions/TOPICS.md)
-- **Algorithm & Flowcharts**
-- **VSCode shortcuts**
-- **Using Terminal**
-- **Debugging**
+## 🧑‍💻 تمرین ها
 
-## 🧑‍💻 Exercises
+شما میتونید جواب تمرین هاتون رو اینجا بفرستید [**اینجا بفرسنید**](https://github.com/hayyaun/kids/discussions/4) ✅  
+حتما کد یا اسکرین شات رو ارسال کنید  
 
-Leveled exercises for students to practice.  
-Each exercise has 5 score. You can solve the ones with 🟢 flag!  
-You can [**Send Answers Here**](https://github.com/hayyaun/kids/discussions/4) ✅ with an **screenshot**
 
-- 🟢 **HELP!** - [Learn to use Helps](/helps/README.md)
-- 🟢 **Exercise 1** - [Print to Terminal](/helps/exercise-1.md)
-- 🟢 **Exercise 2** - [Calculator](/helps/exercise-2.md)
-- 🟢 **Exercise 3-1** - [Factorial](/helps/exercise-3-1.md)
-- 🟢 **Exercise 3-2** - [Prime Number](/helps/exercise-3-2.md)
-- 🟢 **Exercise 3-3** - [Fibbonacci Series](/helps/exercise-3-3.md)
+[<img alt="get started" src="https://github.com/user-attachments/assets/d60dc591-253e-438e-ac40-caf3bf7777b6" height="200px" />](/helps/README.md)
+[<img alt="print hello world" src="https://github.com/user-attachments/assets/27250c2c-286e-4f67-975e-7cd414c6ad8e" height="200px" />](/helps/exercise-1.md)
+[<img alt="calculator exercise" src="https://github.com/user-attachments/assets/ff403411-a803-494f-919d-a75372162db5" height="200px" />](/helps/exercise-2.md)
+[<img alt="factorial exercise" src="https://github.com/user-attachments/assets/96463fb4-8839-4740-ab11-4d12ee764d51" height="200px" />](/helps/exercise-3-1.md)
+[<img alt="prime numbers exercise" src="https://github.com/user-attachments/assets/7b68aadf-a603-4746-97bb-47be06f8d05f" height="200px" />](/helps/exercise-3-2.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/12625bd8-4ec3-464b-ab69-271b1e7fbae9" height="200px" />](/helps/exercise-3-3.md)
+
+
 - 🟢 **Exercise 4-1** - [Fibbonacci Series List](/helps/exercise-4-1.md)
 - 🟢 **Exercise 4-2** - [Fa-En Dictionary](/helps/exercise-4-2.md)
 - 🟢 **Exercise 5-1** - [Factorial Function](/helps/exercise-5-1.md)
@@ -47,3 +43,5 @@ You can [**Send Answers Here**](https://github.com/hayyaun/kids/discussions/4) �
 - 🔴 **Exercise 8** - Anything!
 - ⚫️ **Telegram Bot** - [Guess Game](/projects/guess-bot/)
 - ⚫️ **Game Project** - [Ping Pong](/projects/ping-pong/)
+
+</div>
