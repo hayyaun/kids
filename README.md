@@ -32,16 +32,7 @@
 [<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/cf717037-726a-4561-8acd-6c793d985230" height="200px" />](/helps/exercise-3-3.md)
 [<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/462d62f7-5573-48fe-98ce-9ff22ff21d36" height="200px" />](/helps/exercise-4-1.md)
 [<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/bbd78cc8-12cf-43d0-8e46-c3a441a5eaed" height="200px" />](/helps/exercise-4-2.md)
-
-
-- 🟢 **Exercise 5-1** - [Factorial Function](/helps/exercise-5-1.md)
-- 🟢 **Exercise 5-2** - [Prime Numbers](/helps/exercise-5-2.md)
-- 🟢 **Exercise 5-3** - [Swap Function](/helps/exercise-5-3.md)
-- 🔴 **Exercise 6-1** - Guess Game
-- 🔴 **Exercise 6-2** - GUI Calculator
-- 🔴 **Exercise 7** - Smiley Face 😃
-- 🔴 **Exercise 8** - Anything!
-- ⚫️ **Telegram Bot** - [Guess Game](/projects/guess-bot/)
-- ⚫️ **Game Project** - [Ping Pong](/projects/ping-pong/)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/435b58a5-baf0-4db4-a4e8-32a7b3d9340e" height="200px" />](/helps/exercise-5-1.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/646ad6f6-f804-4850-82d8-e144718e168b" height="200px" />](/helps/exercise-5-2.md)
 
 </div>
