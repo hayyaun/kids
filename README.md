@@ -29,11 +29,11 @@
 [<img alt="calculator exercise" src="https://github.com/user-attachments/assets/ff403411-a803-494f-919d-a75372162db5" height="200px" />](/helps/exercise-2.md)
 [<img alt="factorial exercise" src="https://github.com/user-attachments/assets/96463fb4-8839-4740-ab11-4d12ee764d51" height="200px" />](/helps/exercise-3-1.md)
 [<img alt="prime numbers exercise" src="https://github.com/user-attachments/assets/7b68aadf-a603-4746-97bb-47be06f8d05f" height="200px" />](/helps/exercise-3-2.md)
-[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/12625bd8-4ec3-464b-ab69-271b1e7fbae9" height="200px" />](/helps/exercise-3-3.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/cf717037-726a-4561-8acd-6c793d985230" height="200px" />](/helps/exercise-3-3.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/462d62f7-5573-48fe-98ce-9ff22ff21d36" height="200px" />](/helps/exercise-4-1.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/bbd78cc8-12cf-43d0-8e46-c3a441a5eaed" height="200px" />](/helps/exercise-4-2.md)
 
 
-- 🟢 **Exercise 4-1** - [Fibbonacci Series List](/helps/exercise-4-1.md)
-- 🟢 **Exercise 4-2** - [Fa-En Dictionary](/helps/exercise-4-2.md)
 - 🟢 **Exercise 5-1** - [Factorial Function](/helps/exercise-5-1.md)
 - 🟢 **Exercise 5-2** - [Prime Numbers](/helps/exercise-5-2.md)
 - 🟢 **Exercise 5-3** - [Swap Function](/helps/exercise-5-3.md)
