@@ -6,12 +6,11 @@
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/downloads/release/python-3130/) &nbsp; [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads) &nbsp; [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-
 ## 🧠 چیزایی که یاد میگیریم
 
-این پایین لیست موضوعاتی که توی این دوره بهشون میپردازیم رو نوشتم:  
+این پایین لیست موضوعاتی که توی این دوره بهشون میپردازیم رو نوشتم:
 
-- **مقدمات برنامه نویسی** [(پایتون)](/sessions/TOPICS.md)
+- **مقدمات برنامه نویسی** (پایتون)
 - **الگوریتم و فلوچارت**
 - **کلیدهای میانبر**
 - **استفاده از ترمینال**
@@ -20,7 +19,7 @@
 ## 🧑‍💻 تمرین ها
 
 شما میتونید جواب تمرین هاتون رو اینجا بفرستید [**اینجا بفرسنید**](https://github.com/hayyaun/kids/discussions/4) ✅  
-حتما حواستون باشه فقط کد یا اسکرین شات رو ارسال کنید  
+حتما حواستون باشه فقط کد یا اسکرین شات رو ارسال کنید
 
 <br/>
 <br/>
