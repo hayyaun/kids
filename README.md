@@ -29,10 +29,9 @@
 [<img alt="factorial exercise" src="https://github.com/user-attachments/assets/b8d848d2-0fb8-41c0-b864-a00f75958b51" height="160px" />](/helps/exercise-3-1.md)
 [<img alt="prime numbers exercise" src="https://github.com/user-attachments/assets/0cd16592-ac98-4ff5-aee9-d7c1aa1a16f6" height="160px" />](/helps/exercise-3-2.md)
 [<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/791665f5-5539-456a-b1ba-03e557148eed" height="160px" />](/helps/exercise-3-3.md)
-[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/ca05412d-4549-44a8-bb4e-3377aa040bd1" height="160px" />](/helps/exercise-4-1.md)
-[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/602144c0-2be8-4224-a5f0-978f1197309a" height="160px" />](/helps/exercise-4-2.md)
-[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/a24c98e7-cc17-44cd-a1cc-df3e7b78ccb6" height="160px" />](/helps/exercise-5-1.md)
-[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/90a47166-eee2-422a-a052-340cb3a060e6" height="160px" />](/helps/exercise-5-2.md)
-
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/69cb2daf-e59e-449f-9bd9-2732082e3c19" height="160px" />](/helps/exercise-4-1.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/f47c7cbd-d12b-402c-b80b-51cbdd4cbc13" height="160px" />](/helps/exercise-4-2.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/c8a04099-0ea7-455e-8de0-0e93f94d075b" height="160px" />](/helps/exercise-5-1.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/7196337a-0eef-426e-bc6e-8970da989664" height="160px" />](/helps/exercise-5-2.md)
 
 </div>
