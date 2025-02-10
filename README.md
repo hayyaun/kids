@@ -24,15 +24,16 @@
 حتما حواستون باشه فقط کد یا اسکرین شات رو ارسال کنید  
 
 
-[<img alt="get started" src="https://github.com/user-attachments/assets/d60dc591-253e-438e-ac40-caf3bf7777b6" height="200px" />](/helps/README.md)
-[<img alt="print hello world" src="https://github.com/user-attachments/assets/27250c2c-286e-4f67-975e-7cd414c6ad8e" height="200px" />](/helps/exercise-1.md)
-[<img alt="calculator exercise" src="https://github.com/user-attachments/assets/ff403411-a803-494f-919d-a75372162db5" height="200px" />](/helps/exercise-2.md)
-[<img alt="factorial exercise" src="https://github.com/user-attachments/assets/96463fb4-8839-4740-ab11-4d12ee764d51" height="200px" />](/helps/exercise-3-1.md)
-[<img alt="prime numbers exercise" src="https://github.com/user-attachments/assets/7b68aadf-a603-4746-97bb-47be06f8d05f" height="200px" />](/helps/exercise-3-2.md)
-[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/cf717037-726a-4561-8acd-6c793d985230" height="200px" />](/helps/exercise-3-3.md)
-[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/462d62f7-5573-48fe-98ce-9ff22ff21d36" height="200px" />](/helps/exercise-4-1.md)
-[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/bbd78cc8-12cf-43d0-8e46-c3a441a5eaed" height="200px" />](/helps/exercise-4-2.md)
-[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/435b58a5-baf0-4db4-a4e8-32a7b3d9340e" height="200px" />](/helps/exercise-5-1.md)
-[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/646ad6f6-f804-4850-82d8-e144718e168b" height="200px" />](/helps/exercise-5-2.md)
+[<img alt="get started" src="https://github.com/user-attachments/assets/b27a508b-4d01-47f3-a907-e30684375960" height="160px" />](/helps/README.md)
+[<img alt="print hello world" src="https://github.com/user-attachments/assets/6234d374-7338-4f89-8dae-35045d3ceecc" height="160px" />](/helps/exercise-1.md)
+[<img alt="calculator exercise" src="https://github.com/user-attachments/assets/b8f0f684-bd5f-4b60-be93-abbfc23d131d" height="160px" />](/helps/exercise-2.md)
+[<img alt="factorial exercise" src="https://github.com/user-attachments/assets/b8d848d2-0fb8-41c0-b864-a00f75958b51" height="160px" />](/helps/exercise-3-1.md)
+[<img alt="prime numbers exercise" src="https://github.com/user-attachments/assets/0cd16592-ac98-4ff5-aee9-d7c1aa1a16f6" height="160px" />](/helps/exercise-3-2.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/791665f5-5539-456a-b1ba-03e557148eed" height="160px" />](/helps/exercise-3-3.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/ca05412d-4549-44a8-bb4e-3377aa040bd1" height="160px" />](/helps/exercise-4-1.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/602144c0-2be8-4224-a5f0-978f1197309a" height="160px" />](/helps/exercise-4-2.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/a24c98e7-cc17-44cd-a1cc-df3e7b78ccb6" height="160px" />](/helps/exercise-5-1.md)
+[<img alt="fibbonacci series exercise" src="https://github.com/user-attachments/assets/90a47166-eee2-422a-a052-340cb3a060e6" height="160px" />](/helps/exercise-5-2.md)
+
 
 </div>
