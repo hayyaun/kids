@@ -22,6 +22,8 @@
 شما میتونید جواب تمرین هاتون رو اینجا بفرستید [**اینجا بفرسنید**](https://github.com/hayyaun/kids/discussions/4) ✅  
 حتما حواستون باشه فقط کد یا اسکرین شات رو ارسال کنید  
 
+<br/>
+<br/>
 
 [<img alt="get started" src="https://github.com/user-attachments/assets/b27a508b-4d01-47f3-a907-e30684375960" height="160px" />](/helps/README.md)
 [<img alt="print hello world" src="https://github.com/user-attachments/assets/6234d374-7338-4f89-8dae-35045d3ceecc" height="160px" />](/helps/exercise-1.md)
