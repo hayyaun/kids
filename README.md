@@ -1,6 +1,7 @@
 <div dir="rtl">
 
-![python course](https://github.com/user-attachments/assets/15a45108-ac4b-4b46-a9e4-e81255ce935b)
+![python course](https://github.com/user-attachments/assets/651fc85e-287c-4a70-80b0-941e99b09d9f)
+
 
 
 سلام به همگی! این مخزن درسی برای یادگیری پایتون مبتدی هست  
