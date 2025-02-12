@@ -12,6 +12,8 @@
 [![Python](/.assets/md/python.png)](https://www.python.org/downloads/release/python-3130/) &nbsp;
 [![Git](/.assets/md/git.png)](https://git-scm.com/downloads)
 
+<br/>
+
 ## 🧠 چیزایی که یاد میگیریم
 
 این پایین لیست موضوعاتی که توی این دوره بهشون میپردازیم رو نوشتم:
@@ -21,7 +23,9 @@
 - **کلیدهای میانبر**
 - **استفاده از ترمینال**
 - **دیباگ کردن**
-  <br/>
+
+<br/>
+<br/>
 
 ## 🧑‍💻 تمرین ها
 
