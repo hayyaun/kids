@@ -28,10 +28,10 @@ if name == 'hami':
     print('ok')
 
 if name == 'barbod':
-    items3.append("❌")
     items1.append("❌")
     items2.append('❌')
-    print('is ok!')
+    items3.append("❌")
+    print("It's ok!")
 
 if name == 'haman':
     items1.remove("💔")
@@ -39,7 +39,7 @@ if name == 'haman':
     items3.remove('💣')
     items3.remove('💔')
     items3.append("💯")
-    print('is ok')
+    print("It's ok!")
 
 if name == 'saketbash':
     for i in range(20):
@@ -97,13 +97,15 @@ while True:
     # cheat code - list
     if r == "im ali!":
         print("HELLO ALI! \nHOW ARE YOU TODAY?")
+        # remove
         items1.remove("💔")
         items2.remove('💔')
         items3.remove('💣')
         items3.remove('💔')
+        # append
+        items1.append("❌")
         items3.append("💯")
         items3.append("❌")
-        items1.append("❌")
         items2.append('❌')
         print("EZAY")
 
