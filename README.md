@@ -1,6 +1,7 @@
 <div dir="rtl">
 
-![python course](https://github.com/user-attachments/assets/651fc85e-287c-4a70-80b0-941e99b09d9f)
+![python course](https://github.com/user-attachments/assets/325d2696-5bbf-4172-be0f-d1347f23b2b6)
+
 
 
 
