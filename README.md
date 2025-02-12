@@ -10,7 +10,8 @@
 
 [![VSCode](/.assets/md/vsc.png)](https://code.visualstudio.com/) &nbsp;
 [![Python](/.assets/md/python.png)](https://www.python.org/downloads/release/python-3130/) &nbsp;
-[![Git](/.assets/md/git.png)](https://git-scm.com/downloads)
+[![Git](/.assets/md/git.png)](https://git-scm.com/downloads) &nbsp;
+[![VSCode Extensions](/.assets/md/ext.png)](vscode://extensions/hayyaun.jupack)
 
 ## 🧠 محتوای درسی
 
