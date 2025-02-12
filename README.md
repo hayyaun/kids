@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-[<img alt="get started" src="/.assets/md/card.png" height="128px" />](/helps/README.md)
+[<img alt="get started" src="/.assets/md/card-0.png" height="128px" />](/helps/README.md)
 [<img alt="exercise 1" src="/.assets/md/card-1.png" height="128px" />](/helps/exercise-1.md)
 [<img alt="exercise 2" src="/.assets/md/card-2.png" height="128px" />](/helps/exercise-2.md)
 [<img alt="exercise 3" src="/.assets/md/card-3.png" height="128px" />](/helps/exercise-3-1.md)
