@@ -28,7 +28,7 @@
 flowchart TD
     A("Start") --> C["Get n"]
     F["is_prime = check_prime(i)"] --> G["Print i if is_prime"]
-    E{"Is i in range 2 to n ?"} -- No --> L("End")
+    E{"2 < i < n ?"} -- No --> L("End")
     C --> E
     E -- Yes --> F
     G --> E
