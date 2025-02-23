@@ -20,7 +20,8 @@ def delete():
 
 
 def calculate():
-    answer = eval(equation)
+    answer: float = eval(equation)
+    answer = round(answer, 2)
     l_answer.config(text=answer)
 
 
