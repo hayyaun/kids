@@ -41,7 +41,7 @@ l_equal.place(x=10, y=70)
 l_answer = Label(master, font='20', width=11)
 l_answer.place(x=130, y=70)
 
-keys: list[tuple[str, int, int, str | None]] = [
+keys = [
     ('1', 10, 110, None), ('2', 70, 110, None),
     ('3', 130, 110, None), ('4', 10, 170, None),
     ('5', 70, 170, None), ('6', 130, 170, None),
