@@ -41,6 +41,16 @@ l_equal.place(x=10, y=70)
 l_answer = Label(master, font='20', width=11)
 l_answer.place(x=130, y=70)
 
+
+# buttons
+ac = Button(master, text='AC', font='16', bg='red', width=3,
+            height=2, command=delete)
+ac.place(x=10, y=290)
+eq = Button(master, text='=', font='16', bg='purple',
+            width=3, height=2, command=calculate)
+eq.place(x=130, y=290)
+
+# keys
 keys = [
     ('1', 10, 110, None), ('2', 70, 110, None),
     ('3', 130, 110, None), ('4', 10, 170, None),
@@ -51,16 +61,6 @@ keys = [
     ('*', 190, 170, 'purple'), ('/', 190, 110, 'purple'),
 ]
 
-# buttons
-ac = Button(master, text='AC', font='16', bg='red', width=3,
-            height=2, command=delete)
-ac.place(x=10, y=290)
-eq = Button(master, text='=', font='16', bg='purple',
-            width=3, height=2, command=calculate)
-eq.place(x=130, y=290)
-
-
-# keys
 for key in keys:
     btn = Button(master, text=key[0], font='16', width=3,
                  height=2, command=append_equation(key[0]), bg=key[3])
