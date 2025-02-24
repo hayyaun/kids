@@ -28,70 +28,44 @@ def calculate():
 # window
 master = Tk()
 master.resizable(False, False)
-master.title('Calculator')
-master.geometry('270x350')
+master.title('کله کولاتور')
+master.geometry('255x350')
 master.configure(bg='gray')
 
 # labels
 l_equation = Label(master, font="20", bg="white",
-                   height=2, width=24, anchor="e", padx=2)
+                   height=2, width=23, anchor="e", padx=3)
 l_equation.place(x=10, y=10)
 l_equal = Label(master, text='=', font='20', bg='gray')
 l_equal.place(x=10, y=70)
-l_answer = Label(master, font='20', width=12)
+l_answer = Label(master, font='20', width=11)
 l_answer.place(x=130, y=70)
 
-# numbers
-n1 = Button(master, text='1', font='16', width=4,
-            height=2, command=append_equation('1'))
-n1.place(x=10, y=110)
-n2 = Button(master, text='2', font='16', width=4,
-            height=2, command=append_equation('2'))
-n2.place(x=70, y=110)
-n3 = Button(master, text='3', font='16', width=4,
-            height=2, command=append_equation('3'))
-n3.place(x=130, y=110)
-n4 = Button(master, text='4', font='16', width=4,
-            height=2, command=append_equation('4'))
-n4.place(x=10, y=170)
-n5 = Button(master, text='5', font='16', width=4,
-            height=2, command=append_equation('5'))
-n5.place(x=70, y=170)
-n6 = Button(master, text='6', font='16', width=4,
-            height=2, command=append_equation('6'))
-n6.place(x=130, y=170)
-n7 = Button(master, text='7', font='16', width=4,
-            height=2, command=append_equation('7'))
-n7.place(x=10, y=230)
-n8 = Button(master, text='8', font='16', width=4,
-            height=2, command=append_equation('8'))
-n8.place(x=70, y=230)
-n9 = Button(master, text='9', font='16', width=4,
-            height=2, command=append_equation('9'))
-n9.place(x=130, y=230)
-n10 = Button(master, text='AC', font='16', bg='red', width=4,
-             height=2, command=delete)
-n10.place(x=10, y=290)
-n0 = Button(master, text='0', font='16', width=4,
-            height=2, command=append_equation('0'))
-n0.place(x=70, y=290)
+keys: list[tuple[str, int, int, str | None]] = [
+    ('1', 10, 110, None), ('2', 70, 110, None),
+    ('3', 130, 110, None), ('4', 10, 170, None),
+    ('5', 70, 170, None), ('6', 130, 170, None),
+    ('7', 10, 230, None), ('8', 70, 230, None),
+    ('9', 130, 230, None), ('0', 70, 290, None),
+    ('+', 190, 290, 'purple'), ('-', 190, 230, 'purple'),
+    ('*', 190, 170, 'purple'), ('/', 190, 110, 'purple'),
+]
 
-# signs
+# buttons
+ac = Button(master, text='AC', font='16', bg='red', width=3,
+            height=2, command=delete)
+ac.place(x=10, y=290)
 eq = Button(master, text='=', font='16', bg='purple',
-            width=4, height=2, command=calculate)
+            width=3, height=2, command=calculate)
 eq.place(x=130, y=290)
-plus = Button(master, text='+', font='16', bg='purple',
-              width=4, height=2, command=append_equation('+'))
-plus.place(x=190, y=290)
-minus = Button(master, text='-', font='16', bg='purple',
-               width=4, height=2, command=append_equation('-'))
-minus.place(x=190, y=230)
-prod = Button(master, text='*', bg='purple', font='16',
-              width=4, height=2, command=append_equation('*'))
-prod.place(x=190, y=170)
-div = Button(master, text='÷', font='16', bg='purple',
-             width=4, height=2, command=append_equation('/'))
-div.place(x=190, y=110)
+
+
+# keys
+for key in keys:
+    btn = Button(master, text=key[0], font='16', width=3,
+                 height=2, command=append_equation(key[0]), bg=key[3])
+    btn.place(x=key[1], y=key[2])
+
 
 # run
 master.mainloop()
