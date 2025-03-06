@@ -1,5 +1,6 @@
 {
   "recommendations": [
     "hayyaun.jupack",
+    "ms-python.autopep8",
   ]
 }
