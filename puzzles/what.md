@@ -83,6 +83,7 @@ def ptable(x: int, y: int, t: int):
     # حالا برو سراغ ستون بعدی
     ptable(x-1, y, t)
 
+
 n = 5
 m = 7
 ptable(n, m, n)
@@ -106,7 +107,8 @@ def jazr(n: int, i: int):
 n = 144
 print(f'√{n} = {jazr(n, 0)}')
 
-# Output: 12
+# Output: 
+# √144 = 12
 ```
 
 <div dir="rtl">
