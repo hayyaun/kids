@@ -71,6 +71,7 @@ def main():
                 sl2.place(x=70, y=300)
 
         return append
+
     # tkinter
     x = Tk()
     x.geometry('300x350')
