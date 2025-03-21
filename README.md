@@ -33,15 +33,15 @@
 <br/>
 <br/>
 
-[<img alt="get started" src="/.assets/md/card-0.png" height="128px" />](/helps/README.md)
-[<img alt="exercise 1" src="/.assets/md/card-1.png" height="128px" />](/helps/exercise-1.md)
-[<img alt="exercise 2" src="/.assets/md/card-2.png" height="128px" />](/helps/exercise-2.md)
-[<img alt="exercise 3" src="/.assets/md/card-3.png" height="128px" />](/helps/exercise-3-1.md)
-[<img alt="exercise 3" src="/.assets/md/card-4.png" height="128px" />](/helps/exercise-3-2.md)
-[<img alt="exercise 3" src="/.assets/md/card-5.png" height="128px" />](/helps/exercise-3-3.md)
-[<img alt="exercise 4" src="/.assets/md/card-6.png" height="128px" />](/helps/exercise-4-1.md)
-[<img alt="exercise 4" src="/.assets/md/card-7.png" height="128px" />](/helps/exercise-4-2.md)
-[<img alt="exercise 5" src="/.assets/md/card-8.png" height="128px" />](/helps/exercise-5-1.md)
-[<img alt="exercise 5" src="/.assets/md/card-9.png" height="128px" />](/helps/exercise-5-2.md)
+[<img alt="get started" src=".assets/md/card-0.png" height="128px" />](/helps/README.md)
+[<img alt="exercise 1" src=".assets/md/card-1.png" height="128px" />](/helps/exercise-1.md)
+[<img alt="exercise 2" src=".assets/md/card-2.png" height="128px" />](/helps/exercise-2.md)
+[<img alt="exercise 3" src=".assets/md/card-3.png" height="128px" />](/helps/exercise-3-1.md)
+[<img alt="exercise 3" src=".assets/md/card-4.png" height="128px" />](/helps/exercise-3-2.md)
+[<img alt="exercise 3" src=".assets/md/card-5.png" height="128px" />](/helps/exercise-3-3.md)
+[<img alt="exercise 4" src=".assets/md/card-6.png" height="128px" />](/helps/exercise-4-1.md)
+[<img alt="exercise 4" src=".assets/md/card-7.png" height="128px" />](/helps/exercise-4-2.md)
+[<img alt="exercise 5" src=".assets/md/card-8.png" height="128px" />](/helps/exercise-5-1.md)
+[<img alt="exercise 5" src=".assets/md/card-9.png" height="128px" />](/helps/exercise-5-2.md)
 
 </div>
