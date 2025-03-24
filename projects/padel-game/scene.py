@@ -32,10 +32,10 @@ def create_ball():
 
 def create_rocket(position):
     pad = turtle.Turtle()
-    # TODO rocket has 0 speed
-    # TODO rocket has square shape
-    # TODO rocket has black color
-    # TODO rocket size is 6x2
+    # TODO pad has 0 speed
+    # TODO pad has square shape
+    # TODO pad has black color
+    # TODO pad size is 6x2
     pad.penup()
     # TODO go to (position, 0) coordinate
     return pad

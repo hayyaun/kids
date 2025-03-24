@@ -2,22 +2,22 @@ import time
 
 from borders import check_hit_borders
 from collision import check_ball_rocket_collision
-from keyboard import add_keyboard_bindings
+from keys import add_keyboard_bindings
 from scene import create_ball, create_rocket, create_screen
 from score import create_score_board, show_scores
 
 if __name__ == '__main__':
 
     # Create screen
-    # FIXME screen = create_screen(1000, 600)
+    screen = create_screen(1000, 600)
     # Create Left rocket
-    # FIXME left_pad = create_rocket(-400)
+    left_pad = create_rocket(-400)
     # Create Right rocket
-    # FIXME right_pad = create_rocket(400)
+    right_pad = create_rocket(400)
     # Create a Ball
-    # FIXME ball = create_ball()
-    # FIXME ball.dx = 5
-    # FIXME ball.dy = -5
+    ball = create_ball()
+    ball.dx = 5
+    ball.dy = -5
 
     # Displays the score board
     # FIXME score_board = create_score_board()
