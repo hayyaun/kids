@@ -76,9 +76,9 @@ print(a1, a2, a3)
 def jazr(n: int):
   # TODO do something here
 
-a1 = jaze(81)
-a2 = jaze(49)
-a3 = jaze(28)
+a1 = jazr(81)
+a2 = jazr(49)
+a3 = jazr(28)
 
 print(a1, a2, a3)
 # Output: 9 7 5.3 ✅
