@@ -51,6 +51,7 @@ def create_triangle(t: turtle.Turtle, x):
     t.color(black)
     t.begin_fill()
 
+    # draw triangle
     for _ in range(3):
         t.forward(30)
         t.left(-120)
@@ -66,6 +67,7 @@ def draw_colored_box(t: turtle.Turtle, color, x0, y0, width, height):
     t.color(color)
     t.begin_fill()
 
+    # draw rectangle
     for _ in range(2):
         t.forward(width)
         t.left(90)
