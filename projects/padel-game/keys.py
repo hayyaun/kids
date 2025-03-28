@@ -3,29 +3,29 @@
 # Functions to move rocket
 
 
-def rocket_up(pad):
-    y = pad.ycor()
+def rocket_up(rocket):
+    y = rocket.ycor()
     if y < 250:  # check if rocket y is less than 250
-        # TODO then move pad up +20 and set y
+        # TODO then move rocket up +20 and set y
         print("rocket up")
 
 
-def rocket_down(pad):
-    y = pad.ycor()
+def rocket_down(rocket):
+    y = rocket.ycor()
     if y > -240:  # check if rocket y is bigger than -240
-        # TODO then move pad down -20 and set y
+        # TODO then move rocket down -20 and set y
         print("rocket down")
 
 
 # Create Keyboard Bindings to move rockets
 
 
-def add_keyboard_bindings(screen, left_pad, right_pad):
+def add_keyboard_bindings(screen, left_rocket, right_rocket):
 
-    def rocket_left_up(): return rocket_up(left_pad)
-    def rocket_left_down(): return rocket_down(left_pad)
-    def rocket_right_up(): return rocket_up(right_pad)
-    def rocket_right_down(): return rocket_down(right_pad)
+    def rocket_left_up(): return rocket_up(left_rocket)
+    def rocket_left_down(): return rocket_down(left_rocket)
+    def rocket_right_up(): return rocket_up(right_rocket)
+    def rocket_right_down(): return rocket_down(right_rocket)
 
     # Hint: You can check documentations: https://docs.python.org/3/library/turtle.html#turtle.onkeypress
 

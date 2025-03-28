@@ -27,7 +27,7 @@ if __name__ == '__main__':
     # FIXME show_scores(score_board)
 
     # Keyboard bindings - for rocket movement
-    # FIXME add_keyboard_bindings(screen, left_pad, right_pad)
+    add_keyboard_bindings(screen, left_pad, right_pad)
 
     # Main game loop
     while True:
