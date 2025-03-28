@@ -11,7 +11,7 @@ def reset_ball_position(ball: turtle.Turtle):
     ball.dy *= -1
 
 
-def check_ball_hit_borders(ball: turtle.Turtle, lim_x: int, lim_y: int, scores: dict, update_scores: function):
+def check_ball_hit_borders(ball: turtle.Turtle, lim_x: int, lim_y: int, scores: dict, update_scores):
 
     ball_x = ball.xcor()  # موقعیت افقی توپ
     ball_y = ball.ycor()  # موقعیت عمودی توپ
@@ -48,7 +48,7 @@ def check_ball_hit_borders(ball: turtle.Turtle, lim_x: int, lim_y: int, scores: 
     # Reset Ball Position - شروع مجدد توپ
     reset_ball_position()
     # Right player Scored - بازیکن راست امتیاز گرفت
-    scores.right += 1
+    scores["right"] += 1
     # update scores - اعلام تغییرات به تابلو امتیازات
     update_scores()
 

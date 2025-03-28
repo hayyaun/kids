@@ -20,14 +20,14 @@ def create_score_board(scores):
     # Left player lights
     for i in range(5):
         light_color = white
-        if scores.left > i:
+        if scores["left"] > i:
             light_color = player_left_color
         draw_circle(score_board, light_color, -105 + 10*i)
 
     # Right player lights
     for i in range(5):
         light_color = white
-        if scores.right > i:
+        if scores["right"] > i:
             light_color = player_right_color
         draw_circle(score_board, light_color, 75 - 10*i)
 
