@@ -5,16 +5,22 @@
 
 def rocket_up(rocket):
     y = rocket.ycor()
-    if y < 250:  # check if rocket y is less than 250
-        # TODO then move rocket up +20 and set y
-        print("rocket up")
+    # check if rocket y is less than 250
+    if y > 250:
+        return  # stop
+
+    # TODO then move rocket up +20 and set y
+    print("rocket up")
 
 
 def rocket_down(rocket):
     y = rocket.ycor()
-    if y > -240:  # check if rocket y is bigger than -240
-        # TODO then move rocket down -20 and set y
-        print("rocket down")
+    # check if rocket y is bigger than -240
+    if y < -240:
+        return  # stop
+
+    # TODO then move rocket down -20 and set y
+    print("rocket down")
 
 
 # Create Keyboard Bindings to move rockets
