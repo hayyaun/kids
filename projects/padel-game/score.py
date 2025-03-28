@@ -45,11 +45,10 @@ def show_scores(score_board, left_score, right_score):
 
 
 def create_triangle(t: turtle.Turtle, x):
-    t.color(black)
-    t.color(black)
     t.penup()
     t.goto(x, 290)
     t.pendown()
+    t.color(black)
     t.begin_fill()
 
     for _ in range(3):
