@@ -2,21 +2,14 @@ import turtle
 from colors import *
 
 
-black = "#41444B"
-white = "#FFFAF0"
-orange = "#FFB26F"
-blue = "#8F87F1"
-green = "#00FF00"
-
-
 def create_score_board(left_score, right_score):
     # Create score board
     score_board = turtle.Turtle()
 
     # Create main box
     draw_colored_box(score_board, black, -137, 263, 250, 27)  # main box
-    draw_colored_box(score_board, green, -54, 263, 3, 27)  # Left color box
-    draw_colored_box(score_board, green, 18, 263, 3, 27)  # Right color box
+    draw_colored_box(score_board, bg_color, -54, 263, 3, 27)  # Left color box
+    draw_colored_box(score_board, bg_color, 18, 263, 3, 27)  # Right color box
     create_triangle(score_board, -153)  # Left triangle
     create_triangle(score_board, 99)  # Right triangle
 

@@ -1,3 +1,10 @@
+# Global
+black = "#41444B"
+white = "#FFFAF0"
+orange = "#FFB26F"
+blue = "#8F87F1"
+
+# Game
 bg_color = "#5585ff"
 player_left_color = "#84f397"
 player_right_color = "#f097e8"
