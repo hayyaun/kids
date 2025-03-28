@@ -43,7 +43,7 @@ if __name__ == '__main__':
         # Add delay to make game smoother - وقفه یک صدم ثانیه ای قبل از اجرای دور حلقه
         time.sleep(0.01)
 
-        # Update ball x, y - تغییر مختصات افقی و عمودی توپ
+        # Update ball x, y - تغییر موقعیت توپ
         # به اندازه ی سرعتی که داری برو جلو/عقب
         ball.setx(ball.xcor() + ball.dx)
         # به اندازه سرعتی که داری برو بالا/پایین
