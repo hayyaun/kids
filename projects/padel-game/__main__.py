@@ -2,7 +2,7 @@ import time
 
 from colors import *
 from borders import check_hit_borders
-from collision import check_ball_rocket_collision
+from rockets import check_ball_hit_rocket
 from keys import add_keyboard_bindings
 from scene import create_ball, create_rocket, create_screen
 from score import create_score_board, show_scores
@@ -35,12 +35,12 @@ if __name__ == '__main__':
         time.sleep(0.01)  # Add delay to make game smoother
 
         # Update ball x, y
-        # FIXME ball.setx(ball.xcor() + ball.dx)
-        # FIXME ball.sety(ball.ycor() + ball.dy)
+        ball.setx(ball.xcor() + ball.dx)
+        ball.sety(ball.ycor() + ball.dy)
 
         # Checking ball hit borders
         # FIXME def update_scores(): return show_scores(score_board, left_score, right_score)
         # FIXME check_ball_hit_borders(ball, 480, 280, score_board, update_scores)
 
         # Rocket ball collision
-        # FIXME check_ball_rocket_collision(ball, left_pad, right_pad)
+        # FIXME check_ball_hit_rocket(ball, left_pad, right_pad)
