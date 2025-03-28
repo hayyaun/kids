@@ -7,11 +7,11 @@ def create_score_board(left_score, right_score):
     score_board = turtle.Turtle()
 
     # Create main box
+    create_triangle(score_board, -153)  # Left triangle
+    create_triangle(score_board, 99)  # Right triangle
     draw_colored_box(score_board, black, -137, 263, 250, 27)  # main box
     draw_colored_box(score_board, bg_color, -54, 263, 3, 27)  # Left color box
     draw_colored_box(score_board, bg_color, 18, 263, 3, 27)  # Right color box
-    create_triangle(score_board, -153)  # Left triangle
-    create_triangle(score_board, 99)  # Right triangle
 
     # Write texts
     writeTexts(score_board)
@@ -45,6 +45,7 @@ def show_scores(score_board, left_score, right_score):
 
 def create_triangle(t: turtle.Turtle, x):
     t.speed(100)
+    t.color(black)
     t.color(black)
     t.penup()
     t.goto(x, 290)
