@@ -2,7 +2,7 @@ import turtle
 from colors import *
 
 
-def create_score_board(left_score, right_score):
+def create_score_board(scores):
     # Create score board
     score_board = turtle.Turtle()
     score_board.speed(100)
@@ -20,14 +20,14 @@ def create_score_board(left_score, right_score):
     # Left player lights
     for i in range(5):
         light_color = white
-        if left_score > i:
+        if scores.left > i:
             light_color = player_left_color
         draw_circle(score_board, light_color, -105 + 10*i)
 
     # Right player lights
     for i in range(5):
         light_color = white
-        if right_score > i:
+        if scores.right > i:
             light_color = player_right_color
         draw_circle(score_board, light_color, 75 - 10*i)
 
@@ -35,10 +35,10 @@ def create_score_board(left_score, right_score):
     return score_board
 
 
-def show_scores(score_board, left_score, right_score):
+def show_scores(score_board, scores):
     # Clear & Show scores of each player again
     score_board.clear()
-    create_score_board(left_score, right_score)
+    create_score_board(scores)
 
 
 # NIKAN

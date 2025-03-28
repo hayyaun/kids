@@ -1,18 +1,31 @@
+import turtle
 
 
-# Check Rocket and Ball collision
+def check_ball_hit_rocket(ball: turtle.Turtle, left_pad, right_pad):
+    ''' متغیر های مورد نیاز برای محاسبات '''
 
+    ball_x = ball.xcor()  # موقعیت افقی توپ
+    ball_y = ball.ycor()  # موقعیت عمودی توپ
 
-def check_ball_hit_rocket(ball, left_pad, right_pad):
+    left_rocket_x = left_pad.xcor()  # موقعیت افقی راکت چپ
+    left_rocket_y = left_pad.ycor()  # موقعیت عمودی راکت چپ
+    right_rocket_x = right_pad.xcor()  # موقعیت افقی راکت راست
+    right_rocket_y = right_pad.ycor()  # موقعیت عمودی راکت راست
 
-    ball_x = ball.xcor()
-    ball_y = ball.ycor()
+    ''' محاسبات اصلی '''
 
-    right_rocket_y = right_pad.ycor()
-    left_rocket_y = left_pad.ycor()
+    # TODO 1. بررسی برخورد توپ با راکت سمت چپ
+    # اگه توپ هم از لحاظ افقی و هم عمودی نزدیک راکت بود: توپ برمیگرده
 
-    # TODO check if ball hit left rocket
-    # ( 360 < ball_x < 370 ) and ( right_rocket_y - 50 < ball_y < right_rocket_y + 50 )
+    # منظور از نزدیک بودن افقی یعنی
+    # (left_rocket_x - 5 < ball_x < left_rocket_x + 5)
+    # منظور از نزدیک بودن عمودی یعنی
+    # (left_rocket_y - 50 < ball_y < left_rocket_y + 50)
 
-    # TODO then -> change horizontal direction (ball.dx *= -1)
-    # also move ball back to -360 (left) or 360 (right)
+    # منظور از برگشتن توپ یعنی جهت حرکت افقیش برعکس میشه
+    # ball.dx *= -1
+    # همچنین باید به محل قبلی برای شروع مجدد برگرده یعنی:
+    # ball.setx(left_rocket_x)
+
+    # TODO 2. بررسی برخورد توپ با راکت سمت راست
+    # مراحل قبل این بار برای راکت سمت راست تکرار میشه...
