@@ -21,10 +21,10 @@ if __name__ == '__main__':
     ball.dy = -5
 
     # Displays the score board
-    score_board = create_score_board()
-    score_board.left_player = 0
-    score_board.right_player = 0
-    show_scores(score_board)
+    left_score = 2
+    right_score = 3
+    score_board = create_score_board(left_score, right_score)
+    show_scores(score_board, left_score, right_score)
 
     # Keyboard bindings - for rocket movement
     add_keyboard_bindings(screen, left_pad, right_pad)
@@ -39,7 +39,7 @@ if __name__ == '__main__':
         # FIXME ball.sety(ball.ycor() + ball.dy)
 
         # Checking ball hit borders
-        # FIXME def update_scores(): return show_scores(score_board)
+        # FIXME def update_scores(): return show_scores(score_board, left_score, right_score)
         # FIXME check_ball_hit_borders(ball, 480, 280, score_board, update_scores)
 
         # Rocket ball collision

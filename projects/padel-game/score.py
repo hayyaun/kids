@@ -1,13 +1,15 @@
 import turtle
 from colors import *
 
-# Hint: You can read documentations: https://docs.python.org/3/library/turtle.html#turtle.color
-# Hint: You can read documentations: https://docs.python.org/3/library/turtle.html#turtle.goto
-# Hint: You can read documentations: https://docs.python.org/3/library/turtle.html#turtle.speed
-# Hint: You can read documentations: https://docs.python.org/3/library/turtle.html#turtle.write
+
+black = "#41444B"
+white = "#FFFAF0"
+orange = "#FFB26F"
+blue = "#8F87F1"
+green = "#00FF00"
 
 
-def create_score_board():
+def create_score_board(left_score, right_score):
     # Create score board
     score_board = turtle.Turtle()
 
@@ -22,36 +24,30 @@ def create_score_board():
     writeTexts(score_board)
 
     # Left player lights
-    draw_circle(score_board, player_left_color, -65)
-    draw_circle(score_board, player_left_color, -75)
-    draw_circle(score_board, player_left_color, -85)
-    draw_circle(score_board, player_left_color, -95)
-    draw_circle(score_board, player_left_color, -105)
+    for i in range(5):
+        light_color = white
+        if left_score > i:
+            light_color = player_left_color
+        draw_circle(score_board, light_color, -105 + 10*i)
 
     # Right player lights
-    draw_circle(score_board, player_right_color, 35)
-    draw_circle(score_board, player_right_color, 45)
-    draw_circle(score_board, player_right_color, 55)
-    draw_circle(score_board, player_right_color, 65)
-    draw_circle(score_board, player_right_color, 75)
+    for i in range(5):
+        light_color = white
+        if right_score > i:
+            light_color = player_right_color
+        draw_circle(score_board, light_color, 75 - 10*i)
 
     turtle.hideturtle()
     return score_board
 
 
-def show_scores(score_board):
+def show_scores(score_board, left_score, right_score):
     # Clear & Show scores of each player again
     score_board.clear()
-    create_score_board()
+    create_score_board(left_score, right_score)
 
 
 # NIKAN
-
-black = "#41444B"
-white = "#FFFAF0"
-orange = "#FFB26F"
-blue = "#8F87F1"
-green = "#00FF00"
 
 
 def create_triangle(t: turtle.Turtle, x):
