@@ -1,5 +1,6 @@
 import time
 
+from colors import *
 from borders import check_hit_borders
 from collision import check_ball_rocket_collision
 from keys import add_keyboard_bindings
@@ -9,13 +10,13 @@ from score import create_score_board, show_scores
 if __name__ == '__main__':
 
     # Create screen
-    screen = create_screen(1000, 600)
+    screen = create_screen(1000, 600, bg_color)
     # Create Left rocket
-    left_pad = create_rocket(-400)
+    left_pad = create_rocket(-490, player_left_color)
     # Create Right rocket
-    right_pad = create_rocket(400)
+    right_pad = create_rocket(485, player_right_color)
     # Create a Ball
-    ball = create_ball()
+    ball = create_ball(ball_color)
     ball.dx = 5
     ball.dy = -5
 
@@ -30,7 +31,7 @@ if __name__ == '__main__':
 
     # Main game loop
     while True:
-        # FIXME screen.update()
+        screen.update()
         time.sleep(0.01)  # Add delay to make game smoother
 
         # Update ball x, y

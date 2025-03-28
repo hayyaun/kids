@@ -1,4 +1,5 @@
 import turtle
+from turtle import _Screen
 
 # Create scence elements: Screen, Ball, Rockets
 
@@ -12,30 +13,34 @@ import turtle
 # Hint: You can read documentations: https://docs.python.org/3/library/turtle.html#turtle.shapesize
 
 
-def create_screen(width, height):
-    screen = turtle.Screen()  # initiate a screen using turtle library
-    # TODO add game title
-    # TODO add background color
-    # TODO setup width and height
+def create_screen(width, height, bg_color):
+    screen = turtle.Screen()
+    screen.title("Paddle Game")
+    screen.bgcolor(bg_color)
+    screen.setup(width=width, height=height)
+    screen.tracer(0)
     return screen
 
 
-def create_ball():
+def create_rocket(position, color):
+    rocket = turtle.Turtle()
+    rocket.speed(0)
+    rocket.shape("square")
+    rocket.color(color)
+    rocket.shapesize(stretch_wid=5, stretch_len=0.5)
+    rocket.penup()
+    rocket.goto(x=position, y=0)
+    return rocket
+
+
+def create_ball(ball_color):
     ball = turtle.Turtle()
-    ball.speed(4)  # Adjusted speed
-    # TODO create a circle shape
-    # TODO add ball color
+    ball.speed(4)
+    ball.shape("circle")
+    ball.color(ball_color)
     ball.penup()
-    # TODO go to (0, 0) coordinate
     return ball
 
 
-def create_rocket(position):
-    pad = turtle.Turtle()
-    # TODO pad has 0 speed
-    # TODO pad has square shape
-    # TODO pad has black color
-    # TODO pad size is 6x2
-    pad.penup()
-    # TODO go to (position, 0) coordinate
-    return pad
+def disable_resize():
+    turtle.resizemode(rmode="noresize")
