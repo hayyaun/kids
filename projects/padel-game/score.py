@@ -10,21 +10,39 @@ from colors import *
 def create_score_board():
     # Create score board
     score_board = turtle.Turtle()
-    # TODO scoreboard has 0 speed
-    # TODO add color to scoreboard
-    score_board.penup()
-    score_board.hideturtle()
-    # TODO move scoreboard to (0, 260) coordinate
+
+    # Create main box
+    draw_colored_box(score_board, black, -137, 263, 250, 27)  # main box
+    draw_colored_box(score_board, green, -54, 263, 3, 27)  # Left color box
+    draw_colored_box(score_board, green, 18, 263, 3, 27)  # Right color box
+    create_triangle(score_board, -153)  # Left triangle
+    create_triangle(score_board, 99)  # Right triangle
+
+    # Write texts
+    writeTexts(score_board)
+
+    # Left player lights
+    draw_circle(score_board, player_left_color, -65)
+    draw_circle(score_board, player_left_color, -75)
+    draw_circle(score_board, player_left_color, -85)
+    draw_circle(score_board, player_left_color, -95)
+    draw_circle(score_board, player_left_color, -105)
+
+    # Right player lights
+    draw_circle(score_board, player_right_color, 35)
+    draw_circle(score_board, player_right_color, 45)
+    draw_circle(score_board, player_right_color, 55)
+    draw_circle(score_board, player_right_color, 65)
+    draw_circle(score_board, player_right_color, 75)
+
+    turtle.hideturtle()
     return score_board
 
 
 def show_scores(score_board):
-    # Show scores of each player
+    # Clear & Show scores of each player again
     score_board.clear()
-    left_score = score_board.left_player
-    right_score = score_board.right_player
-    scores = f"Left: {left_score}       Right: {right_score}"
-    # TODO write scores, aligned at center, with a good font
+    create_score_board()
 
 
 # NIKAN
@@ -36,8 +54,7 @@ blue = "#8F87F1"
 green = "#00FF00"
 
 
-def create_triangle(x):
-    t = turtle.Turtle()
+def create_triangle(t: turtle.Turtle, x):
     t.speed(100)
     t.color(black)
     t.penup()
@@ -53,8 +70,7 @@ def create_triangle(x):
     t.hideturtle()
 
 
-def draw_colored_box(color, x0, y0, width, height):
-    t = turtle.Turtle()
+def draw_colored_box(t: turtle.Turtle, color, x0, y0, width, height):
     t.speed(100)
     t.penup()
     t.goto(x0, y0)
@@ -72,9 +88,7 @@ def draw_colored_box(color, x0, y0, width, height):
     t.hideturtle()
 
 
-def writeTexts():
-    t = turtle.Turtle()
-
+def writeTexts(t: turtle.Turtle):
     t.penup()
     t.goto(-45, 274)
     t.pendown()
@@ -102,13 +116,12 @@ def writeTexts():
     t.hideturtle()
 
 
-def draw_circle(color, x):
-    t = turtle.Turtle()
+def draw_circle(t: turtle.Turtle, color, x):
     t.speed(100)
     t.penup()
     t.goto(x, 266)
     t.pendown()
-    t.fillcolor(color)
+    t.color(color)
     t.begin_fill()
     t.circle(3)
     t.end_fill()

@@ -21,10 +21,10 @@ if __name__ == '__main__':
     ball.dy = -5
 
     # Displays the score board
-    # FIXME score_board = create_score_board()
-    # FIXME score_board.left_player = 0
-    # FIXME score_board.right_player = 0
-    # FIXME show_scores(score_board)
+    score_board = create_score_board()
+    score_board.left_player = 0
+    score_board.right_player = 0
+    show_scores(score_board)
 
     # Keyboard bindings - for rocket movement
     add_keyboard_bindings(screen, left_pad, right_pad)
