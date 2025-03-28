@@ -5,6 +5,7 @@ from colors import *
 def create_score_board(left_score, right_score):
     # Create score board
     score_board = turtle.Turtle()
+    score_board.speed(100)
 
     # Create main box
     create_triangle(score_board, -153)  # Left triangle
@@ -44,7 +45,6 @@ def show_scores(score_board, left_score, right_score):
 
 
 def create_triangle(t: turtle.Turtle, x):
-    t.speed(100)
     t.color(black)
     t.color(black)
     t.penup()
@@ -61,7 +61,6 @@ def create_triangle(t: turtle.Turtle, x):
 
 
 def draw_colored_box(t: turtle.Turtle, color, x0, y0, width, height):
-    t.speed(100)
     t.penup()
     t.goto(x0, y0)
     t.pendown()
@@ -107,7 +106,6 @@ def writeTexts(t: turtle.Turtle):
 
 
 def draw_circle(t: turtle.Turtle, color, x):
-    t.speed(100)
     t.penup()
     t.goto(x, 266)
     t.pendown()
