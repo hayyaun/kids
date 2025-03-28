@@ -50,7 +50,7 @@ if __name__ == '__main__':
         ball.sety(ball.ycor() + ball.dy)
 
         # Checking ball hit borders - بررسی برخورد توپ با کناره های زمین (برگشت/امتیاز)
-        check_ball_hit_borders(ball, 480, 280, scores, update_scores)
+        # check_ball_hit_borders(ball, 480, 280, scores, update_scores)
 
         # Rocket ball collision - بررسی برخورد توپ با راکت ها
-        check_ball_hit_rocket(ball, left_pad, right_pad)
+        # check_ball_hit_rocket(ball, left_pad, right_pad)
