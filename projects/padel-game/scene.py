@@ -51,9 +51,9 @@ def create_lines():
     lines.width(5)  # قطر خطوط
     # خط عمودی وسط
     lines.penup()  # چیزی نکش
-    lines.goto(0, -300)
+    lines.goto(x=0, y=-300)  # از
     lines.pendown()  # شروع کن به کشیدن
-    lines.goto(0, 300)
+    lines.goto(x=0, y=300)  # تا
     # خط عمودی راست
     # TODO
     # خط عمودی راست
