@@ -23,10 +23,7 @@ if __name__ == '__main__':
     ball.dy = -5  # سرعت عمودی توپ
 
     # Players scores - امتیازات بازیکن ها
-    scores = {
-        "left": 2,  # امتیاز بازیکن چپ
-        "right": 3  # امیتاز بازیکن راست
-    }
+    scores = {"left": 2, "right": 3}
 
     # Displays the score board - ساخت تابلو امتیازات
     score_board = create_score_board(scores)
