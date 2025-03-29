@@ -19,6 +19,9 @@ def create_screen(width, height):
     screen.bgcolor(bg_color)
     screen.setup(width=width, height=height)
     screen.tracer(0)
+    create_lines()  # رسمو خطوط
+    paddle_game()  # نوشته پس زمنیه
+    game_version()  # ورژن بازی
     return screen
 
 
@@ -47,4 +50,25 @@ def create_lines():
 
     # TODO
 
+    lines.hideturtle()
     return lines
+
+
+def game_version():
+    writer = turtle.Turtle()
+    writer.goto(420, -280)
+    writer.color("Gray20")
+    writer.write("version 1.0.0",
+                 font="Bahnschrift_Light", align="center")
+    writer.hideturtle()
+    return writer
+
+
+def paddle_game():
+    txt = turtle.Turtle()
+    txt.hideturtle()
+    txt.goto(0, 0)
+    txt.color("Gray20")
+    txt.write("Paddle Game", font="shabnam", align="center")
+    txt.hideturtle()
+    return txt
