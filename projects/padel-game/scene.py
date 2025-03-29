@@ -70,7 +70,7 @@ def create_lines():
     lines.pendown()
     lines.goto(x=250, y=0)
     # اضلاع دور زمین
-    lines.color("#ffa122")
+    lines.color(black)
     # عمودی چپ
     lines.penup()
     lines.goto(x=-495, y=-285)
