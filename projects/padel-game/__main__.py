@@ -10,6 +10,8 @@ from sfx import ref_whistle_sfx
 
 if __name__ == '__main__':
 
+    ### PAHSE 1 - Noyan, Mehdi ###
+
     # Create screen - ساخت صفحه بازی
     screen = create_screen(1000, 600)
     # Create Left rocket - ساخت راکت سمت چپ
@@ -22,18 +24,23 @@ if __name__ == '__main__':
     ball.dx = 5  # سرعت افقی توپ
     ball.dy = -5  # سرعت عمودی توپ
 
+    ### PAHSE 3 - Nikan ###
+
     # Players scores - امتیازات بازیکن ها
     scores = {"left": 0, "right": 0}
 
     # Displays the score board - ساخت تابلو امتیازات
     score_board = create_score_board(scores)
     show_scores(score_board, scores)
-
     # تابعی که در صورت تغییرات امتیازات باید صدا شود
     def update_scores(): return show_scores(score_board, scores)
 
+    ### PAHSE 2 - Barbode ###
+
     # Keyboard bindings - for rocket movement - حرکت راکت با کیبورد
     add_keyboard_bindings(screen, left_rocket, right_rocket)
+
+    ### PAHSE 5 - Haman, Sepehrad ###
 
     screen.update()  # اعمال تغییرات
     time.sleep(5)  # 5 ثانیه زمان قبل از صوت داور
@@ -41,6 +48,8 @@ if __name__ == '__main__':
 
     # Main game loop - حلقه اصلی بازی
     while True:
+        ### PHASE 0 - Hayyaun ###
+
         screen.update()  # اعمال تغییرات
         # Add delay to make game smoother - وقفه یک صدم ثانیه ای قبل از اجرای دور حلقه
         time.sleep(0.01)
@@ -50,6 +59,8 @@ if __name__ == '__main__':
         ball.setx(ball.xcor() + ball.dx)
         # به اندازه سرعتی که داری برو بالا/پایین
         ball.sety(ball.ycor() + ball.dy)
+
+        ### PAHSE 4 - Ali, Mehdi ###
 
         # Checking ball hit borders - بررسی برخورد توپ با کناره های زمین (برگشت/امتیاز)
         check_ball_hit_borders(ball, 480, 280, scores, update_scores)
