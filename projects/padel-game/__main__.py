@@ -6,6 +6,7 @@ from rockets import check_ball_hit_rocket
 from keys import add_keyboard_bindings
 from scene import create_ball, create_rocket, create_screen
 from score import create_score_board, show_scores
+from sfx import ref_whistle_sfx
 
 if __name__ == '__main__':
 
@@ -36,6 +37,10 @@ if __name__ == '__main__':
 
     # Keyboard bindings - for rocket movement - حرکت راکت با کیبورد
     add_keyboard_bindings(screen, left_rocket, right_rocket)
+
+    screen.update()  # اعمال تغییرات
+    time.sleep(5)  # 5 ثانیه زمان قبل از صوت داور
+    ref_whistle_sfx()  # صوت آغاز توسط داور
 
     # Main game loop - حلقه اصلی بازی
     while True:
