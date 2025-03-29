@@ -1,5 +1,7 @@
 Game Project for this course
 
+### Flowchart
+
 Below is the flowchart of the game:
 
 ```mermaid
