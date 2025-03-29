@@ -27,7 +27,7 @@ def rocket_down(rocket: turtle.Turtle):
 # Create Keyboard Bindings to move rockets
 
 
-def add_keyboard_bindings(screen, left_rocket, right_rocket):
+def add_keyboard_bindings(screen: turtle.Screen, left_rocket, right_rocket):
 
     def rocket_left_up(): return rocket_up(left_rocket)
     def rocket_left_down(): return rocket_down(left_rocket)
