@@ -26,38 +26,38 @@ def check_ball_hit_borders(ball: turtle.Turtle, lim_x: int, lim_y: int, scores: 
 
     # 1. اگه توپ به دیوار بالا برخورد کنه برمیگرده
     # منظور از برخورد با دیوار بالا یعنی: ball_y > border_top_y
-    # TODO if ...
-    # منظور از برگشتن توپ یعنی جهت حرکت عمودیش برعکس میشه
-    ball.dy *= -1
-    # همچنین باید به محل قبلی برای شروع مجدد برگرده
-    ball.sety(border_top_y)
+    if ...:  # TODO
+        # منظور از برگشتن توپ یعنی جهت حرکت عمودیش برعکس میشه
+        ball.dy *= -1
+        # همچنین باید به محل قبلی برای شروع مجدد برگرده
+        ball.sety(border_top_y)
 
     # 2. اگه توپ به دیوار پایین برخورد کنه برمیگرده
     # منظور از برخورد با دیوار بالا یعنی: ball_y < border_bottom_y
-    # TODO if ...
-    # منظور از برگشتن توپ یعنی جهت حرکت عمودیش برعکس میشه
-    # TODO
-    # همچنین باید به محل قبلی برای شروع مجدد برگرده
-    # TODO
+    if ...:  # TODO
+        # منظور از برگشتن توپ یعنی جهت حرکت عمودیش برعکس میشه
+        ball.dy *= -1
+        # همچنین باید به محل قبلی برای شروع مجدد برگرده
+        # TODO
 
     """ دیوار های عمودی (چپ/راست) """
 
     # 3. اگه توپ به دیوار سمت چپ برخورد کرد -> امتیاز بازیکن راست
     # منظور از برخورد با دیوار چپ یعنی: ball_x < border_left_x
-    # TODO if ...
-    # Reset Ball Position - شروع مجدد توپ
-    reset_ball_position()
-    # Right player Scored - بازیکن راست امتیاز گرفت
-    scores["right"] += 1
-    # update scores - اعلام تغییرات به تابلو امتیازات
-    update_scores()
+    if ...:  # TODO
+        # Reset Ball Position - شروع مجدد توپ
+        reset_ball_position()
+        # Right player Scored - بازیکن راست امتیاز گرفت
+        scores["right"] += 1
+        # update scores - اعلام تغییرات به تابلو امتیازات
+        update_scores()
 
     # 4. اگه توپ به دیوار سمت راست برخورد کرد -> امتیاز بازیکن چپ
     # منظور از برخورد با دیوار راست یعنی: ball_x > border_right_x
-    # TODO if ...
-    # Reset Ball Position - شروع مجدد توپ
-    # TODO
-    # Left player Scored - بازیکن چپ امتیاز گرفت
-    # TODO
-    # update scores - اعلام تغییرات به تابلو امتیازات
-    # TODO
+    if ...:  # TODO
+        # Reset Ball Position - شروع مجدد توپ
+        reset_ball_position()
+        # Left player Scored - بازیکن چپ امتیاز گرفت
+        # TODO
+        # update scores - اعلام تغییرات به تابلو امتیازات
+        # TODO
