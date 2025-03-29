@@ -20,7 +20,6 @@ def create_screen(width, height):
     screen.setup(width=width, height=height)
     screen.tracer(0)
     create_lines()  # رسمو خطوط
-    paddle_game()  # نوشته پس زمنیه
     game_version()  # ورژن بازی
     return screen
 
@@ -46,25 +45,53 @@ def create_ball(ball_color):
 
 
 def create_lines():
+    # ایجاد ترتل
     lines = turtle.Turtle()
-    lines.color('#c2c2ff')
-    lines.width(5)  # قطر خطوط
-    # خط عمودی وسط
-    lines.penup()  # چیزی نکش
-    lines.goto(x=0, y=-300)  # از
-    lines.pendown()  # شروع کن به کشیدن
-    lines.goto(x=0, y=300)  # تا
-    # خط عمودی راست
-    lines.penup()  # چیزی نکش
-    lines.goto(x=491, y=-300)  # از
-    lines.pendown()  # شروع کن به کشیدن
-    lines.goto(x=491, y=300)  # تا
-    # خط عمودی راست
-    # TODO
-    # خط افقی بالا
-    # TODO
-    # خط افقی پایین
-    # TODO
+    lines.color("#c2c2ff")
+    lines.width(10)  # قطر خطوط
+    # عمودی وسط
+    lines.penup()
+    lines.goto(x=0, y=-285)
+    lines.pendown()
+    lines.goto(x=0, y=295)
+    # عمودی وسط راست
+    lines.penup()
+    lines.goto(x=250, y=-285)
+    lines.pendown()
+    lines.goto(x=250, y=295)
+    # عمودی وسط چپ
+    lines.penup()
+    lines.goto(x=-250, y=-285)
+    lines.pendown()
+    lines.goto(x=-250, y=295)
+    # افقی وسط
+    lines.penup()
+    lines.goto(x=-250, y=0)
+    lines.pendown()
+    lines.goto(x=250, y=0)
+    # اضلاع دور زمین
+    lines.color("#ffa122")
+    # عمودی چپ
+    lines.penup()
+    lines.goto(x=-495, y=-285)
+    lines.pendown()
+    lines.goto(x=-495, y=295)
+    # عمودی راست
+    lines.penup()
+    lines.goto(x=490, y=-285)
+    lines.pendown()
+    lines.goto(x=490, y=295)
+    # افقی بالا
+    lines.penup()
+    lines.goto(x=-1000, y=295)
+    lines.pendown()
+    lines.goto(x=1000, y=295)
+    # افقی پایین
+    lines.penup()
+    lines.goto(x=-1000, y=-289)
+    lines.pendown()
+    lines.goto(x=1000, y=-289)
+    # مخفی کردن ترتل و اتمام
     lines.hideturtle()
     return lines
 
@@ -79,14 +106,3 @@ def game_version():
                  font="Bahnschrift_Light", align="center")
     writer.hideturtle()
     return writer
-
-
-def paddle_game():
-    txt = turtle.Turtle()
-    txt.penup()
-    txt.goto(0, 0)
-    txt.pendown()
-    txt.color("lightgrey")
-    txt.write("Paddle Game", font="shabnam", align="center")
-    txt.hideturtle()
-    return txt
