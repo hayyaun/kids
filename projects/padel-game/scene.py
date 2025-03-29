@@ -55,7 +55,10 @@ def create_lines():
     lines.pendown()  # شروع کن به کشیدن
     lines.goto(x=0, y=300)  # تا
     # خط عمودی راست
-    # TODO
+    lines.penup()  # چیزی نکش
+    lines.goto(x=491, y=-300)  # از
+    lines.pendown()  # شروع کن به کشیدن
+    lines.goto(x=491, y=300)  # تا
     # خط عمودی راست
     # TODO
     # خط افقی بالا
