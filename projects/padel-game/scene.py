@@ -52,7 +52,7 @@ def create_lines():
     # خط عمودی وسط
     lines.penup()  # چیزی نکش
     lines.goto(0, -300)
-    lines.pendown()  # شروع کن به کشید
+    lines.pendown()  # شروع کن به کشیدن
     lines.goto(0, 300)
     # خط عمودی راست
     # TODO
