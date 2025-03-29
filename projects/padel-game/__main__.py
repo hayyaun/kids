@@ -12,9 +12,9 @@ if __name__ == '__main__':
     # Create screen - ساخت صفحه بازی
     screen = create_screen(1000, 600)
     # Create Left rocket - ساخت راکت سمت چپ
-    left_pad = create_rocket(-490, player_left_color)
+    left_pad = create_rocket(-480, player_left_color)
     # Create Right rocket - ساخت راکت سمت راست
-    right_pad = create_rocket(485, player_right_color)
+    right_pad = create_rocket(475, player_right_color)
 
     # Create a Ball - ساخت توپ
     ball = create_ball(ball_color)
