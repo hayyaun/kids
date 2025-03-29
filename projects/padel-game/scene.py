@@ -47,9 +47,21 @@ def create_ball(ball_color):
 
 def create_lines():
     lines = turtle.Turtle()
-
+    lines.color('#c2c2ff')
+    lines.width(5)  # قطر خطوط
+    # خط عمودی وسط
+    lines.penup()  # چیزی نکش
+    lines.goto(0, -300)
+    lines.pendown()  # شروع کن به کشید
+    lines.goto(0, 300)
+    # خط عمودی راست
     # TODO
-
+    # خط عمودی راست
+    # TODO
+    # خط افقی بالا
+    # TODO
+    # خط افقی پایین
+    # TODO
     lines.hideturtle()
     return lines
 
