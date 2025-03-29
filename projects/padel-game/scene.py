@@ -26,20 +26,27 @@ def create_screen(width, height):
 
 def create_rocket(position, color):
     rocket = turtle.Turtle()
-    rocket.speed(0)
-    rocket.shape("circle")
-    rocket.color(color)
-    rocket.shapesize(stretch_wid=5, stretch_len=0.5)
     rocket.penup()
-    rocket.goto(x=position, y=0)
+    rocket.goto(x=position, y=50)
+    rocket.pendown()
+    rocket.color(color)
+    rocket.begin_fill()
+    for y in range(-50, 51):
+        rocket.circle(4, steps=360)
+        rocket.goto(x=position, y=y)
+    rocket.end_fill()
+    rocket.hideturtle()
     return rocket
 
 
 def create_ball(ball_color):
     ball = turtle.Turtle()
     ball.speed(4)
-    ball.shape("circle")
     ball.color(ball_color)
+    ball.begin_fill()
+    ball.circle(12, steps=360)
+    ball.end_fill()
+    ball.hideturtle()
     ball.penup()
     return ball
 
