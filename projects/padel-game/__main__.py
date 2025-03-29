@@ -10,7 +10,7 @@ from score import create_score_board, show_scores
 if __name__ == '__main__':
 
     # Create screen - ساخت صفحه بازی
-    screen = create_screen(1000, 600, bg_color)
+    screen = create_screen(1000, 600)
     # Create Left rocket - ساخت راکت سمت چپ
     left_pad = create_rocket(-490, player_left_color)
     # Create Right rocket - ساخت راکت سمت راست

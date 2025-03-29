@@ -1,5 +1,5 @@
 import turtle
-from turtle import _Screen
+from colors import *
 
 # Create scence elements: Screen, Ball, Rockets
 
@@ -13,7 +13,7 @@ from turtle import _Screen
 # Hint: You can read documentations: https://docs.python.org/3/library/turtle.html#turtle.shapesize
 
 
-def create_screen(width, height, bg_color):
+def create_screen(width, height):
     screen = turtle.Screen()
     screen.title("Paddle Game")
     screen.bgcolor(bg_color)
