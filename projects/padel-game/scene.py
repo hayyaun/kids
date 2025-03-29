@@ -26,19 +26,12 @@ def create_screen(width, height):
 
 def create_rocket(position, color):
     rocket = turtle.Turtle()
-    rocket.penup()
-    rocket.goto(x=position, y=50)
-    rocket.pendown()
+    rocket.speed(0)
+    rocket.shape("square")
     rocket.color(color)
-    rocket.begin_fill()
-    rocket.circle(5, steps=360)
-    rocket.goto(x=position, y=-50)
-    rocket.circle(5, steps=360)
-    rocket.end_fill()
-    rocket.goto(x=position, y=3)
-    rocket.shape('square')
-    rocket.shapesize(stretch_len=0.5, stretch_wid=5)
+    rocket.shapesize(stretch_wid=5, stretch_len=0.5)
     rocket.penup()
+    rocket.goto(x=position, y=0)
     return rocket
 
 
