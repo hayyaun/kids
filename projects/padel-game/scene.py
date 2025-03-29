@@ -31,11 +31,14 @@ def create_rocket(position, color):
     rocket.pendown()
     rocket.color(color)
     rocket.begin_fill()
-    for y in range(-50, 51):
-        rocket.circle(4, steps=360)
-        rocket.goto(x=position, y=y)
+    rocket.circle(5, steps=360)
+    rocket.goto(x=position, y=-50)
+    rocket.circle(5, steps=360)
     rocket.end_fill()
-    rocket.hideturtle()
+    rocket.goto(x=position, y=3)
+    rocket.shape('square')
+    rocket.shapesize(stretch_len=0.5, stretch_wid=5)
+    rocket.penup()
     return rocket
 
 
