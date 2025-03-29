@@ -83,14 +83,14 @@ def create_lines():
     lines.goto(x=490, y=295)
     # افقی بالا
     lines.penup()
-    lines.goto(x=-1000, y=295)
+    lines.goto(x=-495, y=295)
     lines.pendown()
-    lines.goto(x=1000, y=295)
+    lines.goto(x=490, y=295)
     # افقی پایین
     lines.penup()
-    lines.goto(x=-1000, y=-289)
+    lines.goto(x=-495, y=-289)
     lines.pendown()
-    lines.goto(x=1000, y=-289)
+    lines.goto(x=490, y=-289)
     # مخفی کردن ترتل و اتمام
     lines.hideturtle()
     return lines
