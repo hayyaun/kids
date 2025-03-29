@@ -35,6 +35,8 @@ if __name__ == '__main__':
     # تابعی که در صورت تغییرات امتیازات باید صدا شود
     def update_scores(): return show_scores(score_board, scores)
 
+    screen.update()  # اعمال تغییرات
+
     ### PAHSE 2 - Barbode ###
 
     # Keyboard bindings - for rocket movement - حرکت راکت با کیبورد
@@ -42,7 +44,6 @@ if __name__ == '__main__':
 
     ### PAHSE 5 - Haman, Sepehrad ###
 
-    screen.update()  # اعمال تغییرات
     time.sleep(5)  # 5 ثانیه زمان قبل از صوت داور
     ref_whistle_sfx()  # صوت آغاز توسط داور
 
