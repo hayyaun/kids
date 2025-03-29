@@ -5,7 +5,7 @@ from borders import check_ball_hit_borders
 from rockets import check_ball_hit_rocket
 from keys import add_keyboard_bindings
 from scene import create_ball, create_rocket, create_screen
-from score import create_score_board, show_scores
+from board import create_score_board, show_scores
 from sfx import ref_whistle_sfx
 
 if __name__ == '__main__':

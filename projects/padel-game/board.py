@@ -15,9 +15,9 @@ def create_score_board(scores):
     # main box - مستطیل تابلوی امتیازات
     draw_colored_box(score_board, black, -137, 263, 250, 27)
     # Left color box - مستطیل رنگی چپ
-    draw_colored_box(score_board, bg_color, -54, 263, 3, 27)
+    draw_colored_box(score_board, "black", -54, 263, 2, 27)
     # Right color box - کستطیل رنگی راست
-    draw_colored_box(score_board, bg_color, 18, 263, 3, 27)
+    draw_colored_box(score_board, "black", 18, 263, 2, 27)
 
     # Write texts - نوشتن متن ها
     writeTexts(score_board)
