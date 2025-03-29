@@ -12,9 +12,9 @@ if __name__ == '__main__':
     # Create screen - ساخت صفحه بازی
     screen = create_screen(1000, 600)
     # Create Left rocket - ساخت راکت سمت چپ
-    left_pad = create_rocket(-480, player_left_color)
+    left_rocket = create_rocket(-480, player_left_color)
     # Create Right rocket - ساخت راکت سمت راست
-    right_pad = create_rocket(475, player_right_color)
+    right_rocket = create_rocket(475, player_right_color)
 
     # Create a Ball - ساخت توپ
     ball = create_ball(ball_color)
@@ -35,7 +35,7 @@ if __name__ == '__main__':
     def update_scores(): return show_scores(score_board, scores)
 
     # Keyboard bindings - for rocket movement - حرکت راکت با کیبورد
-    add_keyboard_bindings(screen, left_pad, right_pad)
+    add_keyboard_bindings(screen, left_rocket, right_rocket)
 
     # Main game loop - حلقه اصلی بازی
     while True:
@@ -50,7 +50,7 @@ if __name__ == '__main__':
         ball.sety(ball.ycor() + ball.dy)
 
         # Checking ball hit borders - بررسی برخورد توپ با کناره های زمین (برگشت/امتیاز)
-        # check_ball_hit_borders(ball, 480, 280, scores, update_scores)
+        check_ball_hit_borders(ball, 480, 280, scores, update_scores)
 
         # Rocket ball collision - بررسی برخورد توپ با راکت ها
-        # check_ball_hit_rocket(ball, left_pad, right_pad)
+        # check_ball_hit_rocket(ball, left_rocket, right_rocket)
