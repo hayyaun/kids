@@ -42,5 +42,9 @@ def create_ball(ball_color):
     return ball
 
 
-def disable_resize():
-    turtle.resizemode(rmode="noresize")
+def create_lines():
+    lines = turtle.Turtle()
+
+    # TODO
+
+    return lines
