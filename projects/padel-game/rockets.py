@@ -1,16 +1,16 @@
 import turtle
 
 
-def check_ball_hit_rocket(ball: turtle.Turtle, left_pad, right_pad):
+def check_ball_hit_rocket(ball: turtle.Turtle, left_rocket: turtle.Turtle, right_rocket: turtle.Turtle):
     ''' متغیر های مورد نیاز برای محاسبات '''
 
     ball_x = ball.xcor()  # موقعیت افقی توپ
     ball_y = ball.ycor()  # موقعیت عمودی توپ
 
-    left_rocket_x = left_pad.xcor()  # موقعیت افقی راکت چپ
-    left_rocket_y = left_pad.ycor()  # موقعیت عمودی راکت چپ
-    right_rocket_x = right_pad.xcor()  # موقعیت افقی راکت راست
-    right_rocket_y = right_pad.ycor()  # موقعیت عمودی راکت راست
+    left_rocket_x = left_rocket.xcor()  # موقعیت افقی راکت چپ
+    left_rocket_y = left_rocket.ycor()  # موقعیت عمودی راکت چپ
+    right_rocket_x = right_rocket.xcor()  # موقعیت افقی راکت راست
+    right_rocket_y = right_rocket.ycor()  # موقعیت عمودی راکت راست
 
     ''' محاسبات اصلی '''
 
