@@ -1,9 +1,10 @@
+import turtle
 
 
 # Functions to move rocket
 
 
-def rocket_up(rocket):
+def rocket_up(rocket: turtle.Turtle):
     y = rocket.ycor()  # موقعیت عمودی راکت
     # اگه راکت انقد از صفحه بالا رفت که خارج داشت میشد
     if y > 250:
@@ -13,7 +14,7 @@ def rocket_up(rocket):
     # TODO
 
 
-def rocket_down(rocket):
+def rocket_down(rocket: turtle.Turtle):
     y = rocket.ycor()  # موقعیت عمودی راکت
     # اگه راکت انقد از صفحه پایین رفت که خارج داشت میشد
     if y < -240:
