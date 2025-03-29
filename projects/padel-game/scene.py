@@ -74,7 +74,7 @@ def game_version():
     writer.penup()
     writer.goto(420, -280)
     writer.pendown()
-    writer.color("Gray20")
+    writer.color("lightgrey")
     writer.write("version 1.0.0",
                  font="Bahnschrift_Light", align="center")
     writer.hideturtle()
@@ -86,7 +86,7 @@ def paddle_game():
     txt.penup()
     txt.goto(0, 0)
     txt.pendown()
-    txt.color("Gray20")
+    txt.color("lightgrey")
     txt.write("Paddle Game", font="shabnam", align="center")
     txt.hideturtle()
     return txt

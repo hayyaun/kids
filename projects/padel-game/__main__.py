@@ -53,4 +53,4 @@ if __name__ == '__main__':
         check_ball_hit_borders(ball, 480, 280, scores, update_scores)
 
         # Rocket ball collision - بررسی برخورد توپ با راکت ها
-        # check_ball_hit_rocket(ball, left_rocket, right_rocket)
+        check_ball_hit_rocket(ball, left_rocket, right_rocket)

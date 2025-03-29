@@ -16,7 +16,7 @@ def check_ball_hit_rocket(ball: turtle.Turtle, left_rocket: turtle.Turtle, right
 
     # 1. بررسی برخورد توپ با راکت سمت چپ
     # اگه توپ هم از لحاظ افقی و هم عمودی نزدیک راکت بود: توپ برمیگرده
-    if ...:  # TODO
+    if False:  # TODO
         # منظور از نزدیک بودن افقی یعنی
         # (left_rocket_x - 5 < ball_x < left_rocket_x + 5)
         # منظور از نزدیک بودن عمودی یعنی
