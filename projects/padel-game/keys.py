@@ -4,23 +4,23 @@
 
 
 def rocket_up(rocket):
-    y = rocket.ycor()
-    # check if rocket y is less than 250
+    y = rocket.ycor()  # موقعیت عمودی راکت
+    # اگه راکت انقد از صفحه بالا رفت که خارج داشت میشد
     if y > 250:
         return  # stop
 
-    # TODO then move rocket up +20 and set y
-    print("rocket up")
+    # move rocket up +20 and set y
+    # TODO
 
 
 def rocket_down(rocket):
-    y = rocket.ycor()
-    # check if rocket y is bigger than -240
+    y = rocket.ycor()  # موقعیت عمودی راکت
+    # اگه راکت انقد از صفحه پایین رفت که خارج داشت میشد
     if y < -240:
         return  # stop
 
-    # TODO then move rocket down -20 and set y
-    print("rocket down")
+    # move rocket down -20 and set y
+    # TODO
 
 
 # Create Keyboard Bindings to move rockets
@@ -36,7 +36,12 @@ def add_keyboard_bindings(screen, left_rocket, right_rocket):
     # Hint: You can check documentations: https://docs.python.org/3/library/turtle.html#turtle.onkeypress
 
     screen.listen()
-    # TODO listen for key 'w' and call rocket_left_up
-    # TODO listen for key 's' and call rocket_left_down
-    # TODO listen for key 'Up' and call rocket_right_up
-    # TODO listen for key 'Down' and call rocket_right_up
+    # به ازای فشار داده شدن هر کلید زیر تابع مربوط بهش رو صدا کن
+    # key 'w' -> call rocket_left_up
+    # TODO
+    # key 's' -> call rocket_left_down
+    # TODO
+    # key 'Up' -> call rocket_right_up
+    # TODO
+    # key 'Down' -> call rocket_right_up
+    # TODO
