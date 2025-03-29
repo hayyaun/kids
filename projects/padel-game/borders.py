@@ -22,7 +22,7 @@ def check_ball_hit_borders(ball: turtle.Turtle, lim_x: int, lim_y: int, scores: 
     border_top_y = lim_y  # موقعیت عمودی دیوار بالا
     border_bottom_y = -lim_y  # موقعیت عمودی دیوار پایین
 
-    """ دیوار های عمودی (بالا/پایین) """
+    """ دیوار های افقی (بالا/پایین) """
 
     # 1. اگه توپ به دیوار بالا برخورد کنه برمیگرده
     # منظور از برخورد با دیوار بالا یعنی: ball_y > border_top_y
@@ -40,7 +40,7 @@ def check_ball_hit_borders(ball: turtle.Turtle, lim_x: int, lim_y: int, scores: 
     # همچنین باید به محل قبلی برای شروع مجدد برگرده
     # TODO
 
-    """ دیوار های افقی (چپ/راست) """
+    """ دیوار های عمودی (چپ/راست) """
 
     # 3. اگه توپ به دیوار سمت چپ برخورد کرد -> امتیاز بازیکن راست
     # منظور از برخورد با دیوار چپ یعنی: ball_x < border_left_x
