@@ -9,15 +9,15 @@ def create_score_board(scores):
 
     # Create main box - ساخت جعبه ی اصلی
     # Left triangle - مثلث چپ
-    create_triangle(score_board, -153)
+    create_triangle(score_board, -133 - 2)
     # Right triangle - مثلث راست
-    create_triangle(score_board, 99)
+    create_triangle(score_board, 119 - 2)
     # main box - مستطیل تابلوی امتیازات
-    draw_colored_box(score_board, black, -137, 263, 250, 27)
+    draw_colored_box(score_board, black, -117 - 2, 263, 250, 27)
     # Left color box - مستطیل رنگی چپ
-    draw_colored_box(score_board, "black", -54, 263, 2, 27)
-    # Right color box - کستطیل رنگی راست
-    draw_colored_box(score_board, "black", 18, 263, 2, 27)
+    draw_colored_box(score_board, "black", -34 - 2, 263, 2, 27)
+    # Right color box - مستطیل رنگی راست
+    draw_colored_box(score_board, "black", 38 - 2, 263, 2, 27)
 
     # Write texts - نوشتن متن ها
     writeTexts(score_board)
@@ -27,14 +27,14 @@ def create_score_board(scores):
         light_color = white
         if scores["left"] > i:
             light_color = player_left_color
-        draw_circle(score_board, light_color, -105 + 10*i)
+        draw_circle(score_board, light_color, -85 - 2 + 10*i)
 
     # Right player lights - چراغ های بازیکن سمت راست
     for i in range(5):
         light_color = white
         if scores["right"] > i:
             light_color = player_right_color
-        draw_circle(score_board, light_color, 75 - 10*i)
+        draw_circle(score_board, light_color, 95 - 2 - 10*i)
 
     turtle.hideturtle()
     return score_board
@@ -91,21 +91,21 @@ def writeTexts(t: turtle.Turtle):
 
     # نوشتن کلمه ی «پدل» در وسط تابلوی امتیازات
     t.penup()
-    t.goto(-45, 274)
+    t.goto(-25 - 2, 274)
     t.pendown()
     t.color(white)
     t.write("PADEL", font=("Lucida Handwriting", 7, "bold"))
 
     # نوشتن کلمه ی «بازی های» در وسط تابلوی امتیازات
     t.penup()
-    t.goto(-20, 268)
+    t.goto(-0 - 2, 268)
     t.pendown()
     t.color(white)
     t.write("GAMES", font=("Algerian", 7, "bold"))
 
     # نوشتن کلمه ی «بازیکن شماره یک» در سمت چپ تابلوی امتیازات
     t.penup()
-    t.goto(-112, 273)
+    t.goto(-92 - 2, 273)
     t.pendown()
     t.color(player_left_color)
     t.write("PLAYER 1", font=("Arial", 8, "bold"))
@@ -113,7 +113,7 @@ def writeTexts(t: turtle.Turtle):
 
     # نوشتن کلمه ی «بازیکن شماره دو» در سمت راست تابلوی امتیازات
     t.penup()
-    t.goto(34, 273)
+    t.goto(54 - 2, 273)
     t.pendown()
     t.color(player_right_color)
     t.write("PLAYER 2", font=("Arial", 8, "bold"))
@@ -127,6 +127,6 @@ def draw_circle(t: turtle.Turtle, color, x):
     t.pendown()
     t.color(color)
     t.begin_fill()
-    t.circle(3)
+    t.circle(3, steps=360)
     t.end_fill()
     t.hideturtle()
