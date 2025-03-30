@@ -6,7 +6,7 @@ from rockets import check_ball_hit_rocket
 from keys import add_keyboard_bindings
 from scene import create_ball, create_rocket, create_screen
 from board import create_score_board, show_scores
-from sfx import ref_whistle_sfx
+from sfx import ref_whistle_sfx, timer_sfx
 
 if __name__ == '__main__':
 
@@ -35,8 +35,6 @@ if __name__ == '__main__':
     # تابعی که در صورت تغییرات امتیازات باید صدا شود
     def update_scores(): return show_scores(score_board, scores)
 
-    screen.update()  # اعمال تغییرات
-
     ### PAHSE 2 - Barbode ###
 
     # Keyboard bindings - for rocket movement - حرکت راکت با کیبورد
@@ -44,7 +42,12 @@ if __name__ == '__main__':
 
     ### PAHSE 5 - Haman, Sepehrad ###
 
-    time.sleep(5)  # 5 ثانیه زمان قبل از صوت داور
+    # 5 ثانیه زمان قبل از صوت داور
+    for _ in range(500):
+        timer_sfx()
+        screen.update()  # اعمال تغییرات
+        time.sleep(0.01)
+
     ref_whistle_sfx()  # صوت آغاز توسط داور
 
     # Main game loop - حلقه اصلی بازی
