@@ -24,6 +24,6 @@ def check_ball_hit_rocket(ball: turtle.Turtle, left_rocket: turtle.Turtle, right
 
     # 2. بررسی برخورد توپ با راکت سمت راست
     # مراحل قبل این بار برای راکت سمت راست تکرار میشه...
-    if (right_rocket_x-5 < ball_x < right_rocket_x+5) and (right_rocket_y-50 < ball_y < right_rocket_y+50):
+    if (right_rocket_x - 5 < ball_x < right_rocket_x + 5) and (right_rocket_y - 50 < ball_y < right_rocket_y + 50):
         ball.dx *= -1
         ball.setx(right_rocket_x)
