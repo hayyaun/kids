@@ -42,7 +42,7 @@ def check_ball_hit_borders(ball: turtle.Turtle, lim_x: int, lim_y: int, scores: 
 
     # 3. اگه توپ به دیوار سمت چپ برخورد کرد -> امتیاز بازیکن راست
     # منظور از برخورد با دیوار چپ یعنی: ball_x < border_left_x
-    if False:  # TODO
+    if ball_x < border_left_x:
         # Reset Ball Position - شروع مجدد توپ
         reset_ball_position(ball)
         # Right player Scored - بازیکن راست امتیاز گرفت
@@ -52,10 +52,10 @@ def check_ball_hit_borders(ball: turtle.Turtle, lim_x: int, lim_y: int, scores: 
 
     # 4. اگه توپ به دیوار سمت راست برخورد کرد -> امتیاز بازیکن چپ
     # منظور از برخورد با دیوار راست یعنی: ball_x > border_right_x
-    if False:  # TODO
+    if ball_x > border_right_x:
         # Reset Ball Position - شروع مجدد توپ
         reset_ball_position(ball)
         # Left player Scored - بازیکن چپ امتیاز گرفت
-        # TODO
+        scores["left"] += 1
         # update scores - اعلام تغییرات به تابلو امتیازات
-        # TODO
+        update_scores()
