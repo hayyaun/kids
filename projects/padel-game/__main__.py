@@ -13,7 +13,7 @@ if __name__ == '__main__':
     ### PAHSE 1 - Noyan, Mehdi ###
 
     # Create screen - ساخت صفحه بازی
-    screen = create_screen(1000, 600)
+    screen = create_screen(width=1000, height=600)
     # Create Left rocket - ساخت راکت سمت چپ
     left_rocket = create_rocket(-480, player_left_color)
     # Create Right rocket - ساخت راکت سمت راست
@@ -31,9 +31,8 @@ if __name__ == '__main__':
 
     # Displays the score board - ساخت تابلو امتیازات
     score_board = create_score_board(scores)
-    show_scores(score_board, scores)
     # تابعی که در صورت تغییرات امتیازات باید صدا شود
-    def update_scores(): return show_scores(score_board, scores)
+    update_scores = show_scores(score_board, scores)
 
     ### PAHSE 2 - Barbode ###
 

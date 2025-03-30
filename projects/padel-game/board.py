@@ -45,6 +45,10 @@ def show_scores(score_board, scores):
     score_board.clear()
     create_score_board(scores)
 
+    # تابعی که در صورت تغییرات امتیازات باید صدا شود
+    def update_scores(): return show_scores(score_board, scores)
+    return update_scores
+
 
 # NIKAN - نیکان
 

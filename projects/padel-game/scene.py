@@ -24,14 +24,14 @@ def create_screen(width, height):
     return screen
 
 
-def create_rocket(position, color):
+def create_rocket(x, color):
     rocket = turtle.Turtle()
     rocket.speed(0)
     rocket.shape("square")
     rocket.color(color)
     rocket.shapesize(stretch_wid=5, stretch_len=0.5)
     rocket.penup()
-    rocket.goto(x=position, y=0)
+    rocket.goto(x=x, y=0)
     return rocket
 
 
