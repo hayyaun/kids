@@ -42,10 +42,10 @@ if __name__ == '__main__':
     ### PAHSE 5 - Haman, Sepehrad ###
 
     # 5 ثانیه زمان قبل از صوت داور
-    for _ in range(500):
-        timer_sfx()
+    for _ in range(3):
+        timer_sfx()  # صدای بوق قبل از شروع
         screen.update()  # اعمال تغییرات
-        time.sleep(0.01)
+        time.sleep(1)
 
     ref_whistle_sfx()  # صوت آغاز توسط داور
 
