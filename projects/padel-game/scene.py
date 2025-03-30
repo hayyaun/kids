@@ -39,10 +39,7 @@ def create_ball(ball_color):
     ball = turtle.Turtle()
     ball.speed(4)
     ball.color(ball_color)
-    ball.begin_fill()
-    ball.circle(12, steps=360)
-    ball.end_fill()
-    ball.hideturtle()
+    ball.shape('circle')
     ball.penup()
     return ball
 
