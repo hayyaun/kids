@@ -7,6 +7,7 @@ from keys import add_keyboard_bindings
 from scene import create_ball, create_rocket, create_screen
 from board import create_score_board, show_scores
 from sfx import ref_whistle_sfx, timer_sfx
+from buttons import show_pause_btn, show_reset_btn
 
 if __name__ == '__main__':
 
@@ -23,6 +24,11 @@ if __name__ == '__main__':
     ball = create_ball(ball_color)
     ball.dx = 5  # سرعت افقی توپ
     ball.dy = -5  # سرعت عمودی توپ
+
+    ### PHASE 6 - Ali, Noyan ###
+
+    pause_btn = show_pause_btn()
+    reset_btn = show_reset_btn(None, True)  # TODO False
 
     ### PAHSE 3 - Nikan ###
 
