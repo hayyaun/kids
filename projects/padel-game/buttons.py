@@ -14,10 +14,11 @@ def show_reset_btn(reset_btn: turtle.Turtle | None, show: bool):
     # اگه حالت جدید با قبل فرف داشت پس جدید رو نشون بده
     # 2. ذخیره حالت جدید در دکمه
     reset_btn.show = show
-    # 3. clean previous reset_btn
+    # 3. clear previous reset_btn
     # دکمه ریست قبلی « در صورت وجود » پاک بشه
-    # TODO
-    # 4. اگه حالت نمایش خاموش بود جدیده رو رسم نکن
+    if reset_btn != None:
+        reset_btn.clear()
+    # 4. اگه حالت نمایش خاموش بود دکمه جدیدی رسم نکن
     if show == False:
         return reset_btn
     # 5. create new_reset_btn

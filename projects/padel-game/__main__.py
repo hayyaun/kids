@@ -27,8 +27,8 @@ if __name__ == '__main__':
 
     ### PHASE 6 - Ali, Noyan ###
 
+    reset_btn_visible = True
     pause_btn = show_pause_btn()
-    reset_btn = show_reset_btn(None, True)  # TODO False
 
     ### PAHSE 3 - Nikan ###
 
@@ -68,6 +68,9 @@ if __name__ == '__main__':
         ball.setx(ball.xcor() + ball.dx)
         # به اندازه سرعتی که داری برو بالا/پایین
         ball.sety(ball.ycor() + ball.dy)
+
+        # Update reset button - تغییر نمایش دکمه شروع مجدد
+        reset_btn = show_reset_btn(reset_btn, reset_btn_visible)
 
         ### PAHSE 4 - Mehdi, Abbas ###
 
