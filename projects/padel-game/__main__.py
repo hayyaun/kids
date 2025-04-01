@@ -29,6 +29,7 @@ if __name__ == '__main__':
 
     reset_btn_visible = True
     pause_btn = show_pause_btn()
+    reset_btn = show_reset_btn(None, reset_btn_visible)
 
     ### PAHSE 3 - Nikan ###
 
