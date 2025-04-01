@@ -7,15 +7,14 @@ from turtle import _Screen
 def rocket_left(rocket, limit):
     x = rocket.xcor()
     if x < limit:
-        return
+        return  # stop
     rocket.setx(x - 20)
 
 
 def rocket_right(rocket, limit):
     x = rocket.xcor()
-
     if x > limit:
-        return
+        return  # stop
     rocket.setx(x + 20)
 
 
